@@ -20,6 +20,8 @@ Quick Link
 [Website]:https://wjsutton.github.io/
 
 
+### Solutions
+
 | Challenge     | My Solution |
 | ----------- | ----------- |
 | [2021 Week 01](https://preppindata.blogspot.com/2021/01/2021-week-1.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-01.py)       |
