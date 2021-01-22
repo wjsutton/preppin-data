@@ -26,3 +26,4 @@ Quick Link
 | ----------- | ----------- |
 | [2021 Week 01](https://preppindata.blogspot.com/2021/01/2021-week-1.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-01.py)       |
 | [2021 Week 02](https://preppindata.blogspot.com/2021/01/2021-week-2.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-02.py)       |
+| [2021 Week 03](https://preppindata.blogspot.com/2021/01/2021-week-3.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-03.py)       |
