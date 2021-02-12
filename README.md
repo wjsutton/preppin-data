@@ -29,3 +29,4 @@ Quick Link
 | [2021 Week 03](https://preppindata.blogspot.com/2021/01/2021-week-3.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-03.py)       |
 | [2021 Week 04](https://preppindata.blogspot.com/2021/01/2021-week-4.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-04.py)       |
 | [2021 Week 05](https://preppindata.blogspot.com/2021/02/2021-week-5-dealing-with-duplication.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-05.py)       |
+| [2021 Week 06](https://preppindata.blogspot.com/2021/02/2021-week-6-comparing-prize-money-for.html)      |        |
