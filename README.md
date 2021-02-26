@@ -31,3 +31,4 @@ Quick Link
 | [2021 Week 05](https://preppindata.blogspot.com/2021/02/2021-week-5-dealing-with-duplication.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-05.py)       |
 | [2021 Week 06](https://preppindata.blogspot.com/2021/02/2021-week-6-comparing-prize-money-for.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-06.py)       |
 | [2021 Week 07](https://preppindata.blogspot.com/2021/02/2021-week-7-vegan-shopping-list.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-07.py)       |
+| [2021 Week 08](https://preppindata.blogspot.com/2021/02/2021-week-8-karaoke-data.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-08.py)       |
