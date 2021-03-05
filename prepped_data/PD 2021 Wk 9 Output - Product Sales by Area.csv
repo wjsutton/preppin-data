@@ -1,0 +1,752 @@
+Customer Phone Number,Area,Quantity,Product Code,Product ID,Product Name,Price,Value,Total
+234175,Matlock,77.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,500.5
+158593,Matlock,4.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,26.0
+008091,Matlock,16.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,104.0
+981003,Matlock,3.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,19.5
+300371,Kings Lynn,60.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,390.0
+820705,Kings Lynn,61.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,396.5
+001519,Kings Lynn,92.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,598.0
+224497,Kings Lynn,45.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,292.5
+632408,Sunderland,77.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,500.5
+323488,Sunderland,37.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,240.5
+457217,Sunderland,6.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,39.0
+870560,Sunderland,87.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,565.5
+175880,Sunderland,36.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,234.0
+027553,Sunderland,6.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,39.0
+160038,Sunderland,95.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,617.5
+785374,Edinburgh,72.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,468.0
+198042,Edinburgh,20.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,130.0
+225917,Edinburgh,76.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,494.0
+961467,Ullapool,1.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,6.5
+720201,Ullapool,5.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,32.5
+384890,Ullapool,70.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,455.0
+691229,Ullapool,93.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,604.5
+004866,Ullapool,42.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,273.0
+599936,Ullapool,42.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,273.0
+445299,Lowestoft,39.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,253.5
+967376,Lowestoft,92.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,598.0
+672850,Lowestoft,68.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,442.0
+989550,Lowestoft,70.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,455.0
+834784,Lowestoft,97.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,630.5
+456040,Lowestoft,58.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,377.0
+108583,Ashford (Kent),7.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,45.5
+225285,Ashford (Kent),21.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,136.5
+613838,Ashford (Kent),54.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,351.0
+174405,Ashford (Kent),4.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,26.0
+563739,Ashford (Kent),25.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,162.5
+268889,St Helens,81.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,526.5
+623437,St Helens,64.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,416.0
+551322,St Helens,33.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,214.5
+005123,St Helens,42.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,273.0
+180953,St Helens,56.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,364.0
+318577,St Helens,19.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,123.5
+717350,St Helens,55.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,357.5
+165963,Castle Douglas,15.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,97.5
+169985,Castle Douglas,33.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,214.5
+121078,Castle Douglas,36.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,234.0
+687490,Castle Douglas,59.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,383.5
+325179,Castle Douglas,63.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,409.5
+737623,Worthing,82.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,533.0
+411920,Worthing,23.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,149.5
+490785,Worthing,5.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,32.5
+284019,Worthing,64.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,416.0
+981985,Maidstone,25.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,162.5
+396082,Maidstone,26.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,169.0
+035714,Maidstone,93.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,604.5
+222065,Maidstone,74.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,481.0
+244254,Maidstone,64.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,416.0
+680462,St Andrews,16.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,104.0
+270772,St Andrews,99.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,643.5
+848403,St Andrews,64.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,416.0
+417613,St Andrews,73.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,474.5
+432138,St Andrews,20.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,130.0
+480464,St Andrews,24.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,156.0
+117849,Ellon,7.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,45.5
+375503,Ellon,41.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,266.5
+313053,Ellon,44.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,286.0
+058182,Dorchester,75.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,487.5
+486478,Dorchester,82.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,533.0
+048166,Dorchester,80.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,520.0
+660140,Dorchester,67.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,435.5
+898253,Dorchester,9.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,58.5
+313691,Dorchester,83.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,539.5
+573480,Dorchester,72.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,468.0
+795584,Dorchester,71.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,461.5
+059650,Aberdeen,20.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,130.0
+432560,Aberdeen,21.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,136.5
+055483,Aberdeen,10.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,65.0
+629215,Aberdeen,71.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,461.5
+640267,Kettering,96.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,624.0
+847174,Kettering,91.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,591.5
+602780,Kettering,75.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,487.5
+264904,Kettering,54.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,351.0
+201021,Kettering,15.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,97.5
+846167,Kettering,69.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,448.5
+098358,Kettering,34.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,221.0
+940880,Kettering,3.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,19.5
+043091,Knighton,58.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,377.0
+442772,Knighton,77.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,500.5
+347482,Knighton,56.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,364.0
+897153,Knighton,72.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,468.0
+964668,Sanquhar,17.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,110.5
+898979,Sanquhar,77.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,500.5
+101975,Sanquhar,80.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,520.0
+416397,Sanquhar,41.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,266.5
+218054,Sanquhar,71.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,461.5
+354152,Sanquhar,41.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,266.5
+595203,Sanquhar,88.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,572.0
+054149,Sanquhar,97.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,630.5
+584593,Holbeach,48.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,312.0
+056585,Darlington,30.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,195.0
+379940,Darlington,36.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,234.0
+953377,Darlington,9.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,58.5
+425963,Darlington,14.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,91.0
+924627,Darlington,2.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,13.0
+004492,Wetherby,77.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,500.5
+545153,Wetherby,58.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,377.0
+641053,Wetherby,23.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,149.5
+204957,Wetherby,13.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,84.5
+027397,Wetherby,55.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,357.5
+439920,Thornhill,90.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,585.0
+870525,Thornhill,81.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,526.5
+355357,Thornhill,55.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,357.5
+593668,Thornhill,40.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,260.0
+950160,Thornhill,27.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,175.5
+029318,Thornhill,30.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,195.0
+325731,Thornhill,74.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,481.0
+418284,Manchester,53.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,344.5
+287848,Manchester,64.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,416.0
+365224,Manchester,65.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,422.5
+056180,Manchester,76.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,494.0
+759294,Market Weighton,13.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,84.5
+634233,Market Weighton,12.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,78.0
+987270,Market Weighton,98.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,637.0
+994265,Market Weighton,52.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,338.0
+792308,St Austell,7.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,45.5
+755089,St Austell,12.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,78.0
+860416,St Austell,37.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,240.5
+039211,St Austell,69.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,448.5
+461816,St Austell,75.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,487.5
+282850,St Austell,76.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,494.0
+259516,Helmsley,40.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,260.0
+950749,Helmsley,95.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,617.5
+937331,Helmsley,0.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,0.0
+874711,Helmsley,11.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,71.5
+928082,Helmsley,32.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,208.0
+580701,Helmsley,44.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,286.0
+549080,Helmsley,26.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,169.0
+663772,Helmsley,29.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,188.5
+989939,Cemmaes Road,43.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,279.5
+154345,Cemmaes Road,97.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,630.5
+489784,Cemmaes Road,94.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,611.0
+977264,Cemmaes Road,29.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,188.5
+026955,Cemmaes Road,23.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,149.5
+606667,Ardgay,57.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,370.5
+249537,Ardgay,44.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,286.0
+060755,Ardgay,94.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,611.0
+801958,Ardgay,44.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,286.0
+380953,Ardgay,43.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,279.5
+763916,Holsworthy,3.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,19.5
+521502,Holsworthy,60.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,390.0
+049993,Holsworthy,88.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,572.0
+603713,Holsworthy,64.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,416.0
+794474,Holsworthy,47.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,305.5
+385029,Holsworthy,63.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,409.5
+451800,Arbroath,40.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,260.0
+850427,Arbroath,2.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,13.0
+184344,Arbroath,55.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,357.5
+692553,Arbroath,68.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,442.0
+016168,Arbroath,68.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,442.0
+270615,Arbroath,79.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,513.5
+435937,Arbroath,29.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,188.5
+583159,Arbroath,32.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,208.0
+528050,Insch,43.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,279.5
+181419,Insch,64.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,416.0
+277183,Insch,16.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,104.0
+342629,Insch,74.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,481.0
+575300,Insch,25.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,162.5
+998018,Insch,75.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,487.5
+258042,Insch,67.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,435.5
+308891,Insch,97.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,630.5
+316238,Enniskillen,36.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,234.0
+035271,Enniskillen,77.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,500.5
+974765,Enniskillen,65.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,422.5
+980041,Enniskillen,6.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,39.0
+272459,Enniskillen,2.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,13.0
+630245,Inverurie,42.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,273.0
+915290,Inverurie,76.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,494.0
+114148,Inverurie,10.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,65.0
+572458,Inverurie,13.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,84.5
+901065,Inverurie,68.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,442.0
+202591,Newton Stewart,1.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,6.5
+804684,Thurso,67.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,435.5
+033751,Thurso,92.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,598.0
+006714,Thurso,2.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,13.0
+735280,Thurso,77.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,500.5
+145924,Haverfordwest,21.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,136.5
+160148,Haverfordwest,4.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,26.0
+955467,Haverfordwest,36.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,234.0
+593950,Haverfordwest,90.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,585.0
+351646,Haverfordwest,26.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,169.0
+453740,Haverfordwest,97.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,630.5
+437239,Wrexham,51.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,331.5
+097452,Wrexham,51.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,331.5
+764243,Tongue,33.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,214.5
+393483,Tongue,88.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,572.0
+541970,Tongue,38.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,247.0
+376513,Tongue,68.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,442.0
+366092,Tongue,77.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,500.5
+108937,Tongue,38.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,247.0
+034472,Guernsey,21.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,136.5
+394408,Guernsey,42.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,273.0
+617689,Guernsey,90.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,585.0
+294420,Guernsey,10.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,65.0
+394111,Guernsey,48.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,312.0
+251555,Guernsey,79.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,513.5
+242879,Huddersfield,11.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,71.5
+706905,Huddersfield,14.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,91.0
+183605,Merthyr Tydfil,48.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,312.0
+785010,Merthyr Tydfil,71.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,461.5
+287483,Merthyr Tydfil,83.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,539.5
+958542,Merthyr Tydfil,95.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,617.5
+311654,Merthyr Tydfil,42.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,273.0
+552494,Merthyr Tydfil,70.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,455.0
+235092,Rugby,24.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,156.0
+792667,Rugby,82.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,533.0
+907166,Rugby,49.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,318.5
+005763,Rugby,4.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,26.0
+603164,Rugby,87.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,565.5
+863791,Rugby,43.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,279.5
+592264,Rugby,13.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,84.5
+351526,Colwyn Bay,78.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,507.0
+998335,Colwyn Bay,49.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,318.5
+064507,Colwyn Bay,50.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,325.0
+075787,Colwyn Bay,28.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,182.0
+384751,Colwyn Bay,63.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,409.5
+317190,Colwyn Bay,57.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,370.5
+367101,Colwyn Bay,40.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,260.0
+330033,Colwyn Bay,11.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,71.5
+553541,Great Yarmouth,58.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,377.0
+198666,Great Yarmouth,87.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,565.5
+178333,Great Yarmouth,38.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,247.0
+496315,Lydney,70.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,455.0
+807049,Lydney,18.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,117.0
+343206,Lydney,93.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,604.5
+296752,Lydney,86.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,559.0
+197499,Lydney,58.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,377.0
+672836,Lydney,16.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,104.0
+373057,Aylesbury,51.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,331.5
+930603,Aylesbury,85.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,552.5
+356236,Aylesbury,89.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,578.5
+074566,Aylesbury,39.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,253.5
+758568,Aylesbury,66.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,429.0
+448856,Aylesbury,77.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,500.5
+102844,Millom,39.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,253.5
+167311,Millom,67.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,435.5
+769374,Millom,71.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,461.5
+116289,Millom,34.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,221.0
+942184,Millom,67.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,435.5
+252805,Millom,5.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,32.5
+789361,Inveraray,58.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,377.0
+155953,Inveraray,22.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,143.0
+483384,Inveraray,63.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,409.5
+452937,Inveraray,74.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,481.0
+202361,Inveraray,48.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,312.0
+560776,Inveraray,9.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,58.5
+155755,Inveraray,35.0,SPL,SPL,"Soap, Liquid",£6.50,6.5,227.5
+040676,Matlock,89.0,SBP,SBP,"Soap, Bar",£4.55,4.55,404.95
+242558,Matlock,42.0,SBP,SBP,"Soap, Bar",£4.55,4.55,191.1
+861304,Matlock,94.0,SBP,SBP,"Soap, Bar",£4.55,4.55,427.7
+936634,Matlock,84.0,SBP,SBP,"Soap, Bar",£4.55,4.55,382.2
+143378,Matlock,4.0,SBP,SBP,"Soap, Bar",£4.55,4.55,18.2
+003519,Matlock,64.0,SBP,SBP,"Soap, Bar",£4.55,4.55,291.2
+555703,Kings Lynn,11.0,SBP,SBP,"Soap, Bar",£4.55,4.55,50.05
+611384,Kings Lynn,73.0,SBP,SBP,"Soap, Bar",£4.55,4.55,332.15
+059533,Kings Lynn,65.0,SBP,SBP,"Soap, Bar",£4.55,4.55,295.75
+140867,Kings Lynn,0.0,SBP,SBP,"Soap, Bar",£4.55,4.55,0.0
+986808,Kings Lynn,32.0,SBP,SBP,"Soap, Bar",£4.55,4.55,145.6
+199787,Kings Lynn,10.0,SBP,SBP,"Soap, Bar",£4.55,4.55,45.5
+351251,Kings Lynn,3.0,SBP,SBP,"Soap, Bar",£4.55,4.55,13.649999999999999
+296328,Sunderland,73.0,SBP,SBP,"Soap, Bar",£4.55,4.55,332.15
+320882,Sunderland,81.0,SBP,SBP,"Soap, Bar",£4.55,4.55,368.55
+856973,Sunderland,62.0,SBP,SBP,"Soap, Bar",£4.55,4.55,282.09999999999997
+283758,Sunderland,26.0,SBP,SBP,"Soap, Bar",£4.55,4.55,118.3
+819716,Sunderland,67.0,SBP,SBP,"Soap, Bar",£4.55,4.55,304.84999999999997
+780643,Sunderland,87.0,SBP,SBP,"Soap, Bar",£4.55,4.55,395.84999999999997
+580409,Edinburgh,18.0,SBP,SBP,"Soap, Bar",£4.55,4.55,81.89999999999999
+284243,Edinburgh,17.0,SBP,SBP,"Soap, Bar",£4.55,4.55,77.35
+076831,Edinburgh,21.0,SBP,SBP,"Soap, Bar",£4.55,4.55,95.55
+831049,Edinburgh,82.0,SBP,SBP,"Soap, Bar",£4.55,4.55,373.09999999999997
+711239,Edinburgh,74.0,SBP,SBP,"Soap, Bar",£4.55,4.55,336.7
+734101,Edinburgh,62.0,SBP,SBP,"Soap, Bar",£4.55,4.55,282.09999999999997
+844820,Ullapool,50.0,SBP,SBP,"Soap, Bar",£4.55,4.55,227.5
+163097,Ullapool,1.0,SBP,SBP,"Soap, Bar",£4.55,4.55,4.55
+813410,Ullapool,43.0,SBP,SBP,"Soap, Bar",£4.55,4.55,195.65
+955881,Ullapool,25.0,SBP,SBP,"Soap, Bar",£4.55,4.55,113.75
+971701,Ullapool,80.0,SBP,SBP,"Soap, Bar",£4.55,4.55,364.0
+143160,Lowestoft,90.0,SBP,SBP,"Soap, Bar",£4.55,4.55,409.5
+872216,Lowestoft,96.0,SBP,SBP,"Soap, Bar",£4.55,4.55,436.79999999999995
+599762,Lowestoft,91.0,SBP,SBP,"Soap, Bar",£4.55,4.55,414.05
+524402,Lowestoft,35.0,SBP,SBP,"Soap, Bar",£4.55,4.55,159.25
+108242,Lowestoft,42.0,SBP,SBP,"Soap, Bar",£4.55,4.55,191.1
+638331,Lowestoft,63.0,SBP,SBP,"Soap, Bar",£4.55,4.55,286.65
+222656,Ashford (Kent),16.0,SBP,SBP,"Soap, Bar",£4.55,4.55,72.8
+666984,Ashford (Kent),58.0,SBP,SBP,"Soap, Bar",£4.55,4.55,263.9
+684268,Ashford (Kent),38.0,SBP,SBP,"Soap, Bar",£4.55,4.55,172.9
+575095,St Helens,72.0,SBP,SBP,"Soap, Bar",£4.55,4.55,327.59999999999997
+258270,St Helens,14.0,SBP,SBP,"Soap, Bar",£4.55,4.55,63.699999999999996
+023163,St Helens,90.0,SBP,SBP,"Soap, Bar",£4.55,4.55,409.5
+650060,St Helens,64.0,SBP,SBP,"Soap, Bar",£4.55,4.55,291.2
+729108,Castle Douglas,24.0,SBP,SBP,"Soap, Bar",£4.55,4.55,109.19999999999999
+676509,Castle Douglas,87.0,SBP,SBP,"Soap, Bar",£4.55,4.55,395.84999999999997
+988927,Castle Douglas,37.0,SBP,SBP,"Soap, Bar",£4.55,4.55,168.35
+525562,Castle Douglas,83.0,SBP,SBP,"Soap, Bar",£4.55,4.55,377.65
+021724,Castle Douglas,17.0,SBP,SBP,"Soap, Bar",£4.55,4.55,77.35
+719794,Castle Douglas,5.0,SBP,SBP,"Soap, Bar",£4.55,4.55,22.75
+838623,Castle Douglas,67.0,SBP,SBP,"Soap, Bar",£4.55,4.55,304.84999999999997
+165883,Castle Douglas,2.0,SBP,SBP,"Soap, Bar",£4.55,4.55,9.1
+505960,Worthing,64.0,SBP,SBP,"Soap, Bar",£4.55,4.55,291.2
+414911,Worthing,91.0,SBP,SBP,"Soap, Bar",£4.55,4.55,414.05
+142110,Worthing,8.0,SBP,SBP,"Soap, Bar",£4.55,4.55,36.4
+763927,Worthing,22.0,SBP,SBP,"Soap, Bar",£4.55,4.55,100.1
+757723,Worthing,73.0,SBP,SBP,"Soap, Bar",£4.55,4.55,332.15
+590497,Worthing,31.0,SBP,SBP,"Soap, Bar",£4.55,4.55,141.04999999999998
+433466,Worthing,81.0,SBP,SBP,"Soap, Bar",£4.55,4.55,368.55
+424523,Worthing,35.0,SBP,SBP,"Soap, Bar",£4.55,4.55,159.25
+634036,Worthing,39.0,SBP,SBP,"Soap, Bar",£4.55,4.55,177.45
+186662,Maidstone,1.0,SBP,SBP,"Soap, Bar",£4.55,4.55,4.55
+836480,Maidstone,26.0,SBP,SBP,"Soap, Bar",£4.55,4.55,118.3
+004711,Maidstone,84.0,SBP,SBP,"Soap, Bar",£4.55,4.55,382.2
+464495,Maidstone,40.0,SBP,SBP,"Soap, Bar",£4.55,4.55,182.0
+935074,Maidstone,44.0,SBP,SBP,"Soap, Bar",£4.55,4.55,200.2
+111316,St Andrews,77.0,SBP,SBP,"Soap, Bar",£4.55,4.55,350.34999999999997
+904534,St Andrews,41.0,SBP,SBP,"Soap, Bar",£4.55,4.55,186.54999999999998
+463660,St Andrews,58.0,SBP,SBP,"Soap, Bar",£4.55,4.55,263.9
+808196,Ellon,60.0,SBP,SBP,"Soap, Bar",£4.55,4.55,273.0
+714877,Ellon,52.0,SBP,SBP,"Soap, Bar",£4.55,4.55,236.6
+819336,Ellon,39.0,SBP,SBP,"Soap, Bar",£4.55,4.55,177.45
+194402,Ellon,67.0,SBP,SBP,"Soap, Bar",£4.55,4.55,304.84999999999997
+421626,Ellon,44.0,SBP,SBP,"Soap, Bar",£4.55,4.55,200.2
+677129,Dorchester,99.0,SBP,SBP,"Soap, Bar",£4.55,4.55,450.45
+387393,Dorchester,71.0,SBP,SBP,"Soap, Bar",£4.55,4.55,323.05
+725952,Dorchester,75.0,SBP,SBP,"Soap, Bar",£4.55,4.55,341.25
+511840,Dorchester,85.0,SBP,SBP,"Soap, Bar",£4.55,4.55,386.75
+426133,Dorchester,29.0,SBP,SBP,"Soap, Bar",£4.55,4.55,131.95
+390644,Dorchester,40.0,SBP,SBP,"Soap, Bar",£4.55,4.55,182.0
+755072,Aberdeen,76.0,SBP,SBP,"Soap, Bar",£4.55,4.55,345.8
+446167,Aberdeen,4.0,SBP,SBP,"Soap, Bar",£4.55,4.55,18.2
+720899,Aberdeen,94.0,SBP,SBP,"Soap, Bar",£4.55,4.55,427.7
+513224,Aberdeen,63.0,SBP,SBP,"Soap, Bar",£4.55,4.55,286.65
+602352,Aberdeen,76.0,SBP,SBP,"Soap, Bar",£4.55,4.55,345.8
+428237,Aberdeen,24.0,SBP,SBP,"Soap, Bar",£4.55,4.55,109.19999999999999
+354729,Aberdeen,94.0,SBP,SBP,"Soap, Bar",£4.55,4.55,427.7
+990446,Aberdeen,31.0,SBP,SBP,"Soap, Bar",£4.55,4.55,141.04999999999998
+212404,Aberdeen,80.0,SBP,SBP,"Soap, Bar",£4.55,4.55,364.0
+924789,Aberdeen,9.0,SBP,SBP,"Soap, Bar",£4.55,4.55,40.949999999999996
+230838,Kettering,21.0,SBP,SBP,"Soap, Bar",£4.55,4.55,95.55
+186131,Kettering,73.0,SBP,SBP,"Soap, Bar",£4.55,4.55,332.15
+461929,Kettering,79.0,SBP,SBP,"Soap, Bar",£4.55,4.55,359.45
+761703,Kettering,20.0,SBP,SBP,"Soap, Bar",£4.55,4.55,91.0
+995604,Knighton,47.0,SBP,SBP,"Soap, Bar",£4.55,4.55,213.85
+358882,Knighton,22.0,SBP,SBP,"Soap, Bar",£4.55,4.55,100.1
+551151,Knighton,97.0,SBP,SBP,"Soap, Bar",£4.55,4.55,441.34999999999997
+867142,Knighton,73.0,SBP,SBP,"Soap, Bar",£4.55,4.55,332.15
+097479,Knighton,84.0,SBP,SBP,"Soap, Bar",£4.55,4.55,382.2
+380531,Knighton,52.0,SBP,SBP,"Soap, Bar",£4.55,4.55,236.6
+105158,Sanquhar,8.0,SBP,SBP,"Soap, Bar",£4.55,4.55,36.4
+984324,Sanquhar,32.0,SBP,SBP,"Soap, Bar",£4.55,4.55,145.6
+219520,Sanquhar,78.0,SBP,SBP,"Soap, Bar",£4.55,4.55,354.9
+404913,Sanquhar,41.0,SBP,SBP,"Soap, Bar",£4.55,4.55,186.54999999999998
+200889,Sanquhar,0.0,SBP,SBP,"Soap, Bar",£4.55,4.55,0.0
+468990,Holbeach,72.0,SBP,SBP,"Soap, Bar",£4.55,4.55,327.59999999999997
+176901,Holbeach,8.0,SBP,SBP,"Soap, Bar",£4.55,4.55,36.4
+300597,Holbeach,99.0,SBP,SBP,"Soap, Bar",£4.55,4.55,450.45
+878366,Holbeach,12.0,SBP,SBP,"Soap, Bar",£4.55,4.55,54.599999999999994
+358421,Holbeach,75.0,SBP,SBP,"Soap, Bar",£4.55,4.55,341.25
+092170,Holbeach,75.0,SBP,SBP,"Soap, Bar",£4.55,4.55,341.25
+154620,Holbeach,54.0,SBP,SBP,"Soap, Bar",£4.55,4.55,245.7
+338523,Darlington,22.0,SBP,SBP,"Soap, Bar",£4.55,4.55,100.1
+341564,Darlington,80.0,SBP,SBP,"Soap, Bar",£4.55,4.55,364.0
+813349,Darlington,3.0,SBP,SBP,"Soap, Bar",£4.55,4.55,13.649999999999999
+697168,Darlington,55.0,SBP,SBP,"Soap, Bar",£4.55,4.55,250.25
+179291,Darlington,64.0,SBP,SBP,"Soap, Bar",£4.55,4.55,291.2
+147381,Darlington,62.0,SBP,SBP,"Soap, Bar",£4.55,4.55,282.09999999999997
+307359,Darlington,79.0,SBP,SBP,"Soap, Bar",£4.55,4.55,359.45
+264109,Wetherby,13.0,SBP,SBP,"Soap, Bar",£4.55,4.55,59.15
+750824,Wetherby,89.0,SBP,SBP,"Soap, Bar",£4.55,4.55,404.95
+115919,Wetherby,83.0,SBP,SBP,"Soap, Bar",£4.55,4.55,377.65
+360169,Wetherby,53.0,SBP,SBP,"Soap, Bar",£4.55,4.55,241.14999999999998
+754353,Wetherby,14.0,SBP,SBP,"Soap, Bar",£4.55,4.55,63.699999999999996
+439041,Wetherby,8.0,SBP,SBP,"Soap, Bar",£4.55,4.55,36.4
+897528,Thornhill,36.0,SBP,SBP,"Soap, Bar",£4.55,4.55,163.79999999999998
+894402,Thornhill,48.0,SBP,SBP,"Soap, Bar",£4.55,4.55,218.39999999999998
+035925,Thornhill,93.0,SBP,SBP,"Soap, Bar",£4.55,4.55,423.15
+804653,Manchester,59.0,SBP,SBP,"Soap, Bar",£4.55,4.55,268.45
+153949,Manchester,57.0,SBP,SBP,"Soap, Bar",£4.55,4.55,259.34999999999997
+995932,Manchester,4.0,SBP,SBP,"Soap, Bar",£4.55,4.55,18.2
+737367,Manchester,76.0,SBP,SBP,"Soap, Bar",£4.55,4.55,345.8
+419644,Manchester,94.0,SBP,SBP,"Soap, Bar",£4.55,4.55,427.7
+813038,Manchester,74.0,SBP,SBP,"Soap, Bar",£4.55,4.55,336.7
+952235,Manchester,8.0,SBP,SBP,"Soap, Bar",£4.55,4.55,36.4
+332487,Manchester,86.0,SBP,SBP,"Soap, Bar",£4.55,4.55,391.3
+621863,Market Weighton,66.0,SBP,SBP,"Soap, Bar",£4.55,4.55,300.3
+159070,Market Weighton,45.0,SBP,SBP,"Soap, Bar",£4.55,4.55,204.75
+953985,Market Weighton,79.0,SBP,SBP,"Soap, Bar",£4.55,4.55,359.45
+147668,Market Weighton,45.0,SBP,SBP,"Soap, Bar",£4.55,4.55,204.75
+832621,Market Weighton,24.0,SBP,SBP,"Soap, Bar",£4.55,4.55,109.19999999999999
+372308,Market Weighton,76.0,SBP,SBP,"Soap, Bar",£4.55,4.55,345.8
+305248,Market Weighton,59.0,SBP,SBP,"Soap, Bar",£4.55,4.55,268.45
+796275,Market Weighton,56.0,SBP,SBP,"Soap, Bar",£4.55,4.55,254.79999999999998
+221536,Market Weighton,95.0,SBP,SBP,"Soap, Bar",£4.55,4.55,432.25
+864009,St Austell,96.0,SBP,SBP,"Soap, Bar",£4.55,4.55,436.79999999999995
+185161,St Austell,0.0,SBP,SBP,"Soap, Bar",£4.55,4.55,0.0
+544192,St Austell,4.0,SBP,SBP,"Soap, Bar",£4.55,4.55,18.2
+193964,St Austell,45.0,SBP,SBP,"Soap, Bar",£4.55,4.55,204.75
+111267,Helmsley,48.0,SBP,SBP,"Soap, Bar",£4.55,4.55,218.39999999999998
+807405,Helmsley,81.0,SBP,SBP,"Soap, Bar",£4.55,4.55,368.55
+837174,Cemmaes Road,51.0,SBP,SBP,"Soap, Bar",£4.55,4.55,232.04999999999998
+265429,Cemmaes Road,72.0,SBP,SBP,"Soap, Bar",£4.55,4.55,327.59999999999997
+117521,Cemmaes Road,24.0,SBP,SBP,"Soap, Bar",£4.55,4.55,109.19999999999999
+568498,Cemmaes Road,62.0,SBP,SBP,"Soap, Bar",£4.55,4.55,282.09999999999997
+795954,Cemmaes Road,41.0,SBP,SBP,"Soap, Bar",£4.55,4.55,186.54999999999998
+379516,Ardgay,47.0,SBP,SBP,"Soap, Bar",£4.55,4.55,213.85
+302814,Ardgay,57.0,SBP,SBP,"Soap, Bar",£4.55,4.55,259.34999999999997
+916958,Ardgay,14.0,SBP,SBP,"Soap, Bar",£4.55,4.55,63.699999999999996
+866300,Ardgay,85.0,SBP,SBP,"Soap, Bar",£4.55,4.55,386.75
+664142,Ardgay,22.0,SBP,SBP,"Soap, Bar",£4.55,4.55,100.1
+880226,Ardgay,10.0,SBP,SBP,"Soap, Bar",£4.55,4.55,45.5
+520974,Ardgay,66.0,SBP,SBP,"Soap, Bar",£4.55,4.55,300.3
+191951,Holsworthy,36.0,SBP,SBP,"Soap, Bar",£4.55,4.55,163.79999999999998
+776270,Holsworthy,57.0,SBP,SBP,"Soap, Bar",£4.55,4.55,259.34999999999997
+767664,Holsworthy,51.0,SBP,SBP,"Soap, Bar",£4.55,4.55,232.04999999999998
+107894,Holsworthy,60.0,SBP,SBP,"Soap, Bar",£4.55,4.55,273.0
+369888,Holsworthy,87.0,SBP,SBP,"Soap, Bar",£4.55,4.55,395.84999999999997
+095714,Holsworthy,77.0,SBP,SBP,"Soap, Bar",£4.55,4.55,350.34999999999997
+723726,Holsworthy,15.0,SBP,SBP,"Soap, Bar",£4.55,4.55,68.25
+234287,Arbroath,75.0,SBP,SBP,"Soap, Bar",£4.55,4.55,341.25
+170556,Arbroath,76.0,SBP,SBP,"Soap, Bar",£4.55,4.55,345.8
+319705,Insch,52.0,SBP,SBP,"Soap, Bar",£4.55,4.55,236.6
+091043,Insch,22.0,SBP,SBP,"Soap, Bar",£4.55,4.55,100.1
+489380,Insch,12.0,SBP,SBP,"Soap, Bar",£4.55,4.55,54.599999999999994
+108203,Insch,38.0,SBP,SBP,"Soap, Bar",£4.55,4.55,172.9
+695447,Insch,13.0,SBP,SBP,"Soap, Bar",£4.55,4.55,59.15
+996858,Insch,50.0,SBP,SBP,"Soap, Bar",£4.55,4.55,227.5
+608366,Enniskillen,85.0,SBP,SBP,"Soap, Bar",£4.55,4.55,386.75
+040003,Enniskillen,72.0,SBP,SBP,"Soap, Bar",£4.55,4.55,327.59999999999997
+867522,Enniskillen,47.0,SBP,SBP,"Soap, Bar",£4.55,4.55,213.85
+846624,Inverurie,69.0,SBP,SBP,"Soap, Bar",£4.55,4.55,313.95
+201344,Inverurie,51.0,SBP,SBP,"Soap, Bar",£4.55,4.55,232.04999999999998
+833951,Inverurie,0.0,SBP,SBP,"Soap, Bar",£4.55,4.55,0.0
+881025,Inverurie,97.0,SBP,SBP,"Soap, Bar",£4.55,4.55,441.34999999999997
+292081,Inverurie,99.0,SBP,SBP,"Soap, Bar",£4.55,4.55,450.45
+971857,Inverurie,24.0,SBP,SBP,"Soap, Bar",£4.55,4.55,109.19999999999999
+949444,Inverurie,50.0,SBP,SBP,"Soap, Bar",£4.55,4.55,227.5
+479533,Newton Stewart,39.0,SBP,SBP,"Soap, Bar",£4.55,4.55,177.45
+892142,Newton Stewart,99.0,SBP,SBP,"Soap, Bar",£4.55,4.55,450.45
+205871,Newton Stewart,97.0,SBP,SBP,"Soap, Bar",£4.55,4.55,441.34999999999997
+125909,Newton Stewart,56.0,SBP,SBP,"Soap, Bar",£4.55,4.55,254.79999999999998
+957900,Newton Stewart,51.0,SBP,SBP,"Soap, Bar",£4.55,4.55,232.04999999999998
+819248,Thurso,1.0,SBP,SBP,"Soap, Bar",£4.55,4.55,4.55
+248638,Thurso,6.0,SBP,SBP,"Soap, Bar",£4.55,4.55,27.299999999999997
+486387,Thurso,83.0,SBP,SBP,"Soap, Bar",£4.55,4.55,377.65
+368006,Thurso,15.0,SBP,SBP,"Soap, Bar",£4.55,4.55,68.25
+110342,Thurso,98.0,SBP,SBP,"Soap, Bar",£4.55,4.55,445.9
+632434,Thurso,41.0,SBP,SBP,"Soap, Bar",£4.55,4.55,186.54999999999998
+517113,Thurso,80.0,SBP,SBP,"Soap, Bar",£4.55,4.55,364.0
+173388,Haverfordwest,42.0,SBP,SBP,"Soap, Bar",£4.55,4.55,191.1
+122340,Wrexham,77.0,SBP,SBP,"Soap, Bar",£4.55,4.55,350.34999999999997
+806710,Wrexham,86.0,SBP,SBP,"Soap, Bar",£4.55,4.55,391.3
+126103,Wrexham,57.0,SBP,SBP,"Soap, Bar",£4.55,4.55,259.34999999999997
+886596,Wrexham,35.0,SBP,SBP,"Soap, Bar",£4.55,4.55,159.25
+408179,Wrexham,98.0,SBP,SBP,"Soap, Bar",£4.55,4.55,445.9
+548977,Wrexham,86.0,SBP,SBP,"Soap, Bar",£4.55,4.55,391.3
+269618,Wrexham,29.0,SBP,SBP,"Soap, Bar",£4.55,4.55,131.95
+257058,Tongue,71.0,SBP,SBP,"Soap, Bar",£4.55,4.55,323.05
+642619,Tongue,86.0,SBP,SBP,"Soap, Bar",£4.55,4.55,391.3
+628919,Tongue,3.0,SBP,SBP,"Soap, Bar",£4.55,4.55,13.649999999999999
+748630,Tongue,43.0,SBP,SBP,"Soap, Bar",£4.55,4.55,195.65
+944279,Guernsey,38.0,SBP,SBP,"Soap, Bar",£4.55,4.55,172.9
+181158,Guernsey,17.0,SBP,SBP,"Soap, Bar",£4.55,4.55,77.35
+431621,Guernsey,76.0,SBP,SBP,"Soap, Bar",£4.55,4.55,345.8
+752006,Guernsey,62.0,SBP,SBP,"Soap, Bar",£4.55,4.55,282.09999999999997
+941277,Guernsey,87.0,SBP,SBP,"Soap, Bar",£4.55,4.55,395.84999999999997
+630339,Guernsey,1.0,SBP,SBP,"Soap, Bar",£4.55,4.55,4.55
+652961,Guernsey,93.0,SBP,SBP,"Soap, Bar",£4.55,4.55,423.15
+611246,Huddersfield,46.0,SBP,SBP,"Soap, Bar",£4.55,4.55,209.29999999999998
+279128,Huddersfield,37.0,SBP,SBP,"Soap, Bar",£4.55,4.55,168.35
+703808,Huddersfield,76.0,SBP,SBP,"Soap, Bar",£4.55,4.55,345.8
+986059,Huddersfield,45.0,SBP,SBP,"Soap, Bar",£4.55,4.55,204.75
+792012,Merthyr Tydfil,30.0,SBP,SBP,"Soap, Bar",£4.55,4.55,136.5
+108030,Merthyr Tydfil,79.0,SBP,SBP,"Soap, Bar",£4.55,4.55,359.45
+781650,Merthyr Tydfil,21.0,SBP,SBP,"Soap, Bar",£4.55,4.55,95.55
+822370,Merthyr Tydfil,53.0,SBP,SBP,"Soap, Bar",£4.55,4.55,241.14999999999998
+065696,Rugby,99.0,SBP,SBP,"Soap, Bar",£4.55,4.55,450.45
+452490,Rugby,73.0,SBP,SBP,"Soap, Bar",£4.55,4.55,332.15
+287866,Rugby,96.0,SBP,SBP,"Soap, Bar",£4.55,4.55,436.79999999999995
+320997,Rugby,39.0,SBP,SBP,"Soap, Bar",£4.55,4.55,177.45
+274574,Colwyn Bay,18.0,SBP,SBP,"Soap, Bar",£4.55,4.55,81.89999999999999
+324362,Colwyn Bay,47.0,SBP,SBP,"Soap, Bar",£4.55,4.55,213.85
+199655,Colwyn Bay,13.0,SBP,SBP,"Soap, Bar",£4.55,4.55,59.15
+924700,Colwyn Bay,19.0,SBP,SBP,"Soap, Bar",£4.55,4.55,86.45
+472851,Great Yarmouth,57.0,SBP,SBP,"Soap, Bar",£4.55,4.55,259.34999999999997
+893758,Great Yarmouth,92.0,SBP,SBP,"Soap, Bar",£4.55,4.55,418.59999999999997
+073977,Great Yarmouth,76.0,SBP,SBP,"Soap, Bar",£4.55,4.55,345.8
+225161,Lydney,25.0,SBP,SBP,"Soap, Bar",£4.55,4.55,113.75
+286381,Lydney,30.0,SBP,SBP,"Soap, Bar",£4.55,4.55,136.5
+453026,Lydney,88.0,SBP,SBP,"Soap, Bar",£4.55,4.55,400.4
+196870,Lydney,38.0,SBP,SBP,"Soap, Bar",£4.55,4.55,172.9
+361115,Lydney,58.0,SBP,SBP,"Soap, Bar",£4.55,4.55,263.9
+744758,Lydney,15.0,SBP,SBP,"Soap, Bar",£4.55,4.55,68.25
+841468,Lydney,21.0,SBP,SBP,"Soap, Bar",£4.55,4.55,95.55
+920822,Lydney,86.0,SBP,SBP,"Soap, Bar",£4.55,4.55,391.3
+108041,Aylesbury,49.0,SBP,SBP,"Soap, Bar",£4.55,4.55,222.95
+555977,Aylesbury,68.0,SBP,SBP,"Soap, Bar",£4.55,4.55,309.4
+438217,Aylesbury,77.0,SBP,SBP,"Soap, Bar",£4.55,4.55,350.34999999999997
+154548,Millom,43.0,SBP,SBP,"Soap, Bar",£4.55,4.55,195.65
+492463,Millom,70.0,SBP,SBP,"Soap, Bar",£4.55,4.55,318.5
+685201,Inveraray,28.0,SBP,SBP,"Soap, Bar",£4.55,4.55,127.39999999999999
+315150,Inveraray,16.0,SBP,SBP,"Soap, Bar",£4.55,4.55,72.8
+411896,Inveraray,46.0,SBP,SBP,"Soap, Bar",£4.55,4.55,209.29999999999998
+183956,Inveraray,0.0,SBP,SBP,"Soap, Bar",£4.55,4.55,0.0
+034528,Matlock,41.0,HS,HS,Hand Sanitiser,£2.29,2.29,93.89
+524091,Matlock,33.0,HS,HS,Hand Sanitiser,£2.29,2.29,75.57000000000001
+540218,Matlock,71.0,HS,HS,Hand Sanitiser,£2.29,2.29,162.59
+984702,Matlock,33.0,HS,HS,Hand Sanitiser,£2.29,2.29,75.57000000000001
+716599,Matlock,69.0,HS,HS,Hand Sanitiser,£2.29,2.29,158.01
+540153,Matlock,58.0,HS,HS,Hand Sanitiser,£2.29,2.29,132.82
+559207,Kings Lynn,50.0,HS,HS,Hand Sanitiser,£2.29,2.29,114.5
+885004,Kings Lynn,90.0,HS,HS,Hand Sanitiser,£2.29,2.29,206.1
+686740,Kings Lynn,42.0,HS,HS,Hand Sanitiser,£2.29,2.29,96.18
+461375,Kings Lynn,53.0,HS,HS,Hand Sanitiser,£2.29,2.29,121.37
+102976,Kings Lynn,55.0,HS,HS,Hand Sanitiser,£2.29,2.29,125.95
+529754,Sunderland,7.0,HS,HS,Hand Sanitiser,£2.29,2.29,16.03
+555072,Sunderland,82.0,HS,HS,Hand Sanitiser,£2.29,2.29,187.78
+025471,Sunderland,63.0,HS,HS,Hand Sanitiser,£2.29,2.29,144.27
+505211,Edinburgh,59.0,HS,HS,Hand Sanitiser,£2.29,2.29,135.11
+164563,Edinburgh,58.0,HS,HS,Hand Sanitiser,£2.29,2.29,132.82
+275901,Edinburgh,91.0,HS,HS,Hand Sanitiser,£2.29,2.29,208.39000000000001
+795111,Edinburgh,34.0,HS,HS,Hand Sanitiser,£2.29,2.29,77.86
+771271,Edinburgh,34.0,HS,HS,Hand Sanitiser,£2.29,2.29,77.86
+485062,Edinburgh,22.0,HS,HS,Hand Sanitiser,£2.29,2.29,50.38
+608860,Edinburgh,13.0,HS,HS,Hand Sanitiser,£2.29,2.29,29.77
+996385,Ullapool,29.0,HS,HS,Hand Sanitiser,£2.29,2.29,66.41
+656988,Ullapool,57.0,HS,HS,Hand Sanitiser,£2.29,2.29,130.53
+526812,Ullapool,36.0,HS,HS,Hand Sanitiser,£2.29,2.29,82.44
+536264,Ullapool,81.0,HS,HS,Hand Sanitiser,£2.29,2.29,185.49
+014310,Ullapool,0.0,HS,HS,Hand Sanitiser,£2.29,2.29,0.0
+469041,Lowestoft,68.0,HS,HS,Hand Sanitiser,£2.29,2.29,155.72
+213002,Lowestoft,65.0,HS,HS,Hand Sanitiser,£2.29,2.29,148.85
+589776,Lowestoft,40.0,HS,HS,Hand Sanitiser,£2.29,2.29,91.6
+987105,Lowestoft,21.0,HS,HS,Hand Sanitiser,£2.29,2.29,48.09
+615208,Ashford (Kent),63.0,HS,HS,Hand Sanitiser,£2.29,2.29,144.27
+109049,Ashford (Kent),84.0,HS,HS,Hand Sanitiser,£2.29,2.29,192.36
+698975,Ashford (Kent),92.0,HS,HS,Hand Sanitiser,£2.29,2.29,210.68
+322400,Ashford (Kent),55.0,HS,HS,Hand Sanitiser,£2.29,2.29,125.95
+986413,Ashford (Kent),41.0,HS,HS,Hand Sanitiser,£2.29,2.29,93.89
+573190,Ashford (Kent),44.0,HS,HS,Hand Sanitiser,£2.29,2.29,100.76
+318434,Ashford (Kent),20.0,HS,HS,Hand Sanitiser,£2.29,2.29,45.8
+520918,Ashford (Kent),49.0,HS,HS,Hand Sanitiser,£2.29,2.29,112.21000000000001
+396163,St Helens,54.0,HS,HS,Hand Sanitiser,£2.29,2.29,123.66
+351246,St Helens,76.0,HS,HS,Hand Sanitiser,£2.29,2.29,174.04
+159946,St Helens,18.0,HS,HS,Hand Sanitiser,£2.29,2.29,41.22
+213440,St Helens,88.0,HS,HS,Hand Sanitiser,£2.29,2.29,201.52
+971730,St Helens,21.0,HS,HS,Hand Sanitiser,£2.29,2.29,48.09
+847940,Castle Douglas,99.0,HS,HS,Hand Sanitiser,£2.29,2.29,226.71
+909931,Castle Douglas,3.0,HS,HS,Hand Sanitiser,£2.29,2.29,6.87
+706787,Castle Douglas,78.0,HS,HS,Hand Sanitiser,£2.29,2.29,178.62
+101434,Worthing,58.0,HS,HS,Hand Sanitiser,£2.29,2.29,132.82
+080932,Worthing,7.0,HS,HS,Hand Sanitiser,£2.29,2.29,16.03
+005506,Worthing,81.0,HS,HS,Hand Sanitiser,£2.29,2.29,185.49
+321845,Maidstone,13.0,HS,HS,Hand Sanitiser,£2.29,2.29,29.77
+537277,Maidstone,49.0,HS,HS,Hand Sanitiser,£2.29,2.29,112.21000000000001
+583152,Maidstone,71.0,HS,HS,Hand Sanitiser,£2.29,2.29,162.59
+109828,Maidstone,60.0,HS,HS,Hand Sanitiser,£2.29,2.29,137.4
+659667,Maidstone,48.0,HS,HS,Hand Sanitiser,£2.29,2.29,109.92
+299696,Maidstone,46.0,HS,HS,Hand Sanitiser,£2.29,2.29,105.34
+715726,St Andrews,61.0,HS,HS,Hand Sanitiser,£2.29,2.29,139.69
+122872,St Andrews,46.0,HS,HS,Hand Sanitiser,£2.29,2.29,105.34
+626168,St Andrews,77.0,HS,HS,Hand Sanitiser,£2.29,2.29,176.33
+588892,St Andrews,70.0,HS,HS,Hand Sanitiser,£2.29,2.29,160.3
+323838,St Andrews,9.0,HS,HS,Hand Sanitiser,£2.29,2.29,20.61
+734738,St Andrews,88.0,HS,HS,Hand Sanitiser,£2.29,2.29,201.52
+965118,St Andrews,34.0,HS,HS,Hand Sanitiser,£2.29,2.29,77.86
+004349,Ellon,64.0,HS,HS,Hand Sanitiser,£2.29,2.29,146.56
+435084,Ellon,62.0,HS,HS,Hand Sanitiser,£2.29,2.29,141.98
+556184,Ellon,91.0,HS,HS,Hand Sanitiser,£2.29,2.29,208.39000000000001
+174563,Ellon,67.0,HS,HS,Hand Sanitiser,£2.29,2.29,153.43
+540136,Ellon,3.0,HS,HS,Hand Sanitiser,£2.29,2.29,6.87
+614993,Ellon,60.0,HS,HS,Hand Sanitiser,£2.29,2.29,137.4
+709306,Ellon,31.0,HS,HS,Hand Sanitiser,£2.29,2.29,70.99
+199602,Ellon,19.0,HS,HS,Hand Sanitiser,£2.29,2.29,43.51
+263759,Dorchester,70.0,HS,HS,Hand Sanitiser,£2.29,2.29,160.3
+903813,Dorchester,39.0,HS,HS,Hand Sanitiser,£2.29,2.29,89.31
+168693,Aberdeen,96.0,HS,HS,Hand Sanitiser,£2.29,2.29,219.84
+710044,Aberdeen,58.0,HS,HS,Hand Sanitiser,£2.29,2.29,132.82
+805822,Kettering,18.0,HS,HS,Hand Sanitiser,£2.29,2.29,41.22
+794100,Kettering,80.0,HS,HS,Hand Sanitiser,£2.29,2.29,183.2
+654275,Kettering,94.0,HS,HS,Hand Sanitiser,£2.29,2.29,215.26
+991412,Kettering,61.0,HS,HS,Hand Sanitiser,£2.29,2.29,139.69
+546198,Knighton,22.0,HS,HS,Hand Sanitiser,£2.29,2.29,50.38
+285482,Knighton,43.0,HS,HS,Hand Sanitiser,£2.29,2.29,98.47
+880706,Knighton,89.0,HS,HS,Hand Sanitiser,£2.29,2.29,203.81
+961501,Knighton,37.0,HS,HS,Hand Sanitiser,£2.29,2.29,84.73
+544141,Knighton,98.0,HS,HS,Hand Sanitiser,£2.29,2.29,224.42000000000002
+628714,Knighton,86.0,HS,HS,Hand Sanitiser,£2.29,2.29,196.94
+310079,Sanquhar,65.0,HS,HS,Hand Sanitiser,£2.29,2.29,148.85
+282035,Sanquhar,23.0,HS,HS,Hand Sanitiser,£2.29,2.29,52.67
+097276,Sanquhar,63.0,HS,HS,Hand Sanitiser,£2.29,2.29,144.27
+757485,Holbeach,30.0,HS,HS,Hand Sanitiser,£2.29,2.29,68.7
+369394,Holbeach,41.0,HS,HS,Hand Sanitiser,£2.29,2.29,93.89
+896203,Holbeach,90.0,HS,HS,Hand Sanitiser,£2.29,2.29,206.1
+253189,Holbeach,87.0,HS,HS,Hand Sanitiser,£2.29,2.29,199.23
+608514,Holbeach,68.0,HS,HS,Hand Sanitiser,£2.29,2.29,155.72
+104494,Holbeach,97.0,HS,HS,Hand Sanitiser,£2.29,2.29,222.13
+249428,Holbeach,59.0,HS,HS,Hand Sanitiser,£2.29,2.29,135.11
+598659,Holbeach,99.0,HS,HS,Hand Sanitiser,£2.29,2.29,226.71
+168229,Darlington,85.0,HS,HS,Hand Sanitiser,£2.29,2.29,194.65
+263655,Darlington,11.0,HS,HS,Hand Sanitiser,£2.29,2.29,25.19
+187839,Darlington,90.0,HS,HS,Hand Sanitiser,£2.29,2.29,206.1
+259376,Darlington,19.0,HS,HS,Hand Sanitiser,£2.29,2.29,43.51
+337674,Wetherby,99.0,HS,HS,Hand Sanitiser,£2.29,2.29,226.71
+916092,Wetherby,71.0,HS,HS,Hand Sanitiser,£2.29,2.29,162.59
+601589,Wetherby,74.0,HS,HS,Hand Sanitiser,£2.29,2.29,169.46
+233206,Wetherby,96.0,HS,HS,Hand Sanitiser,£2.29,2.29,219.84
+205229,Wetherby,98.0,HS,HS,Hand Sanitiser,£2.29,2.29,224.42000000000002
+825033,Thornhill,83.0,HS,HS,Hand Sanitiser,£2.29,2.29,190.07
+366988,Thornhill,78.0,HS,HS,Hand Sanitiser,£2.29,2.29,178.62
+912306,Thornhill,85.0,HS,HS,Hand Sanitiser,£2.29,2.29,194.65
+923110,Thornhill,35.0,HS,HS,Hand Sanitiser,£2.29,2.29,80.15
+285894,Thornhill,23.0,HS,HS,Hand Sanitiser,£2.29,2.29,52.67
+927266,Thornhill,11.0,HS,HS,Hand Sanitiser,£2.29,2.29,25.19
+236976,Manchester,96.0,HS,HS,Hand Sanitiser,£2.29,2.29,219.84
+174420,Manchester,83.0,HS,HS,Hand Sanitiser,£2.29,2.29,190.07
+079837,Manchester,26.0,HS,HS,Hand Sanitiser,£2.29,2.29,59.54
+736723,Manchester,66.0,HS,HS,Hand Sanitiser,£2.29,2.29,151.14000000000001
+693228,Market Weighton,8.0,HS,HS,Hand Sanitiser,£2.29,2.29,18.32
+664795,Market Weighton,76.0,HS,HS,Hand Sanitiser,£2.29,2.29,174.04
+837567,Market Weighton,35.0,HS,HS,Hand Sanitiser,£2.29,2.29,80.15
+633419,St Austell,50.0,HS,HS,Hand Sanitiser,£2.29,2.29,114.5
+831081,St Austell,25.0,HS,HS,Hand Sanitiser,£2.29,2.29,57.25
+147442,St Austell,26.0,HS,HS,Hand Sanitiser,£2.29,2.29,59.54
+395403,St Austell,55.0,HS,HS,Hand Sanitiser,£2.29,2.29,125.95
+667307,St Austell,5.0,HS,HS,Hand Sanitiser,£2.29,2.29,11.45
+490595,St Austell,46.0,HS,HS,Hand Sanitiser,£2.29,2.29,105.34
+529509,Helmsley,75.0,HS,HS,Hand Sanitiser,£2.29,2.29,171.75
+530471,Helmsley,81.0,HS,HS,Hand Sanitiser,£2.29,2.29,185.49
+098979,Helmsley,56.0,HS,HS,Hand Sanitiser,£2.29,2.29,128.24
+613252,Helmsley,29.0,HS,HS,Hand Sanitiser,£2.29,2.29,66.41
+998593,Helmsley,92.0,HS,HS,Hand Sanitiser,£2.29,2.29,210.68
+392016,Helmsley,5.0,HS,HS,Hand Sanitiser,£2.29,2.29,11.45
+248271,Cemmaes Road,92.0,HS,HS,Hand Sanitiser,£2.29,2.29,210.68
+053507,Cemmaes Road,58.0,HS,HS,Hand Sanitiser,£2.29,2.29,132.82
+931318,Cemmaes Road,98.0,HS,HS,Hand Sanitiser,£2.29,2.29,224.42000000000002
+715539,Cemmaes Road,97.0,HS,HS,Hand Sanitiser,£2.29,2.29,222.13
+434940,Cemmaes Road,14.0,HS,HS,Hand Sanitiser,£2.29,2.29,32.06
+752977,Cemmaes Road,90.0,HS,HS,Hand Sanitiser,£2.29,2.29,206.1
+259072,Ardgay,67.0,HS,HS,Hand Sanitiser,£2.29,2.29,153.43
+493637,Ardgay,43.0,HS,HS,Hand Sanitiser,£2.29,2.29,98.47
+372630,Ardgay,61.0,HS,HS,Hand Sanitiser,£2.29,2.29,139.69
+414564,Ardgay,65.0,HS,HS,Hand Sanitiser,£2.29,2.29,148.85
+245323,Holsworthy,28.0,HS,HS,Hand Sanitiser,£2.29,2.29,64.12
+491891,Holsworthy,36.0,HS,HS,Hand Sanitiser,£2.29,2.29,82.44
+193251,Holsworthy,80.0,HS,HS,Hand Sanitiser,£2.29,2.29,183.2
+737696,Arbroath,35.0,HS,HS,Hand Sanitiser,£2.29,2.29,80.15
+547816,Arbroath,32.0,HS,HS,Hand Sanitiser,£2.29,2.29,73.28
+351669,Arbroath,58.0,HS,HS,Hand Sanitiser,£2.29,2.29,132.82
+981506,Arbroath,94.0,HS,HS,Hand Sanitiser,£2.29,2.29,215.26
+988002,Arbroath,86.0,HS,HS,Hand Sanitiser,£2.29,2.29,196.94
+833098,Arbroath,65.0,HS,HS,Hand Sanitiser,£2.29,2.29,148.85
+571908,Insch,46.0,HS,HS,Hand Sanitiser,£2.29,2.29,105.34
+570787,Insch,73.0,HS,HS,Hand Sanitiser,£2.29,2.29,167.17000000000002
+102167,Enniskillen,55.0,HS,HS,Hand Sanitiser,£2.29,2.29,125.95
+769337,Enniskillen,49.0,HS,HS,Hand Sanitiser,£2.29,2.29,112.21000000000001
+432353,Enniskillen,68.0,HS,HS,Hand Sanitiser,£2.29,2.29,155.72
+158910,Enniskillen,7.0,HS,HS,Hand Sanitiser,£2.29,2.29,16.03
+738350,Enniskillen,96.0,HS,HS,Hand Sanitiser,£2.29,2.29,219.84
+315133,Enniskillen,83.0,HS,HS,Hand Sanitiser,£2.29,2.29,190.07
+838171,Enniskillen,77.0,HS,HS,Hand Sanitiser,£2.29,2.29,176.33
+876396,Inverurie,80.0,HS,HS,Hand Sanitiser,£2.29,2.29,183.2
+856809,Inverurie,28.0,HS,HS,Hand Sanitiser,£2.29,2.29,64.12
+445220,Inverurie,13.0,HS,HS,Hand Sanitiser,£2.29,2.29,29.77
+666956,Newton Stewart,52.0,HS,HS,Hand Sanitiser,£2.29,2.29,119.08
+291223,Newton Stewart,72.0,HS,HS,Hand Sanitiser,£2.29,2.29,164.88
+520873,Newton Stewart,5.0,HS,HS,Hand Sanitiser,£2.29,2.29,11.45
+038363,Newton Stewart,74.0,HS,HS,Hand Sanitiser,£2.29,2.29,169.46
+866562,Newton Stewart,50.0,HS,HS,Hand Sanitiser,£2.29,2.29,114.5
+488696,Newton Stewart,66.0,HS,HS,Hand Sanitiser,£2.29,2.29,151.14000000000001
+735552,Newton Stewart,77.0,HS,HS,Hand Sanitiser,£2.29,2.29,176.33
+686109,Newton Stewart,24.0,HS,HS,Hand Sanitiser,£2.29,2.29,54.96
+011140,Newton Stewart,75.0,HS,HS,Hand Sanitiser,£2.29,2.29,171.75
+574284,Thurso,0.0,HS,HS,Hand Sanitiser,£2.29,2.29,0.0
+125853,Thurso,29.0,HS,HS,Hand Sanitiser,£2.29,2.29,66.41
+634725,Thurso,95.0,HS,HS,Hand Sanitiser,£2.29,2.29,217.55
+601504,Thurso,39.0,HS,HS,Hand Sanitiser,£2.29,2.29,89.31
+407574,Haverfordwest,5.0,HS,HS,Hand Sanitiser,£2.29,2.29,11.45
+468667,Haverfordwest,55.0,HS,HS,Hand Sanitiser,£2.29,2.29,125.95
+755866,Haverfordwest,45.0,HS,HS,Hand Sanitiser,£2.29,2.29,103.05
+038061,Haverfordwest,96.0,HS,HS,Hand Sanitiser,£2.29,2.29,219.84
+454645,Haverfordwest,43.0,HS,HS,Hand Sanitiser,£2.29,2.29,98.47
+474397,Haverfordwest,30.0,HS,HS,Hand Sanitiser,£2.29,2.29,68.7
+464915,Haverfordwest,20.0,HS,HS,Hand Sanitiser,£2.29,2.29,45.8
+261129,Haverfordwest,21.0,HS,HS,Hand Sanitiser,£2.29,2.29,48.09
+517108,Wrexham,14.0,HS,HS,Hand Sanitiser,£2.29,2.29,32.06
+964376,Wrexham,98.0,HS,HS,Hand Sanitiser,£2.29,2.29,224.42000000000002
+303858,Wrexham,64.0,HS,HS,Hand Sanitiser,£2.29,2.29,146.56
+243079,Wrexham,20.0,HS,HS,Hand Sanitiser,£2.29,2.29,45.8
+521660,Wrexham,38.0,HS,HS,Hand Sanitiser,£2.29,2.29,87.02
+569150,Wrexham,4.0,HS,HS,Hand Sanitiser,£2.29,2.29,9.16
+267998,Tongue,58.0,HS,HS,Hand Sanitiser,£2.29,2.29,132.82
+418036,Tongue,73.0,HS,HS,Hand Sanitiser,£2.29,2.29,167.17000000000002
+723235,Tongue,99.0,HS,HS,Hand Sanitiser,£2.29,2.29,226.71
+920080,Tongue,82.0,HS,HS,Hand Sanitiser,£2.29,2.29,187.78
+094259,Tongue,47.0,HS,HS,Hand Sanitiser,£2.29,2.29,107.63
+106488,Guernsey,46.0,HS,HS,Hand Sanitiser,£2.29,2.29,105.34
+009482,Guernsey,69.0,HS,HS,Hand Sanitiser,£2.29,2.29,158.01
+576650,Huddersfield,17.0,HS,HS,Hand Sanitiser,£2.29,2.29,38.93
+954222,Huddersfield,29.0,HS,HS,Hand Sanitiser,£2.29,2.29,66.41
+228459,Huddersfield,7.0,HS,HS,Hand Sanitiser,£2.29,2.29,16.03
+850599,Huddersfield,72.0,HS,HS,Hand Sanitiser,£2.29,2.29,164.88
+413996,Huddersfield,77.0,HS,HS,Hand Sanitiser,£2.29,2.29,176.33
+219716,Huddersfield,4.0,HS,HS,Hand Sanitiser,£2.29,2.29,9.16
+239913,Huddersfield,84.0,HS,HS,Hand Sanitiser,£2.29,2.29,192.36
+549191,Huddersfield,46.0,HS,HS,Hand Sanitiser,£2.29,2.29,105.34
+877492,Huddersfield,45.0,HS,HS,Hand Sanitiser,£2.29,2.29,103.05
+881200,Merthyr Tydfil,38.0,HS,HS,Hand Sanitiser,£2.29,2.29,87.02
+835883,Merthyr Tydfil,4.0,HS,HS,Hand Sanitiser,£2.29,2.29,9.16
+734054,Merthyr Tydfil,74.0,HS,HS,Hand Sanitiser,£2.29,2.29,169.46
+695910,Merthyr Tydfil,27.0,HS,HS,Hand Sanitiser,£2.29,2.29,61.83
+390373,Merthyr Tydfil,84.0,HS,HS,Hand Sanitiser,£2.29,2.29,192.36
+264271,Rugby,12.0,HS,HS,Hand Sanitiser,£2.29,2.29,27.48
+874122,Rugby,54.0,HS,HS,Hand Sanitiser,£2.29,2.29,123.66
+376608,Rugby,86.0,HS,HS,Hand Sanitiser,£2.29,2.29,196.94
+761889,Rugby,65.0,HS,HS,Hand Sanitiser,£2.29,2.29,148.85
+154758,Colwyn Bay,70.0,HS,HS,Hand Sanitiser,£2.29,2.29,160.3
+912191,Colwyn Bay,85.0,HS,HS,Hand Sanitiser,£2.29,2.29,194.65
+659573,Colwyn Bay,20.0,HS,HS,Hand Sanitiser,£2.29,2.29,45.8
+601896,Great Yarmouth,34.0,HS,HS,Hand Sanitiser,£2.29,2.29,77.86
+608524,Great Yarmouth,98.0,HS,HS,Hand Sanitiser,£2.29,2.29,224.42000000000002
+266496,Great Yarmouth,45.0,HS,HS,Hand Sanitiser,£2.29,2.29,103.05
+116789,Great Yarmouth,50.0,HS,HS,Hand Sanitiser,£2.29,2.29,114.5
+723560,Great Yarmouth,20.0,HS,HS,Hand Sanitiser,£2.29,2.29,45.8
+377036,Great Yarmouth,97.0,HS,HS,Hand Sanitiser,£2.29,2.29,222.13
+206294,Great Yarmouth,28.0,HS,HS,Hand Sanitiser,£2.29,2.29,64.12
+518757,Great Yarmouth,34.0,HS,HS,Hand Sanitiser,£2.29,2.29,77.86
+933222,Great Yarmouth,97.0,HS,HS,Hand Sanitiser,£2.29,2.29,222.13
+698404,Lydney,79.0,HS,HS,Hand Sanitiser,£2.29,2.29,180.91
+097851,Aylesbury,64.0,HS,HS,Hand Sanitiser,£2.29,2.29,146.56
+451184,Aylesbury,97.0,HS,HS,Hand Sanitiser,£2.29,2.29,222.13
+503913,Aylesbury,85.0,HS,HS,Hand Sanitiser,£2.29,2.29,194.65
+790843,Aylesbury,83.0,HS,HS,Hand Sanitiser,£2.29,2.29,190.07
+212399,Aylesbury,13.0,HS,HS,Hand Sanitiser,£2.29,2.29,29.77
+509390,Aylesbury,14.0,HS,HS,Hand Sanitiser,£2.29,2.29,32.06
+438747,Millom,77.0,HS,HS,Hand Sanitiser,£2.29,2.29,176.33
+322713,Millom,26.0,HS,HS,Hand Sanitiser,£2.29,2.29,59.54
+535724,Millom,16.0,HS,HS,Hand Sanitiser,£2.29,2.29,36.64
+422425,Millom,36.0,HS,HS,Hand Sanitiser,£2.29,2.29,82.44
+392584,Millom,72.0,HS,HS,Hand Sanitiser,£2.29,2.29,164.88
+914470,Millom,82.0,HS,HS,Hand Sanitiser,£2.29,2.29,187.78
+699696,Millom,52.0,HS,HS,Hand Sanitiser,£2.29,2.29,119.08
+495046,Inveraray,65.0,HS,HS,Hand Sanitiser,£2.29,2.29,148.85
+458822,Inveraray,29.0,HS,HS,Hand Sanitiser,£2.29,2.29,66.41
+297053,Inveraray,97.0,HS,HS,Hand Sanitiser,£2.29,2.29,222.13
+122874,Inveraray,1.0,HS,HS,Hand Sanitiser,£2.29,2.29,2.29
