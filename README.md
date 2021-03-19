@@ -34,3 +34,4 @@ Quick Link
 | [2021 Week 08](https://preppindata.blogspot.com/2021/02/2021-week-8-karaoke-data.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-08.py)       |
 | [2021 Week 09](https://preppindata.blogspot.com/2021/03/2021-week-9-working-with-strings.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-09.py)       |
 | [2021 Week 10](https://preppindata.blogspot.com/2021/02/2021-week-10-pokemon-hierarchies.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-10.py)       |
+| [2021 Week 11](https://preppindata.blogspot.com/2021/03/2021-week-11-cocktail-profit-margins.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-11.py)       |
