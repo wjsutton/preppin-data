@@ -1,0 +1,1827 @@
+Month,Breakdown,Country,Number of Tourists
+Jan-10,Europe,Germany,5890.0
+Jan-10,Europe,Italy,12276.0
+Jan-10,Europe,Russia,5873.0
+Jan-10,Europe,United Kingdom,8405.0
+Jan-10,Asia,China,6069.0
+Jan-10,Asia,India,1742.0
+Jan-10,Europe,France,6899.0
+Feb-10,Europe,Germany,6602.0
+Feb-10,Europe,Italy,12003.0
+Feb-10,Europe,Russia,3285.0
+Feb-10,Europe,United Kingdom,10422.0
+Feb-10,Asia,China,13345.0
+Feb-10,Asia,India,1594.0
+Feb-10,Europe,France,8464.0
+Mar-10,Europe,Germany,8554.0
+Mar-10,Europe,Italy,13153.0
+Mar-10,Europe,Russia,4301.0
+Mar-10,Europe,United Kingdom,11394.0
+Mar-10,Asia,China,6144.0
+Mar-10,Asia,India,1385.0
+Mar-10,Europe,France,7190.0
+Apr-10,Europe,Germany,5317.0
+Apr-10,Europe,Italy,7577.0
+Apr-10,Europe,Russia,3899.0
+Apr-10,Europe,United Kingdom,9529.0
+Apr-10,Asia,China,7060.0
+Apr-10,Asia,India,1802.0
+Apr-10,Europe,France,5459.0
+May-10,Europe,Germany,7634.0
+May-10,Europe,Italy,3213.0
+May-10,Europe,Russia,3704.0
+May-10,Europe,United Kingdom,9460.0
+May-10,Asia,China,8964.0
+May-10,Asia,India,2400.0
+May-10,Europe,France,2920.0
+Jun-10,Europe,Germany,3748.0
+Jun-10,Europe,Italy,3495.0
+Jun-10,Europe,Russia,2569.0
+Jun-10,Europe,United Kingdom,6728.0
+Jun-10,Asia,China,8615.0
+Jun-10,Asia,India,1999.0
+Jun-10,Europe,France,1155.0
+Jul-10,Europe,Germany,4402.0
+Jul-10,Europe,Italy,3882.0
+Jul-10,Europe,Russia,3098.0
+Jul-10,Europe,United Kingdom,9053.0
+Jul-10,Asia,China,12449.0
+Jul-10,Asia,India,1871.0
+Jul-10,Europe,France,1464.0
+Aug-10,Europe,Germany,4943.0
+Aug-10,Europe,Italy,8351.0
+Aug-10,Europe,Russia,4176.0
+Aug-10,Europe,United Kingdom,10259.0
+Aug-10,Asia,China,14998.0
+Aug-10,Asia,India,1419.0
+Aug-10,Europe,France,2257.0
+Sep-10,Europe,Germany,6412.0
+Sep-10,Europe,Italy,4167.0
+Sep-10,Europe,Russia,3488.0
+Sep-10,Europe,United Kingdom,9917.0
+Sep-10,Asia,China,13028.0
+Sep-10,Asia,India,1838.0
+Sep-10,Europe,France,2061.0
+Oct-10,Europe,Germany,8937.0
+Oct-10,Europe,Italy,5153.0
+Oct-10,Europe,Russia,4482.0
+Oct-10,Europe,United Kingdom,10419.0
+Oct-10,Asia,China,13476.0
+Oct-10,Asia,India,2387.0
+Oct-10,Europe,France,4159.0
+Nov-10,Europe,Germany,8444.0
+Nov-10,Europe,Italy,6506.0
+Nov-10,Europe,Russia,4750.0
+Nov-10,Europe,United Kingdom,9614.0
+Nov-10,Asia,China,8313.0
+Nov-10,Asia,India,3110.0
+Nov-10,Europe,France,5930.0
+Dec-10,Europe,Germany,6225.0
+Dec-10,Europe,Italy,9845.0
+Dec-10,Europe,Russia,5486.0
+Dec-10,Europe,United Kingdom,8958.0
+Dec-10,Asia,China,6500.0
+Dec-10,Asia,India,4209.0
+Dec-10,Europe,France,6831.0
+Jan-11,Europe,Germany,6109.0
+Jan-11,Europe,Italy,12828.0
+Jan-11,Europe,Russia,6256.0
+Jan-11,Europe,United Kingdom,8435.0
+Jan-11,Asia,China,12367.0
+Jan-11,Asia,India,2786.0
+Jan-11,Europe,France,7606.0
+Feb-11,Europe,Germany,6874.0
+Feb-11,Europe,Italy,11499.0
+Feb-11,Europe,Russia,4347.0
+Feb-11,Europe,United Kingdom,9661.0
+Feb-11,Asia,China,18759.0
+Feb-11,Asia,India,2078.0
+Feb-11,Europe,France,9286.0
+Mar-11,Europe,Germany,8906.0
+Mar-11,Europe,Italy,12143.0
+Mar-11,Europe,Russia,6043.0
+Mar-11,Europe,United Kingdom,9637.0
+Mar-11,Asia,China,8968.0
+Mar-11,Asia,India,2030.0
+Mar-11,Europe,France,8646.0
+Apr-11,Europe,Germany,9389.0
+Apr-11,Europe,Italy,8398.0
+Apr-11,Europe,Russia,5205.0
+Apr-11,Europe,United Kingdom,11167.0
+Apr-11,Asia,China,10165.0
+Apr-11,Asia,India,2109.0
+Apr-11,Europe,France,6557.0
+May-11,Europe,Germany,7467.0
+May-11,Europe,Italy,3077.0
+May-11,Europe,Russia,4793.0
+May-11,Europe,United Kingdom,7988.0
+May-11,Asia,China,14889.0
+May-11,Asia,India,2813.0
+May-11,Europe,France,2842.0
+Jun-11,Europe,Germany,5276.0
+Jun-11,Europe,Italy,2347.0
+Jun-11,Europe,Russia,3812.0
+Jun-11,Europe,United Kingdom,6338.0
+Jun-11,Asia,China,15410.0
+Jun-11,Asia,India,2659.0
+Jun-11,Europe,France,1758.0
+Jul-11,Europe,Germany,5034.0
+Jul-11,Europe,Italy,3208.0
+Jul-11,Europe,Russia,4565.0
+Jul-11,Europe,United Kingdom,7795.0
+Jul-11,Asia,China,23176.0
+Jul-11,Asia,India,2359.0
+Jul-11,Europe,France,1550.0
+Aug-11,Europe,Germany,5918.0
+Aug-11,Europe,Italy,7267.0
+Aug-11,Europe,Russia,5214.0
+Aug-11,Europe,United Kingdom,8855.0
+Aug-11,Asia,China,22827.0
+Aug-11,Asia,India,1963.0
+Aug-11,Europe,France,2588.0
+Sep-11,Europe,Germany,6956.0
+Sep-11,Europe,Italy,3479.0
+Sep-11,Europe,Russia,4594.0
+Sep-11,Europe,United Kingdom,8896.0
+Sep-11,Asia,China,20107.0
+Sep-11,Asia,India,1820.0
+Sep-11,Europe,France,2169.0
+Oct-11,Europe,Germany,10986.0
+Oct-11,Europe,Italy,4610.0
+Oct-11,Europe,Russia,5887.0
+Oct-11,Europe,United Kingdom,9537.0
+Oct-11,Asia,China,22595.0
+Oct-11,Asia,India,3007.0
+Oct-11,Europe,France,4355.0
+Nov-11,Europe,Germany,10058.0
+Nov-11,Europe,Italy,5543.0
+Nov-11,Europe,Russia,6008.0
+Nov-11,Europe,United Kingdom,8310.0
+Nov-11,Asia,China,16897.0
+Nov-11,Asia,India,3232.0
+Nov-11,Europe,France,5258.0
+Dec-11,Europe,Germany,7544.0
+Dec-11,Europe,Italy,8929.0
+Dec-11,Europe,Russia,7212.0
+Dec-11,Europe,United Kingdom,7889.0
+Dec-11,Asia,China,12495.0
+Dec-11,Asia,India,4122.0
+Dec-11,Europe,France,7079.0
+Jan-12,Europe,Germany,7532.0
+Jan-12,Europe,Italy,10451.0
+Jan-12,Europe,Russia,7418.0
+Jan-12,Europe,United Kingdom,7001.0
+Jan-12,Asia,China,28008.0
+Jan-12,Asia,India,2303.0
+Jan-12,Europe,France,7578.0
+Feb-12,Europe,Germany,8591.0
+Feb-12,Europe,Italy,8910.0
+Feb-12,Europe,Russia,5370.0
+Feb-12,Europe,United Kingdom,9006.0
+Feb-12,Asia,China,12237.0
+Feb-12,Asia,India,2219.0
+Feb-12,Europe,France,9742.0
+Mar-12,Europe,Germany,10232.0
+Mar-12,Europe,Italy,7578.0
+Mar-12,Europe,Russia,7131.0
+Mar-12,Europe,United Kingdom,8388.0
+Mar-12,Asia,China,6417.0
+Mar-12,Asia,India,1657.0
+Mar-12,Europe,France,7875.0
+Apr-12,Europe,Germany,10145.0
+Apr-12,Europe,Italy,6130.0
+Apr-12,Europe,Russia,6462.0
+Apr-12,Europe,United Kingdom,8934.0
+Apr-12,Asia,China,10523.0
+Apr-12,Asia,India,1877.0
+Apr-12,Europe,France,6587.0
+May-12,Europe,Germany,9736.0
+May-12,Europe,Italy,1874.0
+May-12,Europe,Russia,3960.0
+May-12,Europe,United Kingdom,6670.0
+May-12,Asia,China,16154.0
+May-12,Asia,India,2766.0
+May-12,Europe,France,2705.0
+Jun-12,Europe,Germany,4782.0
+Jun-12,Europe,Italy,1578.0
+Jun-12,Europe,Russia,3345.0
+Jun-12,Europe,United Kingdom,6146.0
+Jun-12,Asia,China,17809.0
+Jun-12,Asia,India,2495.0
+Jun-12,Europe,France,1251.0
+Jul-12,Europe,Germany,6199.0
+Jul-12,Europe,Italy,2853.0
+Jul-12,Europe,Russia,3918.0
+Jul-12,Europe,United Kingdom,7286.0
+Jul-12,Asia,China,27653.0
+Jul-12,Asia,India,2039.0
+Jul-12,Europe,France,1632.0
+Aug-12,Europe,Germany,6485.0
+Aug-12,Europe,Italy,5225.0
+Aug-12,Europe,Russia,4562.0
+Aug-12,Europe,United Kingdom,7450.0
+Aug-12,Asia,China,25138.0
+Aug-12,Asia,India,2264.0
+Aug-12,Europe,France,2785.0
+Sep-12,Europe,Germany,8248.0
+Sep-12,Europe,Italy,2749.0
+Sep-12,Europe,Russia,4274.0
+Sep-12,Europe,United Kingdom,7106.0
+Sep-12,Asia,China,25178.0
+Sep-12,Asia,India,2103.0
+Sep-12,Europe,France,2042.0
+Oct-12,Europe,Germany,10597.0
+Oct-12,Europe,Italy,3679.0
+Oct-12,Europe,Russia,5622.0
+Oct-12,Europe,United Kingdom,8666.0
+Oct-12,Asia,China,26301.0
+Oct-12,Asia,India,2546.0
+Oct-12,Europe,France,3815.0
+Nov-12,Europe,Germany,8729.0
+Nov-12,Europe,Italy,3551.0
+Nov-12,Europe,Russia,6860.0
+Nov-12,Europe,United Kingdom,7164.0
+Nov-12,Asia,China,18450.0
+Nov-12,Asia,India,3930.0
+Nov-12,Europe,France,4942.0
+Dec-12,Europe,Germany,7075.0
+Dec-12,Europe,Italy,8204.0
+Dec-12,Europe,Russia,7456.0
+Dec-12,Europe,United Kingdom,7959.0
+Dec-12,Asia,China,15683.0
+Dec-12,Asia,India,5522.0
+Dec-12,Europe,France,5821.0
+Jan-13,Europe,Germany,6926.0
+Jan-13,Europe,Italy,7050.0
+Jan-13,Europe,Russia,9061.0
+Jan-13,Europe,United Kingdom,6367.0
+Jan-13,Asia,China,19208.0
+Jan-13,Asia,India,3483.0
+Jan-13,Europe,France,6688.0
+Feb-13,Europe,Germany,7755.0
+Feb-13,Europe,Italy,7832.0
+Feb-13,Europe,Russia,6737.0
+Feb-13,Europe,United Kingdom,7745.0
+Feb-13,Asia,China,33592.0
+Feb-13,Asia,India,3493.0
+Feb-13,Europe,France,7666.0
+Mar-13,Europe,Germany,11001.0
+Mar-13,Europe,Italy,8365.0
+Mar-13,Europe,Russia,8457.0
+Mar-13,Europe,United Kingdom,8438.0
+Mar-13,Asia,China,17770.0
+Mar-13,Asia,India,2769.0
+Mar-13,Europe,France,7990.0
+Apr-13,Europe,Germany,8303.0
+Apr-13,Europe,Italy,5542.0
+Apr-13,Europe,Russia,6241.0
+Apr-13,Europe,United Kingdom,8654.0
+Apr-13,Asia,China,20329.0
+Apr-13,Asia,India,2521.0
+Apr-13,Europe,France,6021.0
+May-13,Europe,Germany,8812.0
+May-13,Europe,Italy,1813.0
+May-13,Europe,Russia,5230.0
+May-13,Europe,United Kingdom,6886.0
+May-13,Asia,China,23613.0
+May-13,Asia,India,3951.0
+May-13,Europe,France,3540.0
+Jun-13,Europe,Germany,4421.0
+Jun-13,Europe,Italy,1579.0
+Jun-13,Europe,Russia,4063.0
+Jun-13,Europe,United Kingdom,5100.0
+Jun-13,Asia,China,28007.0
+Jun-13,Asia,India,3214.0
+Jun-13,Europe,France,1081.0
+Jul-13,Europe,Germany,5418.0
+Jul-13,Europe,Italy,2683.0
+Jul-13,Europe,Russia,4612.0
+Jul-13,Europe,United Kingdom,6945.0
+Jul-13,Asia,China,36551.0
+Jul-13,Asia,India,2335.0
+Jul-13,Europe,France,1501.0
+Aug-13,Europe,Germany,5930.0
+Aug-13,Europe,Italy,5424.0
+Aug-13,Europe,Russia,5188.0
+Aug-13,Europe,United Kingdom,7409.0
+Aug-13,Asia,China,35814.0
+Aug-13,Asia,India,2576.0
+Aug-13,Europe,France,2692.0
+Sep-13,Europe,Germany,8148.0
+Sep-13,Europe,Italy,2722.0
+Sep-13,Europe,Russia,4833.0
+Sep-13,Europe,United Kingdom,6688.0
+Sep-13,Asia,China,35026.0
+Sep-13,Asia,India,2179.0
+Sep-13,Europe,France,2036.0
+Oct-13,Europe,Germany,10360.0
+Oct-13,Europe,Italy,3128.0
+Oct-13,Europe,Russia,6277.0
+Oct-13,Europe,United Kingdom,7714.0
+Oct-13,Asia,China,35041.0
+Oct-13,Asia,India,2703.0
+Oct-13,Europe,France,4388.0
+Nov-13,Europe,Germany,8869.0
+Nov-13,Europe,Italy,3686.0
+Nov-13,Europe,Russia,7675.0
+Nov-13,Europe,United Kingdom,6694.0
+Nov-13,Asia,China,26008.0
+Nov-13,Asia,India,3588.0
+Nov-13,Europe,France,4632.0
+Dec-13,Europe,Germany,7655.0
+Dec-13,Europe,Italy,8030.0
+Dec-13,Europe,Russia,8105.0
+Dec-13,Europe,United Kingdom,7229.0
+Dec-13,Asia,China,20760.0
+Dec-13,Asia,India,5202.0
+Dec-13,Europe,France,6093.0
+Jan-14,Europe,Germany,6527.0
+Jan-14,Europe,Italy,6879.0
+Jan-14,Europe,Russia,9289.0
+Jan-14,Europe,United Kingdom,6710.0
+Jan-14,Asia,China,30612.0
+Jan-14,Asia,India,3426.0
+Jan-14,Europe,France,6395.0
+Feb-14,Europe,Germany,8050.0
+Feb-14,Europe,Italy,7455.0
+Feb-14,Europe,Russia,6182.0
+Feb-14,Europe,United Kingdom,7913.0
+Feb-14,Asia,China,33213.0
+Feb-14,Asia,India,3596.0
+Feb-14,Europe,France,7943.0
+Mar-14,Europe,Germany,9973.0
+Mar-14,Europe,Italy,7953.0
+Mar-14,Europe,Russia,7121.0
+Mar-14,Europe,United Kingdom,8674.0
+Mar-14,Asia,China,23705.0
+Mar-14,Asia,India,3080.0
+Mar-14,Europe,France,7602.0
+Apr-14,Europe,Germany,10273.0
+Apr-14,Europe,Italy,6994.0
+Apr-14,Europe,Russia,5568.0
+Apr-14,Europe,United Kingdom,9462.0
+Apr-14,Asia,China,24034.0
+Apr-14,Asia,India,3622.0
+Apr-14,Europe,France,5537.0
+May-14,Europe,Germany,8365.0
+May-14,Europe,Italy,1847.0
+May-14,Europe,Russia,4878.0
+May-14,Europe,United Kingdom,7081.0
+May-14,Asia,China,29685.0
+May-14,Asia,India,4612.0
+May-14,Europe,France,3290.0
+Jun-14,Europe,Germany,5416.0
+Jun-14,Europe,Italy,1793.0
+Jun-14,Europe,Russia,4312.0
+Jun-14,Europe,United Kingdom,5415.0
+Jun-14,Asia,China,30000.0
+Jun-14,Asia,India,3847.0
+Jun-14,Europe,France,1203.0
+Jul-14,Europe,Germany,5371.0
+Jul-14,Europe,Italy,2742.0
+Jul-14,Europe,Russia,4624.0
+Jul-14,Europe,United Kingdom,6567.0
+Jul-14,Asia,China,43269.0
+Jul-14,Asia,India,3222.0
+Jul-14,Europe,France,1337.0
+Aug-14,Europe,Germany,7293.0
+Aug-14,Europe,Italy,4717.0
+Aug-14,Europe,Russia,4896.0
+Aug-14,Europe,United Kingdom,7742.0
+Aug-14,Asia,China,37895.0
+Aug-14,Asia,India,3119.0
+Aug-14,Europe,France,2437.0
+Sep-14,Europe,Germany,8163.0
+Sep-14,Europe,Italy,2819.0
+Sep-14,Europe,Russia,4047.0
+Sep-14,Europe,United Kingdom,7038.0
+Sep-14,Asia,China,34425.0
+Sep-14,Asia,India,3258.0
+Sep-14,Europe,France,1955.0
+Oct-14,Europe,Germany,11490.0
+Oct-14,Europe,Italy,2694.0
+Oct-14,Europe,Russia,5632.0
+Oct-14,Europe,United Kingdom,8017.0
+Oct-14,Asia,China,33828.0
+Oct-14,Asia,India,4646.0
+Oct-14,Europe,France,4001.0
+Nov-14,Europe,Germany,9483.0
+Nov-14,Europe,Italy,3583.0
+Nov-14,Europe,Russia,5273.0
+Nov-14,Europe,United Kingdom,6442.0
+Nov-14,Asia,China,24729.0
+Nov-14,Asia,India,3117.0
+Nov-14,Europe,France,3516.0
+Dec-14,Europe,Germany,7924.0
+Dec-14,Europe,Italy,8386.0
+Dec-14,Europe,Russia,4486.0
+Dec-14,Europe,United Kingdom,7643.0
+Dec-14,Asia,China,18231.0
+Dec-14,Asia,India,6042.0
+Dec-14,Europe,France,5440.0
+Jan-15,Europe,Germany,7093.0
+Jan-15,Europe,Italy,8039.0
+Jan-15,Europe,Russia,5790.0
+Jan-15,Europe,United Kingdom,7150.0
+Jan-15,Asia,China,20469.0
+Jan-15,Asia,India,3922.0
+Jan-15,Europe,France,5694.0
+Feb-15,Europe,Germany,8879.0
+Feb-15,Europe,Italy,8224.0
+Feb-15,Europe,Russia,2882.0
+Feb-15,Europe,United Kingdom,8752.0
+Feb-15,Asia,China,43349.0
+Feb-15,Asia,India,4235.0
+Feb-15,Europe,France,6690.0
+Mar-15,Europe,Germany,12203.0
+Mar-15,Europe,Italy,9725.0
+Mar-15,Europe,Russia,4048.0
+Mar-15,Europe,United Kingdom,9256.0
+Mar-15,Asia,China,25069.0
+Mar-15,Asia,India,3654.0
+Mar-15,Europe,France,5272.0
+Apr-15,Europe,Germany,8388.0
+Apr-15,Europe,Italy,5686.0
+Apr-15,Europe,Russia,3855.0
+Apr-15,Europe,United Kingdom,8793.0
+Apr-15,Asia,China,26398.0
+Apr-15,Asia,India,3750.0
+Apr-15,Europe,France,4973.0
+May-15,Europe,Germany,10371.0
+May-15,Europe,Italy,2163.0
+May-15,Europe,Russia,3053.0
+May-15,Europe,United Kingdom,6867.0
+May-15,Asia,China,30864.0
+May-15,Asia,India,5387.0
+May-15,Europe,France,2815.0
+Jun-15,Europe,Germany,4927.0
+Jun-15,Europe,Italy,2017.0
+Jun-15,Europe,Russia,2500.0
+Jun-15,Europe,United Kingdom,5923.0
+Jun-15,Asia,China,31965.0
+Jun-15,Asia,India,4390.0
+Jun-15,Europe,France,749.0
+Jul-15,Europe,Germany,5859.0
+Jul-15,Europe,Italy,2538.0
+Jul-15,Europe,Russia,3180.0
+Jul-15,Europe,United Kingdom,7174.0
+Jul-15,Asia,China,41527.0
+Jul-15,Asia,India,3376.0
+Jul-15,Europe,France,1081.0
+Aug-15,Europe,Germany,7698.0
+Aug-15,Europe,Italy,5603.0
+Aug-15,Europe,Russia,3347.0
+Aug-15,Europe,United Kingdom,7805.0
+Aug-15,Asia,China,40850.0
+Aug-15,Asia,India,3467.0
+Aug-15,Europe,France,2162.0
+Sep-15,Europe,Germany,8140.0
+Sep-15,Europe,Italy,2828.0
+Sep-15,Europe,Russia,2309.0
+Sep-15,Europe,United Kingdom,6799.0
+Sep-15,Asia,China,32198.0
+Sep-15,Asia,India,3323.0
+Sep-15,Europe,France,1664.0
+Oct-15,Europe,Germany,12252.0
+Oct-15,Europe,Italy,3084.0
+Oct-15,Europe,Russia,3860.0
+Oct-15,Europe,United Kingdom,7724.0
+Oct-15,Asia,China,30714.0
+Oct-15,Asia,India,4344.0
+Oct-15,Europe,France,3077.0
+Nov-15,Europe,Germany,9682.0
+Nov-15,Europe,Italy,4429.0
+Nov-15,Europe,Russia,3702.0
+Nov-15,Europe,United Kingdom,7001.0
+Nov-15,Asia,China,19856.0
+Nov-15,Asia,India,4857.0
+Nov-15,Europe,France,2846.0
+Dec-15,Europe,Germany,9640.0
+Dec-15,Europe,Italy,11280.0
+Dec-15,Europe,Russia,5797.0
+Dec-15,Europe,United Kingdom,9531.0
+Dec-15,Asia,China,16255.0
+Dec-15,Asia,India,7663.0
+Dec-15,Europe,France,5001.0
+Jan-16,Europe,Germany,7837.0
+Jan-16,Europe,Italy,8828.0
+Jan-16,Europe,Russia,5272.0
+Jan-16,Europe,United Kingdom,7728.0
+Jan-16,Asia,China,23241.0
+Jan-16,Asia,India,5182.0
+Jan-16,Europe,France,5127.0
+Feb-16,Europe,Germany,9247.0
+Feb-16,Europe,Italy,9253.0
+Feb-16,Europe,Russia,3274.0
+Feb-16,Europe,United Kingdom,10603.0
+Feb-16,Asia,China,34330.0
+Feb-16,Asia,India,4650.0
+Feb-16,Europe,France,6500.0
+Mar-16,Europe,Germany,13268.0
+Mar-16,Europe,Italy,9086.0
+Mar-16,Europe,Russia,4461.0
+Mar-16,Europe,United Kingdom,11095.0
+Mar-16,Asia,China,21741.0
+Mar-16,Asia,India,4339.0
+Mar-16,Europe,France,4798.0
+Apr-16,Europe,Germany,8810.0
+Apr-16,Europe,Italy,5490.0
+Apr-16,Europe,Russia,3363.0
+Apr-16,Europe,United Kingdom,8964.0
+Apr-16,Asia,China,24794.0
+Apr-16,Asia,India,4619.0
+Apr-16,Europe,France,4753.0
+May-16,Europe,Germany,10141.0
+May-16,Europe,Italy,2746.0
+May-16,Europe,Russia,3077.0
+May-16,Europe,United Kingdom,7253.0
+May-16,Asia,China,25005.0
+May-16,Asia,India,6651.0
+May-16,Europe,France,2286.0
+Jun-16,Europe,Germany,4617.0
+Jun-16,Europe,Italy,2583.0
+Jun-16,Europe,Russia,2939.0
+Jun-16,Europe,United Kingdom,5893.0
+Jun-16,Asia,China,28653.0
+Jun-16,Asia,India,4660.0
+Jun-16,Europe,France,778.0
+Jul-16,Europe,Germany,6008.0
+Jul-16,Europe,Italy,3257.0
+Jul-16,Europe,Russia,3415.0
+Jul-16,Europe,United Kingdom,7898.0
+Jul-16,Asia,China,36456.0
+Jul-16,Asia,India,4783.0
+Jul-16,Europe,France,1200.0
+Aug-16,Europe,Germany,6869.0
+Aug-16,Europe,Italy,6507.0
+Aug-16,Europe,Russia,3034.0
+Aug-16,Europe,United Kingdom,8852.0
+Aug-16,Asia,China,36217.0
+Aug-16,Asia,India,4175.0
+Aug-16,Europe,France,2322.0
+Sep-16,Europe,Germany,7826.0
+Sep-16,Europe,Italy,3172.0
+Sep-16,Europe,Russia,2990.0
+Sep-16,Europe,United Kingdom,7797.0
+Sep-16,Asia,China,29242.0
+Sep-16,Asia,India,5009.0
+Sep-16,Europe,France,1765.0
+Oct-16,Europe,Germany,13061.0
+Oct-16,Europe,Italy,4122.0
+Oct-16,Europe,Russia,4387.0
+Oct-16,Europe,United Kingdom,9111.0
+Oct-16,Asia,China,29444.0
+Oct-16,Asia,India,6301.0
+Oct-16,Europe,France,3565.0
+Nov-16,Europe,Germany,10759.0
+Nov-16,Europe,Italy,4987.0
+Nov-16,Europe,Russia,4750.0
+Nov-16,Europe,United Kingdom,8073.0
+Nov-16,Asia,China,18954.0
+Nov-16,Asia,India,6895.0
+Nov-16,Europe,France,2678.0
+Dec-16,Europe,Germany,7938.0
+Dec-16,Europe,Italy,11171.0
+Dec-16,Europe,Russia,5560.0
+Dec-16,Europe,United Kingdom,8576.0
+Dec-16,Asia,China,16249.0
+Dec-16,Asia,India,9691.0
+Dec-16,Europe,France,4715.0
+Jan-17,Europe,Germany,7803.0
+Jan-17,Europe,Italy,12079.0
+Jan-17,Europe,Russia,6874.0
+Jan-17,Europe,United Kingdom,8630.0
+Jan-17,Asia,China,30669.0
+Jan-17,Asia,India,6043.0
+Jan-17,Europe,France,4868.0
+Feb-17,Europe,Germany,8874.0
+Feb-17,Europe,Italy,11215.0
+Feb-17,Europe,Russia,5113.0
+Feb-17,Europe,United Kingdom,10395.0
+Feb-17,Asia,China,24263.0
+Feb-17,Asia,India,6105.0
+Feb-17,Europe,France,6785.0
+Mar-17,Europe,Germany,10216.0
+Mar-17,Europe,Italy,9900.0
+Mar-17,Europe,Russia,6413.0
+Mar-17,Europe,United Kingdom,10063.0
+Mar-17,Asia,China,18203.0
+Mar-17,Asia,India,5008.0
+Mar-17,Europe,France,5192.0
+Apr-17,Europe,Germany,11172.0
+Apr-17,Europe,Italy,8601.0
+Apr-17,Europe,Russia,5400.0
+Apr-17,Europe,United Kingdom,9417.0
+Apr-17,Asia,China,20975.0
+Apr-17,Asia,India,5362.0
+Apr-17,Europe,France,4938.0
+May-17,Europe,Germany,8742.0
+May-17,Europe,Italy,3131.0
+May-17,Europe,Russia,3564.0
+May-17,Europe,United Kingdom,7151.0
+May-17,Asia,China,23225.0
+May-17,Asia,India,8092.0
+May-17,Europe,France,2161.0
+Jun-17,Europe,Germany,6885.0
+Jun-17,Europe,Italy,2768.0
+Jun-17,Europe,Russia,3262.0
+Jun-17,Europe,United Kingdom,6081.0
+Jun-17,Asia,China,24160.0
+Jun-17,Asia,India,6919.0
+Jun-17,Europe,France,701.0
+Jul-17,Europe,Germany,6830.0
+Jul-17,Europe,Italy,3698.0
+Jul-17,Europe,Russia,4144.0
+Jul-17,Europe,United Kingdom,7705.0
+Jul-17,Asia,China,34276.0
+Jul-17,Asia,India,5386.0
+Jul-17,Europe,France,1504.0
+Aug-17,Europe,Germany,6916.0
+Aug-17,Europe,Italy,7227.0
+Aug-17,Europe,Russia,4166.0
+Aug-17,Europe,United Kingdom,8565.0
+Aug-17,Asia,China,33743.0
+Aug-17,Asia,India,6024.0
+Aug-17,Europe,France,2695.0
+Sep-17,Europe,Germany,8793.0
+Sep-17,Europe,Italy,3577.0
+Sep-17,Europe,Russia,3522.0
+Sep-17,Europe,United Kingdom,7499.0
+Sep-17,Asia,China,27214.0
+Sep-17,Asia,India,6788.0
+Sep-17,Europe,France,1515.0
+Oct-17,Europe,Germany,15007.0
+Oct-17,Europe,Italy,4898.0
+Oct-17,Europe,Russia,5485.0
+Oct-17,Europe,United Kingdom,9173.0
+Oct-17,Asia,China,28689.0
+Oct-17,Asia,India,7414.0
+Oct-17,Europe,France,3170.0
+Nov-17,Europe,Germany,11829.0
+Nov-17,Europe,Italy,7017.0
+Nov-17,Europe,Russia,6421.0
+Nov-17,Europe,United Kingdom,9579.0
+Nov-17,Asia,China,21195.0
+Nov-17,Asia,India,7231.0
+Nov-17,Europe,France,3345.0
+Dec-17,Europe,Germany,9042.0
+Dec-17,Europe,Italy,14756.0
+Dec-17,Europe,Russia,7567.0
+Dec-17,Europe,United Kingdom,9719.0
+Dec-17,Asia,China,19918.0
+Dec-17,Asia,India,12647.0
+Dec-17,Europe,France,5491.0
+Jan-18,Europe,Germany,8329.0
+Jan-18,Europe,Italy,14329.0
+Jan-18,Europe,Russia,9595.0
+Jan-18,Europe,United Kingdom,9442.0
+Jan-18,Asia,China,25830.0
+Jan-18,Asia,India,8481.0
+Jan-18,Europe,France,6335.0
+Feb-18,Europe,Germany,9785.0
+Feb-18,Europe,Italy,13962.0
+Feb-18,Europe,Russia,6953.0
+Feb-18,Europe,United Kingdom,11362.0
+Feb-18,Asia,China,33506.0
+Feb-18,Asia,India,6038.0
+Feb-18,Europe,France,8058.0
+Mar-18,Europe,Germany,14692.0
+Mar-18,Europe,Italy,13198.0
+Mar-18,Europe,Russia,7867.0
+Mar-18,Europe,United Kingdom,11829.0
+Mar-18,Asia,China,13203.0
+Mar-18,Asia,India,4916.0
+Mar-18,Europe,France,6452.0
+Apr-18,Europe,Germany,9070.0
+Apr-18,Europe,Italy,8389.0
+Apr-18,Europe,Russia,6433.0
+Apr-18,Europe,United Kingdom,10866.0
+Apr-18,Asia,China,15093.0
+Apr-18,Asia,India,5588.0
+Apr-18,Europe,France,5903.0
+May-18,Europe,Germany,10668.0
+May-18,Europe,Italy,3258.0
+May-18,Europe,Russia,3903.0
+May-18,Europe,United Kingdom,7577.0
+May-18,Asia,China,16927.0
+May-18,Asia,India,8711.0
+May-18,Europe,France,2555.0
+Jun-18,Europe,Germany,5283.0
+Jun-18,Europe,Italy,3236.0
+Jun-18,Europe,Russia,3646.0
+Jun-18,Europe,United Kingdom,6459.0
+Jun-18,Asia,China,22853.0
+Jun-18,Asia,India,7348.0
+Jun-18,Europe,France,1057.0
+Jul-18,Europe,Germany,6932.0
+Jul-18,Europe,Italy,4644.0
+Jul-18,Europe,Russia,4370.0
+Jul-18,Europe,United Kingdom,8421.0
+Jul-18,Asia,China,33227.0
+Jul-18,Asia,India,5694.0
+Jul-18,Europe,France,2043.0
+Aug-18,Europe,Germany,6382.0
+Aug-18,Europe,Italy,8771.0
+Aug-18,Europe,Russia,4525.0
+Aug-18,Europe,United Kingdom,9249.0
+Aug-18,Asia,China,33472.0
+Aug-18,Asia,India,4299.0
+Aug-18,Europe,France,2714.0
+Sep-18,Europe,Germany,9112.0
+Sep-18,Europe,Italy,4133.0
+Sep-18,Europe,Russia,3790.0
+Sep-18,Europe,United Kingdom,8106.0
+Sep-18,Asia,China,27997.0
+Sep-18,Asia,India,5244.0
+Sep-18,Europe,France,1853.0
+Oct-18,Europe,Germany,13364.0
+Oct-18,Europe,Italy,5663.0
+Oct-18,Europe,Russia,5800.0
+Oct-18,Europe,United Kingdom,9989.0
+Oct-18,Asia,China,25803.0
+Oct-18,Asia,India,7905.0
+Oct-18,Europe,France,3743.0
+Nov-18,Europe,Germany,13043.0
+Nov-18,Europe,Italy,7927.0
+Nov-18,Europe,Russia,6901.0
+Nov-18,Europe,United Kingdom,10518.0
+Nov-18,Asia,China,18465.0
+Nov-18,Asia,India,11590.0
+Nov-18,Europe,France,3349.0
+Dec-18,Europe,Germany,10872.0
+Dec-18,Europe,Italy,17787.0
+Dec-18,Europe,Russia,7152.0
+Dec-18,Europe,United Kingdom,10784.0
+Dec-18,Asia,China,16740.0
+Dec-18,Asia,India,14660.0
+Dec-18,Europe,France,6414.0
+Jan-19,Europe,Germany,9819.0
+Jan-19,Europe,Italy,16768.0
+Jan-19,Europe,Russia,9668.0
+Jan-19,Europe,United Kingdom,10175.0
+Jan-19,Asia,China,25804.0
+Jan-19,Asia,India,11633.0
+Jan-19,Europe,France,7153.0
+Feb-19,Europe,Germany,11140.0
+Feb-19,Europe,Italy,17795.0
+Feb-19,Europe,Russia,7334.0
+Feb-19,Europe,United Kingdom,13564.0
+Feb-19,Asia,China,31285.0
+Feb-19,Asia,India,12584.0
+Feb-19,Europe,France,10730.0
+Mar-19,Europe,Germany,16320.0
+Mar-19,Europe,Italy,18285.0
+Mar-19,Europe,Russia,9282.0
+Mar-19,Europe,United Kingdom,12377.0
+Mar-19,Asia,China,19479.0
+Mar-19,Asia,India,11836.0
+Mar-19,Europe,France,8809.0
+Apr-19,Europe,Germany,17583.0
+Apr-19,Europe,Italy,15043.0
+Apr-19,Europe,Russia,6475.0
+Apr-19,Europe,United Kingdom,12876.0
+Apr-19,Asia,China,18704.0
+Apr-19,Asia,India,12823.0
+Apr-19,Europe,France,7244.0
+May-19,Europe,Germany,7545.0
+May-19,Europe,Italy,3443.0
+May-19,Europe,Russia,5397.0
+May-19,Europe,United Kingdom,8655.0
+May-19,Asia,China,21010.0
+May-19,Asia,India,17389.0
+May-19,Europe,France,2008.0
+Jun-19,Europe,Germany,6830.0
+Jun-19,Europe,Italy,4042.0
+Jun-19,Europe,Russia,4793.0
+Jun-19,Europe,United Kingdom,7145.0
+Jun-19,Asia,China,23983.0
+Jun-19,Asia,India,15875.0
+Jun-19,Europe,France,1439.0
+Jul-19,Europe,Germany,8266.0
+Jul-19,Europe,Italy,5337.0
+Jul-19,Europe,Russia,5345.0
+Jul-19,Europe,United Kingdom,8470.0
+Jul-19,Asia,China,32569.0
+Jul-19,Asia,India,11035.0
+Jul-19,Europe,France,2242.0
+Aug-19,Europe,Germany,7242.0
+Aug-19,Europe,Italy,11449.0
+Aug-19,Europe,Russia,5175.0
+Aug-19,Europe,United Kingdom,9827.0
+Aug-19,Asia,China,32757.0
+Aug-19,Asia,India,11067.0
+Aug-19,Europe,France,3173.0
+Sep-19,Europe,Germany,8982.0
+Sep-19,Europe,Italy,5213.0
+Sep-19,Europe,Russia,4837.0
+Sep-19,Europe,United Kingdom,7876.0
+Sep-19,Asia,China,24758.0
+Sep-19,Asia,India,11265.0
+Sep-19,Europe,France,1924.0
+Oct-19,Europe,Germany,13625.0
+Oct-19,Europe,Italy,6560.0
+Oct-19,Europe,Russia,7855.0
+Oct-19,Europe,United Kingdom,11321.0
+Oct-19,Asia,China,21926.0
+Oct-19,Asia,India,15110.0
+Oct-19,Europe,France,3940.0
+Nov-19,Europe,Germany,12816.0
+Nov-19,Europe,Italy,11114.0
+Nov-19,Europe,Russia,8171.0
+Nov-19,Europe,United Kingdom,11936.0
+Nov-19,Asia,China,15600.0
+Nov-19,Asia,India,14430.0
+Nov-19,Europe,France,4229.0
+Dec-19,Europe,Germany,11393.0
+Dec-19,Europe,Italy,21294.0
+Dec-19,Europe,Russia,9037.0
+Dec-19,Europe,United Kingdom,11977.0
+Dec-19,Asia,China,16154.0
+Dec-19,Asia,India,20983.0
+Dec-19,Europe,France,6847.0
+Jan-20,Europe,Germany,9859.0
+Jan-20,Europe,Italy,20766.0
+Jan-20,Europe,Russia,12531.0
+Jan-20,Europe,United Kingdom,10734.0
+Jan-20,Asia,China,31744.0
+Jan-20,Asia,India,13845.0
+Jan-20,Europe,France,6955.0
+Feb-20,Europe,Germany,11698.0
+Feb-20,Europe,Italy,19849.0
+Feb-20,Europe,Russia,9690.0
+Feb-20,Europe,United Kingdom,14796.0
+Feb-20,Asia,China,1647.0
+Feb-20,Asia,India,15521.0
+Feb-20,Europe,France,10787.0
+Feb-20,Oceania,Australia,2040.0
+Feb-20,Americas,United States,4543.0
+Mar-20,Europe,Germany,6671.0
+Mar-20,Europe,Italy,3996.0
+Mar-20,Europe,Russia,6728.0
+Mar-20,Europe,United Kingdom,7288.0
+Mar-20,Asia,China,498.0
+Mar-20,Asia,India,5496.0
+Mar-20,Europe,France,4042.0
+Mar-20,Oceania,Australia,1388.0
+Mar-20,Americas,United States,1820.0
+Apr-20,Europe,Germany,0.0
+Apr-20,Europe,Italy,0.0
+Apr-20,Europe,Russia,0.0
+Apr-20,Europe,United Kingdom,0.0
+Apr-20,Asia,China,0.0
+Apr-20,Asia,India,1.0
+Apr-20,Europe,France,0.0
+Apr-20,Oceania,Australia,0.0
+Apr-20,Americas,United States,0.0
+May-20,Europe,Germany,11.0
+May-20,Europe,Italy,1.0
+May-20,Europe,Russia,0.0
+May-20,Europe,United Kingdom,0.0
+May-20,Asia,China,0.0
+May-20,Asia,India,1.0
+May-20,Europe,France,1.0
+May-20,Oceania,Australia,0.0
+May-20,Americas,United States,0.0
+Jun-20,Europe,Germany,0.0
+Jun-20,Europe,Italy,0.0
+Jun-20,Europe,Russia,0.0
+Jun-20,Europe,United Kingdom,1.0
+Jun-20,Asia,China,0.0
+Jun-20,Asia,India,0.0
+Jun-20,Europe,France,0.0
+Jun-20,Oceania,Australia,0.0
+Jun-20,Americas,United States,0.0
+Jul-20,Europe,Germany,133.0
+Jul-20,Europe,Italy,44.0
+Jul-20,Europe,Russia,52.0
+Jul-20,Europe,United Kingdom,256.0
+Jul-20,Asia,China,16.0
+Jul-20,Asia,India,31.0
+Jul-20,Europe,France,58.0
+Jul-20,Oceania,Australia,17.0
+Jul-20,Americas,United States,189.0
+Aug-20,Europe,Germany,306.0
+Aug-20,Europe,Italy,513.0
+Aug-20,Europe,Russia,423.0
+Aug-20,Europe,United Kingdom,715.0
+Aug-20,Asia,China,34.0
+Aug-20,Asia,India,115.0
+Aug-20,Europe,France,301.0
+Aug-20,Oceania,Australia,49.0
+Aug-20,Americas,United States,674.0
+Sep-20,Europe,Germany,362.0
+Sep-20,Europe,Italy,72.0
+Sep-20,Europe,Russia,2065.0
+Sep-20,Europe,United Kingdom,628.0
+Sep-20,Asia,China,33.0
+Sep-20,Asia,India,308.0
+Sep-20,Europe,France,279.0
+Sep-20,Oceania,Australia,61.0
+Sep-20,Americas,United States,935.0
+Oct-20,Europe,Germany,949.0
+Oct-20,Europe,Italy,137.0
+Oct-20,Europe,Russia,5995.0
+Oct-20,Europe,United Kingdom,1780.0
+Oct-20,Asia,China,41.0
+Oct-20,Asia,India,1396.0
+Oct-20,Europe,France,1093.0
+Oct-20,Oceania,Australia,160.0
+Oct-20,Americas,United States,1449.0
+Nov-20,Europe,Germany,2083.0
+Nov-20,Europe,Italy,267.0
+Nov-20,Europe,Russia,8580.0
+Nov-20,Europe,United Kingdom,2091.0
+Nov-20,Asia,China,61.0
+Nov-20,Asia,India,7609.0
+Nov-20,Europe,France,517.0
+Nov-20,Oceania,Australia,209.0
+Nov-20,Americas,United States,2093.0
+Dec-20,Europe,Germany,4363.0
+Dec-20,Europe,Italy,1045.0
+Dec-20,Europe,Russia,15323.0
+Dec-20,Europe,United Kingdom,14431.0
+Dec-20,Asia,China,171.0
+Dec-20,Asia,India,18637.0
+Dec-20,Europe,France,3998.0
+Dec-20,Oceania,Australia,607.0
+Dec-20,Americas,United States,3005.0
+Jan-10,Europe,Unknown,11991.0
+Jan-10,Asia,Unknown,5432.0
+Jan-10,Africa,Unknown,
+Jan-10,Americas,Unknown,
+Jan-10,Oceania,Unknown,
+Jan-10,Middle East,Unknown,
+Feb-10,Europe,Unknown,11966.0
+Feb-10,Asia,Unknown,5838.0
+Feb-10,Africa,Unknown,
+Feb-10,Americas,Unknown,
+Feb-10,Oceania,Unknown,
+Feb-10,Middle East,Unknown,
+Mar-10,Europe,Unknown,12069.0
+Mar-10,Asia,Unknown,7079.0
+Mar-10,Africa,Unknown,
+Mar-10,Americas,Unknown,
+Mar-10,Oceania,Unknown,
+Mar-10,Middle East,Unknown,
+Apr-10,Europe,Unknown,8241.0
+Apr-10,Asia,Unknown,7507.0
+Apr-10,Africa,Unknown,
+Apr-10,Americas,Unknown,
+Apr-10,Oceania,Unknown,
+Apr-10,Middle East,Unknown,
+May-10,Europe,Unknown,7154.0
+May-10,Asia,Unknown,9599.0
+May-10,Africa,Unknown,
+May-10,Americas,Unknown,
+May-10,Oceania,Unknown,
+May-10,Middle East,Unknown,
+Jun-10,Europe,Unknown,5854.0
+Jun-10,Asia,Unknown,6762.0
+Jun-10,Africa,Unknown,
+Jun-10,Americas,Unknown,
+Jun-10,Oceania,Unknown,
+Jun-10,Middle East,Unknown,
+Jul-10,Europe,Unknown,8759.0
+Jul-10,Asia,Unknown,7334.0
+Jul-10,Africa,Unknown,
+Jul-10,Americas,Unknown,
+Jul-10,Oceania,Unknown,
+Jul-10,Middle East,Unknown,
+Aug-10,Europe,Unknown,8991.0
+Aug-10,Asia,Unknown,7965.0
+Aug-10,Africa,Unknown,
+Aug-10,Americas,Unknown,
+Aug-10,Oceania,Unknown,
+Aug-10,Middle East,Unknown,
+Sep-10,Europe,Unknown,8685.0
+Sep-10,Asia,Unknown,8263.0
+Sep-10,Africa,Unknown,
+Sep-10,Americas,Unknown,
+Sep-10,Oceania,Unknown,
+Sep-10,Middle East,Unknown,
+Oct-10,Europe,Unknown,11611.0
+Oct-10,Asia,Unknown,10241.0
+Oct-10,Africa,Unknown,
+Oct-10,Americas,Unknown,
+Oct-10,Oceania,Unknown,
+Oct-10,Middle East,Unknown,
+Nov-10,Europe,Unknown,12651.0
+Nov-10,Asia,Unknown,10211.0
+Nov-10,Africa,Unknown,
+Nov-10,Americas,Unknown,
+Nov-10,Oceania,Unknown,
+Nov-10,Middle East,Unknown,
+Dec-10,Europe,Unknown,12662.0
+Dec-10,Asia,Unknown,8934.0
+Dec-10,Africa,Unknown,
+Dec-10,Americas,Unknown,
+Dec-10,Oceania,Unknown,
+Dec-10,Middle East,Unknown,
+Jan-11,Europe,Unknown,13414.0
+Jan-11,Asia,Unknown,6075.0
+Jan-11,Africa,Unknown,
+Jan-11,Americas,Unknown,
+Jan-11,Oceania,Unknown,
+Jan-11,Middle East,Unknown,
+Feb-11,Europe,Unknown,14115.0
+Feb-11,Asia,Unknown,6763.0
+Feb-11,Africa,Unknown,
+Feb-11,Americas,Unknown,
+Feb-11,Oceania,Unknown,
+Feb-11,Middle East,Unknown,
+Mar-11,Europe,Unknown,12523.0
+Mar-11,Asia,Unknown,7419.0
+Mar-11,Africa,Unknown,
+Mar-11,Americas,Unknown,
+Mar-11,Oceania,Unknown,
+Mar-11,Middle East,Unknown,
+Apr-11,Europe,Unknown,13084.0
+Apr-11,Asia,Unknown,8400.0
+Apr-11,Africa,Unknown,
+Apr-11,Americas,Unknown,
+Apr-11,Oceania,Unknown,
+Apr-11,Middle East,Unknown,
+May-11,Europe,Unknown,7774.0
+May-11,Asia,Unknown,8808.0
+May-11,Africa,Unknown,
+May-11,Americas,Unknown,
+May-11,Oceania,Unknown,
+May-11,Middle East,Unknown,
+Jun-11,Europe,Unknown,6067.0
+Jun-11,Asia,Unknown,7977.0
+Jun-11,Africa,Unknown,
+Jun-11,Americas,Unknown,
+Jun-11,Oceania,Unknown,
+Jun-11,Middle East,Unknown,
+Jul-11,Europe,Unknown,9766.0
+Jul-11,Asia,Unknown,8571.0
+Jul-11,Africa,Unknown,
+Jul-11,Americas,Unknown,
+Jul-11,Oceania,Unknown,
+Jul-11,Middle East,Unknown,
+Aug-11,Europe,Unknown,9409.0
+Aug-11,Asia,Unknown,8543.0
+Aug-11,Africa,Unknown,
+Aug-11,Americas,Unknown,
+Aug-11,Oceania,Unknown,
+Aug-11,Middle East,Unknown,
+Sep-11,Europe,Unknown,9018.0
+Sep-11,Asia,Unknown,9309.0
+Sep-11,Africa,Unknown,
+Sep-11,Americas,Unknown,
+Sep-11,Oceania,Unknown,
+Sep-11,Middle East,Unknown,
+Oct-11,Europe,Unknown,13697.0
+Oct-11,Asia,Unknown,11660.0
+Oct-11,Africa,Unknown,
+Oct-11,Americas,Unknown,
+Oct-11,Oceania,Unknown,
+Oct-11,Middle East,Unknown,
+Nov-11,Europe,Unknown,13120.0
+Nov-11,Asia,Unknown,11074.0
+Nov-11,Africa,Unknown,
+Nov-11,Americas,Unknown,
+Nov-11,Oceania,Unknown,
+Nov-11,Middle East,Unknown,
+Dec-11,Europe,Unknown,13799.0
+Dec-11,Asia,Unknown,10460.0
+Dec-11,Africa,Unknown,
+Dec-11,Americas,Unknown,
+Dec-11,Oceania,Unknown,
+Dec-11,Middle East,Unknown,
+Jan-12,Europe,Unknown,14777.0
+Jan-12,Asia,Unknown,6118.0
+Jan-12,Africa,Unknown,
+Jan-12,Americas,Unknown,
+Jan-12,Oceania,Unknown,
+Jan-12,Middle East,Unknown,
+Feb-12,Europe,Unknown,16058.0
+Feb-12,Asia,Unknown,6693.0
+Feb-12,Africa,Unknown,
+Feb-12,Americas,Unknown,
+Feb-12,Oceania,Unknown,
+Feb-12,Middle East,Unknown,
+Mar-12,Europe,Unknown,13425.0
+Mar-12,Asia,Unknown,8041.0
+Mar-12,Africa,Unknown,
+Mar-12,Americas,Unknown,
+Mar-12,Oceania,Unknown,
+Mar-12,Middle East,Unknown,
+Apr-12,Europe,Unknown,12935.0
+Apr-12,Asia,Unknown,9328.0
+Apr-12,Africa,Unknown,
+Apr-12,Americas,Unknown,
+Apr-12,Oceania,Unknown,
+Apr-12,Middle East,Unknown,
+May-12,Europe,Unknown,7655.0
+May-12,Asia,Unknown,7243.0
+May-12,Africa,Unknown,
+May-12,Americas,Unknown,
+May-12,Oceania,Unknown,
+May-12,Middle East,Unknown,
+Jun-12,Europe,Unknown,6580.0
+Jun-12,Asia,Unknown,8953.0
+Jun-12,Africa,Unknown,
+Jun-12,Americas,Unknown,
+Jun-12,Oceania,Unknown,
+Jun-12,Middle East,Unknown,
+Jul-12,Europe,Unknown,10816.0
+Jul-12,Asia,Unknown,7914.0
+Jul-12,Africa,Unknown,
+Jul-12,Americas,Unknown,
+Jul-12,Oceania,Unknown,
+Jul-12,Middle East,Unknown,
+Aug-12,Europe,Unknown,8981.0
+Aug-12,Asia,Unknown,10050.0
+Aug-12,Africa,Unknown,
+Aug-12,Americas,Unknown,
+Aug-12,Oceania,Unknown,
+Aug-12,Middle East,Unknown,
+Sep-12,Europe,Unknown,9556.0
+Sep-12,Asia,Unknown,9397.0
+Sep-12,Africa,Unknown,
+Sep-12,Americas,Unknown,
+Sep-12,Oceania,Unknown,
+Sep-12,Middle East,Unknown,
+Oct-12,Europe,Unknown,13150.0
+Oct-12,Asia,Unknown,10375.0
+Oct-12,Africa,Unknown,
+Oct-12,Americas,Unknown,
+Oct-12,Oceania,Unknown,
+Oct-12,Middle East,Unknown,
+Nov-12,Europe,Unknown,12602.0
+Nov-12,Asia,Unknown,10708.0
+Nov-12,Africa,Unknown,
+Nov-12,Americas,Unknown,
+Nov-12,Oceania,Unknown,
+Nov-12,Middle East,Unknown,
+Dec-12,Europe,Unknown,15212.0
+Dec-12,Asia,Unknown,11588.0
+Dec-12,Africa,Unknown,
+Dec-12,Americas,Unknown,
+Dec-12,Oceania,Unknown,
+Dec-12,Middle East,Unknown,
+Jan-13,Europe,Unknown,16229.0
+Jan-13,Asia,Unknown,7083.0
+Jan-13,Africa,Unknown,
+Jan-13,Americas,Unknown,
+Jan-13,Oceania,Unknown,
+Jan-13,Middle East,Unknown,
+Feb-13,Europe,Unknown,16360.0
+Feb-13,Asia,Unknown,7706.0
+Feb-13,Africa,Unknown,
+Feb-13,Americas,Unknown,
+Feb-13,Oceania,Unknown,
+Feb-13,Middle East,Unknown,
+Mar-13,Europe,Unknown,16953.0
+Mar-13,Asia,Unknown,10108.0
+Mar-13,Africa,Unknown,
+Mar-13,Americas,Unknown,
+Mar-13,Oceania,Unknown,
+Mar-13,Middle East,Unknown,
+Apr-13,Europe,Unknown,14217.0
+Apr-13,Asia,Unknown,11053.0
+Apr-13,Africa,Unknown,
+Apr-13,Americas,Unknown,
+Apr-13,Oceania,Unknown,
+Apr-13,Middle East,Unknown,
+May-13,Europe,Unknown,8886.0
+May-13,Asia,Unknown,10382.0
+May-13,Africa,Unknown,
+May-13,Americas,Unknown,
+May-13,Oceania,Unknown,
+May-13,Middle East,Unknown,
+Jun-13,Europe,Unknown,7994.0
+Jun-13,Asia,Unknown,11392.0
+Jun-13,Africa,Unknown,
+Jun-13,Americas,Unknown,
+Jun-13,Oceania,Unknown,
+Jun-13,Middle East,Unknown,
+Jul-13,Europe,Unknown,11542.0
+Jul-13,Asia,Unknown,10433.0
+Jul-13,Africa,Unknown,
+Jul-13,Americas,Unknown,
+Jul-13,Oceania,Unknown,
+Jul-13,Middle East,Unknown,
+Aug-13,Europe,Unknown,9997.0
+Aug-13,Asia,Unknown,13060.0
+Aug-13,Africa,Unknown,
+Aug-13,Americas,Unknown,
+Aug-13,Oceania,Unknown,
+Aug-13,Middle East,Unknown,
+Sep-13,Europe,Unknown,11147.0
+Sep-13,Asia,Unknown,11974.0
+Sep-13,Africa,Unknown,
+Sep-13,Americas,Unknown,
+Sep-13,Oceania,Unknown,
+Sep-13,Middle East,Unknown,
+Sep-13,UN passport holders and others,Unknown,
+Oct-13,Europe,Unknown,14663.0
+Oct-13,Asia,Unknown,13854.0
+Oct-13,Africa,Unknown,
+Oct-13,Americas,Unknown,
+Oct-13,Oceania,Unknown,
+Oct-13,Middle East,Unknown,
+Oct-13,UN passport holders and others,Unknown,
+Nov-13,Europe,Unknown,14338.0
+Nov-13,Asia,Unknown,12752.0
+Nov-13,Africa,Unknown,
+Nov-13,Americas,Unknown,
+Nov-13,Oceania,Unknown,
+Nov-13,Middle East,Unknown,
+Nov-13,UN passport holders and others,Unknown,
+Dec-13,Europe,Unknown,16820.0
+Dec-13,Asia,Unknown,16223.0
+Dec-13,Africa,Unknown,
+Dec-13,Americas,Unknown,
+Dec-13,Oceania,Unknown,
+Dec-13,Middle East,Unknown,
+Dec-13,UN passport holders and others,Unknown,
+Jan-14,Europe,Unknown,16495.0
+Jan-14,Asia,Unknown,9919.0
+Jan-14,Africa,Unknown,
+Jan-14,Americas,Unknown,
+Jan-14,Oceania,Unknown,
+Jan-14,Middle East,Unknown,
+Jan-14,UN passport holders and others,Unknown,
+Feb-14,Europe,Unknown,18237.0
+Feb-14,Asia,Unknown,10885.0
+Feb-14,Africa,Unknown,
+Feb-14,Americas,Unknown,
+Feb-14,Oceania,Unknown,
+Feb-14,Middle East,Unknown,
+Feb-14,UN passport holders and others,Unknown,
+Mar-14,Europe,Unknown,15672.0
+Mar-14,Asia,Unknown,13124.0
+Mar-14,Africa,Unknown,
+Mar-14,Americas,Unknown,
+Mar-14,Oceania,Unknown,
+Mar-14,Middle East,Unknown,
+Mar-14,UN passport holders and others,Unknown,
+Apr-14,Europe,Unknown,16154.0
+Apr-14,Asia,Unknown,13556.0
+Apr-14,Africa,Unknown,
+Apr-14,Americas,Unknown,
+Apr-14,Oceania,Unknown,
+Apr-14,Middle East,Unknown,
+Apr-14,UN passport holders and others,Unknown,
+May-14,Europe,Unknown,9083.0
+May-14,Asia,Unknown,14438.0
+May-14,Africa,Unknown,
+May-14,Americas,Unknown,
+May-14,Oceania,Unknown,
+May-14,Middle East,Unknown,
+May-14,UN passport holders and others,Unknown,
+Jun-14,Europe,Unknown,8145.0
+Jun-14,Asia,Unknown,14091.0
+Jun-14,Africa,Unknown,
+Jun-14,Americas,Unknown,
+Jun-14,Oceania,Unknown,
+Jun-14,Middle East,Unknown,
+Jun-14,UN passport holders and others,Unknown,
+Jul-14,Europe,Unknown,12588.0
+Jul-14,Asia,Unknown,12639.0
+Jul-14,Africa,Unknown,
+Jul-14,Americas,Unknown,
+Jul-14,Oceania,Unknown,
+Jul-14,Middle East,Unknown,
+Jul-14,UN passport holders and others,Unknown,
+Aug-14,Europe,Unknown,11658.0
+Aug-14,Asia,Unknown,13385.0
+Aug-14,Africa,Unknown,
+Aug-14,Americas,Unknown,
+Aug-14,Oceania,Unknown,
+Aug-14,Middle East,Unknown,
+Aug-14,UN passport holders and others,Unknown,
+Sep-14,Europe,Unknown,11034.0
+Sep-14,Asia,Unknown,13547.0
+Sep-14,Africa,Unknown,
+Sep-14,Americas,Unknown,
+Sep-14,Oceania,Unknown,
+Sep-14,Middle East,Unknown,
+Sep-14,UN passport holders and others,Unknown,
+Oct-14,Europe,Unknown,15587.0
+Oct-14,Asia,Unknown,14250.0
+Oct-14,Africa,Unknown,
+Oct-14,Americas,Unknown,
+Oct-14,Oceania,Unknown,
+Oct-14,Middle East,Unknown,
+Oct-14,UN passport holders and others,Unknown,
+Nov-14,Europe,Unknown,14491.0
+Nov-14,Asia,Unknown,12368.0
+Nov-14,Africa,Unknown,
+Nov-14,Americas,Unknown,
+Nov-14,Oceania,Unknown,
+Nov-14,Middle East,Unknown,
+Nov-14,UN passport holders and others,Unknown,
+Dec-14,Europe,Unknown,18289.0
+Dec-14,Asia,Unknown,16616.0
+Dec-14,Africa,Unknown,
+Dec-14,Americas,Unknown,
+Dec-14,Oceania,Unknown,
+Dec-14,Middle East,Unknown,
+Dec-14,UN passport holders and others,Unknown,
+Jan-15,Europe,Unknown,18779.0
+Jan-15,Asia,Unknown,10140.0
+Jan-15,Africa,Unknown,
+Jan-15,Americas,Unknown,
+Jan-15,Oceania,Unknown,
+Jan-15,Middle East,Unknown,
+Jan-15,UN passport holders and others,Unknown,
+Feb-15,Europe,Unknown,19291.0
+Feb-15,Asia,Unknown,10226.0
+Feb-15,Africa,Unknown,
+Feb-15,Americas,Unknown,
+Feb-15,Oceania,Unknown,
+Feb-15,Middle East,Unknown,
+Feb-15,UN passport holders and others,Unknown,
+Mar-15,Europe,Unknown,18414.0
+Mar-15,Asia,Unknown,13799.0
+Mar-15,Africa,Unknown,
+Mar-15,Americas,Unknown,
+Mar-15,Oceania,Unknown,
+Mar-15,Middle East,Unknown,
+Mar-15,UN passport holders and others,Unknown,
+Apr-15,Europe,Unknown,15764.0
+Apr-15,Asia,Unknown,13490.0
+Apr-15,Africa,Unknown,
+Apr-15,Americas,Unknown,
+Apr-15,Oceania,Unknown,
+Apr-15,Middle East,Unknown,
+Apr-15,UN passport holders and others,Unknown,
+May-15,Europe,Unknown,10134.0
+May-15,Asia,Unknown,14699.0
+May-15,Africa,Unknown,
+May-15,Americas,Unknown,
+May-15,Oceania,Unknown,
+May-15,Middle East,Unknown,
+May-15,UN passport holders and others,Unknown,
+Jun-15,Europe,Unknown,8158.0
+Jun-15,Asia,Unknown,12746.0
+Jun-15,Africa,Unknown,
+Jun-15,Americas,Unknown,
+Jun-15,Oceania,Unknown,
+Jun-15,Middle East,Unknown,
+Jun-15,UN passport holders and others,Unknown,
+Jul-15,Europe,Unknown,14189.0
+Jul-15,Asia,Unknown,14234.0
+Jul-15,Africa,Unknown,
+Jul-15,Americas,Unknown,
+Jul-15,Oceania,Unknown,
+Jul-15,Middle East,Unknown,
+Jul-15,UN passport holders and others,Unknown,
+Aug-15,Europe,Unknown,13266.0
+Aug-15,Asia,Unknown,14880.0
+Aug-15,Africa,Unknown,
+Aug-15,Americas,Unknown,
+Aug-15,Oceania,Unknown,
+Aug-15,Middle East,Unknown,
+Aug-15,UN passport holders and others,Unknown,
+Sep-15,Europe,Unknown,12391.0
+Sep-15,Asia,Unknown,14781.0
+Sep-15,Africa,Unknown,
+Sep-15,Americas,Unknown,
+Sep-15,Oceania,Unknown,
+Sep-15,Middle East,Unknown,
+Sep-15,UN passport holders and others,Unknown,
+Oct-15,Europe,Unknown,17372.0
+Oct-15,Asia,Unknown,15069.0
+Oct-15,Africa,Unknown,
+Oct-15,Americas,Unknown,
+Oct-15,Oceania,Unknown,
+Oct-15,Middle East,Unknown,
+Oct-15,UN passport holders and others,Unknown,
+Nov-15,Europe,Unknown,15518.0
+Nov-15,Asia,Unknown,14831.0
+Nov-15,Africa,Unknown,
+Nov-15,Americas,Unknown,
+Nov-15,Oceania,Unknown,
+Nov-15,Middle East,Unknown,
+Nov-15,UN passport holders and others,Unknown,
+Dec-15,Europe,Unknown,22816.0
+Dec-15,Asia,Unknown,17545.0
+Dec-15,Africa,Unknown,
+Dec-15,Americas,Unknown,
+Dec-15,Oceania,Unknown,
+Dec-15,Middle East,Unknown,
+Dec-15,UN passport holders and others,Unknown,
+Jan-16,Europe,Unknown,20590.0
+Jan-16,Asia,Unknown,11710.0
+Jan-16,Africa,Unknown,
+Jan-16,Americas,Unknown,
+Jan-16,Oceania,Unknown,
+Jan-16,Middle East,Unknown,
+Jan-16,UN passport holders and others,Unknown,
+Feb-16,Europe,Unknown,21842.0
+Feb-16,Asia,Unknown,12132.0
+Feb-16,Africa,Unknown,
+Feb-16,Americas,Unknown,
+Feb-16,Oceania,Unknown,
+Feb-16,Middle East,Unknown,
+Feb-16,UN passport holders and others,Unknown,
+Mar-16,Europe,Unknown,21134.0
+Mar-16,Asia,Unknown,13569.0
+Mar-16,Africa,Unknown,
+Mar-16,Americas,Unknown,
+Mar-16,Oceania,Unknown,
+Mar-16,Middle East,Unknown,
+Mar-16,UN passport holders and others,Unknown,
+Apr-16,Europe,Unknown,15971.0
+Apr-16,Asia,Unknown,15191.0
+Apr-16,Africa,Unknown,
+Apr-16,Americas,Unknown,
+Apr-16,Oceania,Unknown,
+Apr-16,Middle East,Unknown,
+Apr-16,UN passport holders and others,Unknown,
+May-16,Europe,Unknown,10776.0
+May-16,Asia,Unknown,14845.0
+May-16,Africa,Unknown,
+May-16,Americas,Unknown,
+May-16,Oceania,Unknown,
+May-16,Middle East,Unknown,
+May-16,UN passport holders and others,Unknown,
+Jun-16,Europe,Unknown,8851.0
+Jun-16,Asia,Unknown,13371.0
+Jun-16,Africa,Unknown,
+Jun-16,Americas,Unknown,
+Jun-16,Oceania,Unknown,
+Jun-16,Middle East,Unknown,
+Jun-16,UN passport holders and others,Unknown,
+Jul-16,Europe,Unknown,16081.0
+Jul-16,Asia,Unknown,16632.0
+Jul-16,Africa,Unknown,
+Jul-16,Americas,Unknown,
+Jul-16,Oceania,Unknown,
+Jul-16,Middle East,Unknown,
+Jul-16,UN passport holders and others,Unknown,
+Aug-16,Europe,Unknown,15525.0
+Aug-16,Asia,Unknown,15318.0
+Aug-16,Africa,Unknown,
+Aug-16,Americas,Unknown,
+Aug-16,Oceania,Unknown,
+Aug-16,Middle East,Unknown,
+Aug-16,UN passport holders and others,Unknown,
+Sep-16,Europe,Unknown,13408.0
+Sep-16,Asia,Unknown,15844.0
+Sep-16,Africa,Unknown,
+Sep-16,Americas,Unknown,
+Sep-16,Oceania,Unknown,
+Sep-16,Middle East,Unknown,
+Sep-16,UN passport holders and others,Unknown,
+Oct-16,Europe,Unknown,21122.0
+Oct-16,Asia,Unknown,16737.0
+Oct-16,Africa,Unknown,
+Oct-16,Americas,Unknown,
+Oct-16,Oceania,Unknown,
+Oct-16,Middle East,Unknown,
+Oct-16,UN passport holders and others,Unknown,
+Nov-16,Europe,Unknown,20116.0
+Nov-16,Asia,Unknown,16242.0
+Nov-16,Africa,Unknown,
+Nov-16,Americas,Unknown,
+Nov-16,Oceania,Unknown,
+Nov-16,Middle East,Unknown,
+Nov-16,UN passport holders and others,Unknown,
+Dec-16,Europe,Unknown,23325.0
+Dec-16,Asia,Unknown,19464.0
+Dec-16,Africa,Unknown,
+Dec-16,Americas,Unknown,
+Dec-16,Oceania,Unknown,
+Dec-16,Middle East,Unknown,
+Dec-16,UN passport holders and others,Unknown,
+Jan-17,Europe,Unknown,23776.0
+Jan-17,Asia,Unknown,11867.0
+Jan-17,Africa,Unknown,
+Jan-17,Americas,Unknown,
+Jan-17,Oceania,Unknown,
+Jan-17,Middle East,Unknown,
+Jan-17,UN passport holders and others,Unknown,
+Feb-17,Europe,Unknown,25348.0
+Feb-17,Asia,Unknown,12651.0
+Feb-17,Africa,Unknown,
+Feb-17,Americas,Unknown,
+Feb-17,Oceania,Unknown,
+Feb-17,Middle East,Unknown,
+Feb-17,UN passport holders and others,Unknown,
+Mar-17,Europe,Unknown,20143.0
+Mar-17,Asia,Unknown,14911.0
+Mar-17,Africa,Unknown,
+Mar-17,Americas,Unknown,
+Mar-17,Oceania,Unknown,
+Mar-17,Middle East,Unknown,
+Mar-17,UN passport holders and others,Unknown,
+Apr-17,Europe,Unknown,22014.0
+Apr-17,Asia,Unknown,17971.0
+Apr-17,Africa,Unknown,
+Apr-17,Americas,Unknown,
+Apr-17,Oceania,Unknown,
+Apr-17,Middle East,Unknown,
+Apr-17,UN passport holders and others,Unknown,
+May-17,Europe,Unknown,10990.0
+May-17,Asia,Unknown,16267.0
+May-17,Africa,Unknown,
+May-17,Americas,Unknown,
+May-17,Oceania,Unknown,
+May-17,Middle East,Unknown,
+May-17,UN passport holders and others,Unknown,
+Jun-17,Europe,Unknown,9497.0
+Jun-17,Asia,Unknown,14879.0
+Jun-17,Africa,Unknown,
+Jun-17,Americas,Unknown,
+Jun-17,Oceania,Unknown,
+Jun-17,Middle East,Unknown,
+Jun-17,UN passport holders and others,Unknown,
+Jul-17,Europe,Unknown,18311.0
+Jul-17,Asia,Unknown,14858.0
+Jul-17,Africa,Unknown,
+Jul-17,Americas,Unknown,
+Jul-17,Oceania,Unknown,
+Jul-17,Middle East,Unknown,
+Jul-17,UN passport holders and others,Unknown,
+Aug-17,Europe,Unknown,17896.0
+Aug-17,Asia,Unknown,17934.0
+Aug-17,Africa,Unknown,
+Aug-17,Americas,Unknown,
+Aug-17,Oceania,Unknown,
+Aug-17,Middle East,Unknown,
+Aug-17,UN passport holders and others,Unknown,
+Sep-17,Europe,Unknown,15108.0
+Sep-17,Asia,Unknown,17530.0
+Sep-17,Africa,Unknown,
+Sep-17,Americas,Unknown,
+Sep-17,Oceania,Unknown,
+Sep-17,Middle East,Unknown,
+Sep-17,UN passport holders and others,Unknown,
+Oct-17,Europe,Unknown,24285.0
+Oct-17,Asia,Unknown,18871.0
+Oct-17,Africa,Unknown,
+Oct-17,Americas,Unknown,
+Oct-17,Oceania,Unknown,
+Oct-17,Middle East,Unknown,
+Oct-17,UN passport holders and others,Unknown,
+Nov-17,Europe,Unknown,21979.0
+Nov-17,Asia,Unknown,18937.0
+Nov-17,Africa,Unknown,
+Nov-17,Americas,Unknown,
+Nov-17,Oceania,Unknown,
+Nov-17,Middle East,Unknown,
+Nov-17,UN passport holders and others,Unknown,
+Dec-17,Europe,Unknown,27767.0
+Dec-17,Asia,Unknown,20566.0
+Dec-17,Africa,Unknown,
+Dec-17,Americas,Unknown,
+Dec-17,Oceania,Unknown,
+Dec-17,Middle East,Unknown,
+Dec-17,UN passport holders and others,Unknown,
+Jan-18,Europe,Unknown,28573.0
+Jan-18,Asia,Unknown,14819.0
+Jan-18,Africa,Unknown,
+Jan-18,Americas,Unknown,
+Jan-18,Oceania,Unknown,
+Jan-18,Middle East,Unknown,
+Jan-18,UN passport holders and others,Unknown,
+Feb-18,Europe,Unknown,29590.0
+Feb-18,Asia,Unknown,13783.0
+Feb-18,Africa,Unknown,
+Feb-18,Americas,Unknown,
+Feb-18,Oceania,Unknown,
+Feb-18,Middle East,Unknown,
+Feb-18,UN passport holders and others,Unknown,
+Mar-18,Europe,Unknown,28345.0
+Mar-18,Asia,Unknown,18217.0
+Mar-18,Africa,Unknown,
+Mar-18,Americas,Unknown,
+Mar-18,Oceania,Unknown,
+Mar-18,Middle East,Unknown,
+Mar-18,UN passport holders and others,Unknown,
+Apr-18,Europe,Unknown,22210.0
+Apr-18,Asia,Unknown,19862.0
+Apr-18,Africa,Unknown,
+Apr-18,Americas,Unknown,
+Apr-18,Oceania,Unknown,
+Apr-18,Middle East,Unknown,
+Apr-18,UN passport holders and others,Unknown,
+May-18,Europe,Unknown,12095.0
+May-18,Asia,Unknown,16746.0
+May-18,Africa,Unknown,
+May-18,Americas,Unknown,
+May-18,Oceania,Unknown,
+May-18,Middle East,Unknown,
+May-18,UN passport holders and others,Unknown,
+Jun-18,Europe,Unknown,11093.0
+Jun-18,Asia,Unknown,19462.0
+Jun-18,Africa,Unknown,
+Jun-18,Americas,Unknown,
+Jun-18,Oceania,Unknown,
+Jun-18,Middle East,Unknown,
+Jun-18,UN passport holders and others,Unknown,
+Jul-18,Europe,Unknown,21193.0
+Jul-18,Asia,Unknown,18431.0
+Jul-18,Africa,Unknown,
+Jul-18,Americas,Unknown,
+Jul-18,Oceania,Unknown,
+Jul-18,Middle East,Unknown,
+Jul-18,UN passport holders and others,Unknown,
+Aug-18,Europe,Unknown,20847.0
+Aug-18,Asia,Unknown,17039.0
+Aug-18,Africa,Unknown,
+Aug-18,Americas,Unknown,
+Aug-18,Oceania,Unknown,
+Aug-18,Middle East,Unknown,
+Aug-18,UN passport holders and others,Unknown,
+Sep-18,Europe,Unknown,17014.0
+Sep-18,Asia,Unknown,15709.0
+Sep-18,Africa,Unknown,
+Sep-18,Americas,Unknown,
+Sep-18,Oceania,Unknown,
+Sep-18,Middle East,Unknown,
+Sep-18,UN passport holders and others,Unknown,
+Oct-18,Europe,Unknown,24403.0
+Oct-18,Asia,Unknown,17195.0
+Oct-18,Africa,Unknown,
+Oct-18,Americas,Unknown,
+Oct-18,Oceania,Unknown,
+Oct-18,Middle East,Unknown,
+Oct-18,UN passport holders and others,Unknown,
+Nov-18,Europe,Unknown,22469.0
+Nov-18,Asia,Unknown,16899.0
+Nov-18,Africa,Unknown,
+Nov-18,Americas,Unknown,
+Nov-18,Oceania,Unknown,
+Nov-18,Middle East,Unknown,
+Nov-18,UN passport holders and others,Unknown,
+Dec-18,Europe,Unknown,29746.0
+Dec-18,Asia,Unknown,19176.0
+Dec-18,Africa,Unknown,
+Dec-18,Americas,Unknown,
+Dec-18,Oceania,Unknown,
+Dec-18,Middle East,Unknown,
+Dec-18,UN passport holders and others,Unknown,
+Jan-19,Europe,Unknown,29945.0
+Jan-19,Asia,Unknown,14176.0
+Jan-19,Africa,Unknown,
+Jan-19,Americas,Unknown,
+Jan-19,Oceania,Unknown,
+Jan-19,Middle East,Unknown,
+Jan-19,UN passport holders and others,Unknown,
+Feb-19,Europe,Unknown,33054.0
+Feb-19,Asia,Unknown,15178.0
+Feb-19,Africa,Unknown,
+Feb-19,Americas,Unknown,
+Feb-19,Oceania,Unknown,
+Feb-19,Middle East,Unknown,
+Feb-19,UN passport holders and others,Unknown,
+Mar-19,Europe,Unknown,27401.0
+Mar-19,Asia,Unknown,18176.0
+Mar-19,Africa,Unknown,
+Mar-19,Americas,Unknown,
+Mar-19,Oceania,Unknown,
+Mar-19,Middle East,Unknown,
+Mar-19,UN passport holders and others,Unknown,
+Apr-19,Europe,Unknown,28810.0
+Apr-19,Asia,Unknown,22873.0
+Apr-19,Africa,Unknown,
+Apr-19,Americas,Unknown,
+Apr-19,Oceania,Unknown,
+Apr-19,Middle East,Unknown,
+Apr-19,UN passport holders and others,Unknown,
+May-19,Europe,Unknown,11471.0
+May-19,Asia,Unknown,15674.0
+May-19,Africa,Unknown,
+May-19,Americas,Unknown,
+May-19,Oceania,Unknown,
+May-19,Middle East,Unknown,
+May-19,UN passport holders and others,Unknown,
+Jun-19,Europe,Unknown,13429.0
+Jun-19,Asia,Unknown,18252.0
+Jun-19,Africa,Unknown,
+Jun-19,Americas,Unknown,
+Jun-19,Oceania,Unknown,
+Jun-19,Middle East,Unknown,
+Jun-19,UN passport holders and others,Unknown,
+Jul-19,Europe,Unknown,23658.0
+Jul-19,Asia,Unknown,16608.0
+Jul-19,Africa,Unknown,
+Jul-19,Americas,Unknown,
+Jul-19,Oceania,Unknown,
+Jul-19,Middle East,Unknown,
+Jul-19,UN passport holders and others,Unknown,
+Aug-19,Europe,Unknown,22342.0
+Aug-19,Asia,Unknown,17967.0
+Aug-19,Africa,Unknown,
+Aug-19,Americas,Unknown,
+Aug-19,Oceania,Unknown,
+Aug-19,Middle East,Unknown,
+Aug-19,UN passport holders and others,Unknown,
+Sep-19,Europe,Unknown,19452.0
+Sep-19,Asia,Unknown,17003.0
+Sep-19,Africa,Unknown,
+Sep-19,Americas,Unknown,
+Sep-19,Oceania,Unknown,
+Sep-19,Middle East,Unknown,
+Sep-19,UN passport holders and others,Unknown,
+Oct-19,Europe,Unknown,27587.0
+Oct-19,Asia,Unknown,18803.0
+Oct-19,Africa,Unknown,
+Oct-19,Americas,Unknown,
+Oct-19,Oceania,Unknown,
+Oct-19,Middle East,Unknown,
+Oct-19,UN passport holders and others,Unknown,
+Nov-19,Europe,Unknown,26282.0
+Nov-19,Asia,Unknown,16213.0
+Nov-19,Africa,Unknown,
+Nov-19,Americas,Unknown,
+Nov-19,Oceania,Unknown,
+Nov-19,Middle East,Unknown,
+Nov-19,UN passport holders and others,Unknown,
+Dec-19,Europe,Unknown,33298.0
+Dec-19,Asia,Unknown,20018.0
+Dec-19,Africa,Unknown,
+Dec-19,Americas,Unknown,
+Dec-19,Oceania,Unknown,
+Dec-19,Middle East,Unknown,
+Dec-19,UN passport holders and others,Unknown,
+Jan-20,Europe,Unknown,33880.0
+Jan-20,Asia,Unknown,13173.0
+Jan-20,Africa,Unknown,
+Jan-20,Americas,Unknown,
+Jan-20,Oceania,Unknown,
+Jan-20,Middle East,Unknown,
+Jan-20,UN passport holders and others,Unknown,
+Feb-20,Europe,Unknown,35528.0
+Feb-20,Asia,Unknown,14617.0
+Feb-20,Africa,Unknown,
+Feb-20,Americas,Unknown,2917.0
+Feb-20,Oceania,Unknown,220.0
+Feb-20,Middle East,Unknown,
+Feb-20,UN passport holders and others,Unknown,
+Mar-20,Europe,Unknown,13290.0
+Mar-20,Asia,Unknown,4959.0
+Mar-20,Africa,Unknown,
+Mar-20,Americas,Unknown,1363.0
+Mar-20,Oceania,Unknown,80.0
+Mar-20,Middle East,Unknown,
+Mar-20,UN passport holders and others,Unknown,
+Apr-20,Europe,Unknown,0.0
+Apr-20,Asia,Unknown,11.0
+Apr-20,Africa,Unknown,
+Apr-20,Americas,Unknown,0.0
+Apr-20,Oceania,Unknown,0.0
+Apr-20,Middle East,Unknown,
+Apr-20,UN passport holders and others,Unknown,
+May-20,Europe,Unknown,24.0
+May-20,Asia,Unknown,3.0
+May-20,Africa,Unknown,
+May-20,Americas,Unknown,0.0
+May-20,Oceania,Unknown,0.0
+May-20,Middle East,Unknown,
+May-20,UN passport holders and others,Unknown,
+Jun-20,Europe,Unknown,0.0
+Jun-20,Asia,Unknown,0.0
+Jun-20,Africa,Unknown,
+Jun-20,Americas,Unknown,0.0
+Jun-20,Oceania,Unknown,0.0
+Jun-20,Middle East,Unknown,
+Jun-20,UN passport holders and others,Unknown,
+Jul-20,Europe,Unknown,501.0
+Jul-20,Asia,Unknown,75.0
+Jul-20,Africa,Unknown,
+Jul-20,Americas,Unknown,66.0
+Jul-20,Oceania,Unknown,12.0
+Jul-20,Middle East,Unknown,
+Jul-20,UN passport holders and others,Unknown,
+Aug-20,Europe,Unknown,1570.0
+Aug-20,Asia,Unknown,396.0
+Aug-20,Africa,Unknown,
+Aug-20,Americas,Unknown,296.0
+Aug-20,Oceania,Unknown,13.0
+Aug-20,Middle East,Unknown,
+Aug-20,UN passport holders and others,Unknown,
+Sep-20,Europe,Unknown,2113.0
+Sep-20,Asia,Unknown,371.0
+Sep-20,Africa,Unknown,
+Sep-20,Americas,Unknown,584.0
+Sep-20,Oceania,Unknown,5.0
+Sep-20,Middle East,Unknown,
+Sep-20,UN passport holders and others,Unknown,
+Oct-20,Europe,Unknown,4869.0
+Oct-20,Asia,Unknown,690.0
+Oct-20,Africa,Unknown,
+Oct-20,Americas,Unknown,827.0
+Oct-20,Oceania,Unknown,29.0
+Oct-20,Middle East,Unknown,
+Oct-20,UN passport holders and others,Unknown,
+Nov-20,Europe,Unknown,6984.0
+Nov-20,Asia,Unknown,888.0
+Nov-20,Africa,Unknown,
+Nov-20,Americas,Unknown,1297.0
+Nov-20,Oceania,Unknown,27.0
+Nov-20,Middle East,Unknown,
+Nov-20,UN passport holders and others,Unknown,
+Dec-20,Europe,Unknown,24327.0
+Dec-20,Asia,Unknown,1891.0
+Dec-20,Africa,Unknown,
+Dec-20,Americas,Unknown,1924.0
+Dec-20,Oceania,Unknown,121.0
+Dec-20,Middle East,Unknown,
+Dec-20,UN passport holders and others,Unknown,
