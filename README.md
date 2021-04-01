@@ -36,3 +36,4 @@ Quick Link
 | [2021 Week 10](https://preppindata.blogspot.com/2021/02/2021-week-10-pokemon-hierarchies.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-10.py)       |
 | [2021 Week 11](https://preppindata.blogspot.com/2021/03/2021-week-11-cocktail-profit-margins.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-11.py)       |
 | [2021 Week 12](https://preppindata.blogspot.com/2021/03/2021-week-12-maldives-tourism.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-12.py)       |
+| [2021 Week 13](https://preppindata.blogspot.com/2021/03/2021-week-13.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-13.py)       |
