@@ -40,4 +40,4 @@ Quick Link
 | [2021 Week 14](https://preppindata.blogspot.com/2021/04/2021-week-14-prep-air-in-flight.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-14.py)       |
 | [2021 Week 15](https://preppindata.blogspot.com/2021/04/2021-week-15-restaurant-menu-orders.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-15.py)       |
 | [2021 Week 16](https://preppindata.blogspot.com/2021/04/2021-week-16-super-league.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-16.py)       |
-| [2021 Week 17](https://preppindata.blogspot.com/2021/04/week-17-timesheet-checks.html)      |        |
+| [2021 Week 17](https://preppindata.blogspot.com/2021/04/week-17-timesheet-checks.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-17.py)      |
