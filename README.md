@@ -42,3 +42,4 @@ Quick Link
 | [2021 Week 16](https://preppindata.blogspot.com/2021/04/2021-week-16-super-league.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-16.py)       |
 | [2021 Week 17](https://preppindata.blogspot.com/2021/04/week-17-timesheet-checks.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-17.py)      |
 | [2021 Week 18](https://preppindata.blogspot.com/2021/05/2021-week-18-prep-air-project-overruns.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-18.py)      |
+| [2021 Week 19](https://preppindata.blogspot.com/2021/05/2021-week-19-prep-air-project-details.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-19.py)      |
