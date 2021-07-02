@@ -61,3 +61,9 @@ output_df = output_df[['Package','Function','Github links']].drop_duplicates()
 
 output_df.to_csv('functions_used.csv', encoding="utf-8-sig", index=False)
 print(output_df)
+
+
+with open("README.md", "r+") as f:
+     old = f.read() # read everything in the file
+     f.seek(0) # rewind
+     f.write("new line\n" + old) # write the new line before
