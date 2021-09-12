@@ -19,6 +19,20 @@ Quick Link
 [GitHub]:https://github.com/wjsutton
 [Website]:https://wjsutton.github.io/
 
+### Techniques
+
+##### Reading & Writing Files
+
+| Technique   | Challenges  |
+| ----------- | ----------- |
+| Reading csv files | [2021 W01](https://github.com/wjsutton/preppin-data/blob/main/2021-week-01.py) [2021 W02](https://github.com/wjsutton/preppin-data/blob/main/2021-week-02.py) [2021 W05](https://github.com/wjsutton/preppin-data/blob/main/2021-week-05.py)  |
+| Reading Excel files | [2021 W03](https://github.com/wjsutton/preppin-data/blob/main/2021-week-03.py) [2021 W04](https://github.com/wjsutton/preppin-data/blob/main/2021-week-03.py) [2021 W06](https://github.com/wjsutton/preppin-data/blob/main/2021-week-06.py) [2021 W07](https://github.com/wjsutton/preppin-data/blob/main/2021-week-07.py) [2021 W08](https://github.com/wjsutton/preppin-data/blob/main/2021-week-08.py) [2021 W09](https://github.com/wjsutton/preppin-data/blob/main/2021-week-09.py) [2021 W10](https://github.com/wjsutton/preppin-data/blob/main/2021-week-10.py)|
+| Reading and aggregrating Excel tabs | [2021 W21](https://github.com/wjsutton/preppin-data/blob/main/2021-week-21.py) [2021 W33](https://github.com/wjsutton/preppin-data/blob/main/2021-week-33.py)|
+| Writing csv files | [2021 W01](https://github.com/wjsutton/preppin-data/blob/main/2021-week-01.py), most weeks |
+| Writing csv files, with utf-8 encoding | [2021 W10](https://github.com/wjsutton/preppin-data/blob/main/2021-week-10.py) |
+| Writing Excel files | [2021 W14](https://github.com/wjsutton/preppin-data/blob/main/2021-week-14.py) [2021 W28](https://github.com/wjsutton/preppin-data/blob/main/2021-week-28.py)|
+
+
 
 ### Solutions
 
