@@ -1,0 +1,154 @@
+Batch No.,Name of Process Step,Bike Type,Batch Status,Datetime,Data Parameter,Target,Actual
+7000,Warming Up,Mountain,1,2021-09-23 08:11:23.000000,Temperature,91,
+7000,Warming Up,Mountain,1,2021-09-23 08:18:11.000000,Temperature,,59.2
+7000,Warming Up,Mountain,1,2021-09-23 08:28:08.000000,Temperature,,72.9
+7000,Warming Up,Mountain,1,2021-09-23 08:32:25.000000,Temperature,,104
+7000,Warming Up,Mountain,1,2021-09-23 08:49:45.000000,Temperature,,137.55
+7000,Warming Up,Mountain,1,2021-09-23 08:51:37.000000,Temperature,,113
+7000,Shutter Open,Mountain,1,2021-09-23 08:57:00.000000,Current,7.104,
+7000,Shutter Open,Mountain,1,2021-09-23 09:06:48.000000,Current,,6.396
+7000,Shutter Open,Mountain,1,2021-09-23 09:15:29.000000,Current,,9.875
+7000,Shutter Open,Mountain,1,2021-09-23 09:15:58.000000,Current,,7.44
+7000,Shutter Open,Mountain,1,2021-09-23 09:18:39.000000,Current,,10.296
+7000,Shutter Open,Mountain,1,2021-09-23 09:23:24.000000,Voltage,318,
+7000,Shutter Open,Mountain,1,2021-09-23 09:40:33.000000,Voltage,,91
+7000,Shutter Open,Mountain,1,2021-09-23 09:41:59.000000,Voltage,,183
+7000,Shutter Open,Mountain,1,2021-09-23 09:49:44.000000,Voltage,,317.5
+7000,Shutter Open,Mountain,1,2021-09-23 10:10:17.000000,Voltage,,405
+7000,Shutter Open,Mountain,1,2021-09-23 10:17:21.000000,Voltage,,283.8
+7000,Shutter Open,Mountain,1,2021-09-23 10:50:04.000000,Voltage,,333
+7000,Shutter Open,Mountain,1,2021-09-23 10:50:33.000000,Voltage,368,
+7000,Shutter Open,Mountain,1,2021-09-23 10:59:32.000000,Voltage,,536
+7000,Painting 1,Mountain,1,2021-09-23 11:10:25.000000,Gas Flow,5400,
+7000,Painting 1,Mountain,1,2021-09-23 11:17:32.000000,Gas Flow,,3320
+7000,Painting 1,Mountain,1,2021-09-23 11:18:19.000000,Gas Flow,,3157
+7000,Painting 1,Mountain,1,2021-09-23 11:24:48.000000,Gas Flow,,4368
+7000,Painting 1,Mountain,1,2021-09-23 11:35:48.000000,Pressure,450,
+7000,Painting 1,Mountain,1,2021-09-23 11:42:04.000000,Pressure,,768
+7000,Painting 1,Mountain,1,2021-09-23 11:43:37.000000,Pressure,,465
+7000,Painting 2,Mountain,1,2021-09-23 12:15:54.000000,Gas Flow,4260,
+7000,Painting 2,Mountain,1,2021-09-23 12:18:56.000000,Gas Flow,,5400
+7000,Painting 2,Mountain,1,2021-09-23 12:52:11.000000,Gas Flow,,5074
+7000,Painting 2,Mountain,1,2021-09-23 12:54:48.000000,Gas Flow,,6324
+7000,Painting 2,Mountain,1,2021-09-23 12:56:01.000000,Pressure,620,
+7000,Painting 2,Mountain,1,2021-09-23 13:00:41.000000,Pressure,,504
+7000,Painting 2,Mountain,1,2021-09-23 13:02:14.000000,Pressure,,405
+7000,Gloss Finish,Mountain,1,2021-09-23 13:27:59.000000,Temperature,200.2,
+7000,Gloss Finish,Mountain,1,2021-09-23 13:39:42.000000,Gas Flow,11700,
+7000,Gloss Finish,Mountain,1,2021-09-23 13:40:37.000000,Voltage,180,
+7000,Gloss Finish,Mountain,1,2021-09-23 13:48:16.000000,Voltage,,266
+7000,Gloss Finish,Mountain,1,2021-09-23 14:03:29.000000,Gas Flow,,1269
+7000,Gloss Finish,Mountain,1,2021-09-23 14:12:34.000000,Gas Flow,,1230
+7000,Gloss Finish,Mountain,1,2021-09-23 14:18:01.000000,Gas Flow,,3000
+7000,Gloss Finish,Mountain,1,2021-09-23 14:35:54.000000,Temperature,,101.4
+7000,Gloss Finish,Mountain,1,2021-09-23 14:39:42.000000,Temperature,,196
+7000,Gloss Finish,Mountain,1,2021-09-23 14:40:14.000000,Temperature,,151.5
+7000,Shutter Closing,Mountain,1,2021-09-23 14:43:14.000000,Voltage,135,
+7000,Shutter Closing,Mountain,1,2021-09-23 14:44:22.000000,Voltage,,123.5
+7000,Shutter Closing,Mountain,1,2021-09-23 14:57:22.000000,Voltage,,122
+7000,Shutter Closing,Mountain,1,2021-09-23 14:58:55.000000,Current,6.325,
+7000,Shutter Closing,Mountain,1,2021-09-23 14:59:13.000000,Current,,6.36
+7000,Shutter Closing,Mountain,1,2021-09-23 15:06:35.000000,Current,,3.99
+7000,Shutter Closing,Mountain,1,2021-09-23 15:08:53.000000,Current,,3.996
+7001,Warming Up,Road,1,2021-09-24 09:46:27.000000,Temperature,136,
+7001,Warming Up,Road,1,2021-09-24 09:48:22.000000,Temperature,,85.6
+7001,Warming Up,Road,1,2021-09-24 09:53:47.000000,Temperature,,71.1
+7001,Warming Up,Road,1,2021-09-24 09:56:30.000000,Temperature,,88
+7001,Warming Up,Road,1,2021-09-24 09:59:22.000000,Temperature,,153.3
+7001,Warming Up,Road,1,2021-09-24 09:59:37.000000,Temperature,,75
+7001,Shutter Open,Road,1,2021-09-24 10:04:33.000000,Current,5.624,
+7001,Shutter Open,Road,1,2021-09-24 10:04:44.000000,Current,,6.942
+7001,Shutter Open,Road,1,2021-09-24 10:09:50.000000,Current,,11.06
+7001,Shutter Open,Road,1,2021-09-24 10:11:35.000000,Current,,9.52
+7001,Shutter Open,Road,1,2021-09-24 10:13:42.000000,Current,,11.466
+7001,Shutter Open,Road,1,2021-09-24 10:15:23.000000,Voltage,219,
+7001,Shutter Open,Road,1,2021-09-24 10:18:27.000000,Voltage,,93
+7001,Shutter Open,Road,1,2021-09-24 10:21:28.000000,Voltage,,217.5
+7001,Shutter Open,Road,1,2021-09-24 10:22:25.000000,Voltage,,295
+7001,Shutter Open,Road,1,2021-09-24 10:23:06.000000,Voltage,,438
+7001,Shutter Open,Road,1,2021-09-24 10:25:48.000000,Voltage,,356.4
+7001,Shutter Open,Road,1,2021-09-24 10:28:46.000000,Voltage,,306
+7001,Shutter Open,Road,1,2021-09-24 10:34:54.000000,Voltage,392,
+7001,Shutter Open,Road,1,2021-09-24 10:38:17.000000,Voltage,,364
+7001,Painting 1,Road,1,2021-09-24 10:39:42.000000,Gas Flow,4200,
+7001,Painting 1,Road,1,2021-09-24 10:40:19.000000,Gas Flow,,5240
+7001,Painting 1,Road,1,2021-09-24 10:45:00.000000,Gas Flow,,2993
+7001,Painting 1,Road,1,2021-09-24 10:55:00.000000,Gas Flow,,3705
+7001,Painting 1,Road,1,2021-09-24 10:58:39.000000,Pressure,660,
+7001,Painting 1,Road,1,2021-09-24 10:59:27.000000,Pressure,,618
+7001,Painting 1,Road,1,2021-09-24 11:01:06.000000,Pressure,,545
+7001,Painting 2,Road,1,2021-09-24 11:03:58.000000,Gas Flow,8100,
+7001,Painting 2,Road,1,2021-09-24 11:04:23.000000,Gas Flow,,6000
+7001,Painting 2,Road,1,2021-09-24 11:04:48.000000,Gas Flow,,5664
+7001,Painting 2,Road,1,2021-09-24 11:08:21.000000,Gas Flow,,8184
+7001,Painting 2,Road,1,2021-09-24 11:16:35.000000,Pressure,400,
+7001,Painting 2,Road,1,2021-09-24 11:17:17.000000,Pressure,,702
+7001,Painting 2,Road,1,2021-09-24 11:19:55.000000,Pressure,,595
+7001,Gloss Finish,Road,1,2021-09-24 11:27:40.000000,Temperature,105,
+7001,Gloss Finish,Road,1,2021-09-24 11:27:40.000000,Gas Flow,10700,
+7001,Gloss Finish,Road,1,2021-09-24 11:28:49.000000,Voltage,362.5,
+7001,Gloss Finish,Road,1,2021-09-24 11:32:17.000000,Voltage,,146
+7001,Gloss Finish,Road,1,2021-09-24 11:35:32.000000,Gas Flow,,1179
+7001,Gloss Finish,Road,1,2021-09-24 11:42:00.000000,Gas Flow,,1360
+7001,Gloss Finish,Road,1,2021-09-24 11:44:52.000000,Gas Flow,,1840
+7001,Gloss Finish,Road,1,2021-09-24 11:50:36.000000,Temperature,,119.6
+7001,Gloss Finish,Road,1,2021-09-24 11:53:27.000000,Temperature,,103.6
+7001,Gloss Finish,Road,1,2021-09-24 11:55:01.000000,Temperature,,115.5
+7001,Shutter Closing,Road,1,2021-09-24 12:05:35.000000,Voltage,83,
+7001,Shutter Closing,Road,1,2021-09-24 12:08:54.000000,Voltage,,109.25
+7001,Shutter Closing,Road,1,2021-09-24 12:11:01.000000,Voltage,,96
+7001,Shutter Closing,Road,1,2021-09-24 12:16:05.000000,Current,8.25,
+7001,Shutter Closing,Road,1,2021-09-24 12:27:38.000000,Current,,5.16
+7001,Shutter Closing,Road,1,2021-09-24 12:31:20.000000,Current,,4.446
+7001,Shutter Closing,Road,1,2021-09-24 12:32:05.000000,Current,,6.642
+7002,Warming Up,Hybrid,0,2021-09-25 00:55:07.000000,Temperature,107,
+7002,Warming Up,Hybrid,0,2021-09-25 00:59:34.000000,Temperature,,116
+7002,Warming Up,Hybrid,0,2021-09-25 01:49:28.000000,Temperature,,120.6
+7002,Warming Up,Hybrid,0,2021-09-25 02:08:23.000000,Temperature,,139
+7002,Warming Up,Hybrid,0,2021-09-25 02:10:17.000000,Temperature,,93.45
+7002,Warming Up,Hybrid,0,2021-09-25 02:35:53.000000,Temperature,,71
+7002,Shutter Open,Hybrid,0,2021-09-25 03:36:53.000000,Current,10.656,
+7002,Shutter Open,Hybrid,0,2021-09-25 03:57:38.000000,Current,,10.608
+7002,Shutter Open,Hybrid,0,2021-09-25 04:58:35.000000,Current,,6.004
+7002,Shutter Open,Hybrid,0,2021-09-25 05:09:44.000000,Current,,7.36
+7002,Shutter Open,Hybrid,0,2021-09-25 05:22:08.000000,Current,,8.814
+7002,Shutter Open,Hybrid,0,2021-09-25 05:40:27.000000,Voltage,435,
+7002,Shutter Open,Hybrid,0,2021-09-25 05:44:20.000000,Voltage,,147
+7002,Shutter Open,Hybrid,0,2021-09-25 06:39:49.000000,Voltage,,166.5
+7002,Shutter Open,Hybrid,0,2021-09-25 07:14:16.000000,Voltage,,190
+7002,Shutter Open,Hybrid,0,2021-09-25 07:19:41.000000,Voltage,,450
+7002,Shutter Open,Hybrid,0,2021-09-25 07:53:36.000000,Voltage,,458.7
+7002,Shutter Open,Hybrid,0,2021-09-25 08:48:00.000000,Voltage,,450
+7002,Shutter Open,Hybrid,0,2021-09-25 08:58:09.000000,Voltage,516,
+7002,Shutter Open,Hybrid,0,2021-09-25 09:21:14.000000,Voltage,,400
+7002,Painting 1,Hybrid,0,2021-09-25 09:54:56.000000,Gas Flow,5720,
+7002,Painting 1,Hybrid,0,2021-09-25 10:07:30.000000,Gas Flow,,5360
+7002,Painting 1,Hybrid,0,2021-09-25 10:55:18.000000,Gas Flow,,4305
+7002,Painting 1,Hybrid,0,2021-09-25 11:07:13.000000,Gas Flow,,4368
+7002,Painting 1,Hybrid,0,2021-09-25 11:36:34.000000,Pressure,505,
+7002,Painting 1,Hybrid,0,2021-09-25 11:45:45.000000,Pressure,,570
+7002,Painting 1,Hybrid,0,2021-09-25 12:05:54.000000,Pressure,,625
+7002,Painting 2,Hybrid,0,2021-09-25 12:56:19.000000,Gas Flow,7920,
+7002,Painting 2,Hybrid,0,2021-09-25 13:23:57.000000,Gas Flow,,4850
+7002,Painting 2,Hybrid,0,2021-09-25 13:27:03.000000,Gas Flow,,5074
+7002,Painting 2,Hybrid,0,2021-09-25 13:38:43.000000,Gas Flow,,4402
+7002,Painting 2,Hybrid,0,2021-09-25 13:55:36.000000,Pressure,410,
+7002,Painting 2,Hybrid,0,2021-09-25 13:58:47.000000,Pressure,,516
+7002,Painting 2,Hybrid,0,2021-09-25 14:34:49.000000,Pressure,,540
+7002,Gloss Finish,Hybrid,0,2021-09-25 15:46:10.000000,Temperature,151.2,
+7002,Gloss Finish,Hybrid,0,2021-09-25 15:49:31.000000,Gas Flow,10200,
+7002,Gloss Finish,Hybrid,0,2021-09-25 15:49:34.000000,Voltage,257.5,
+7002,Gloss Finish,Hybrid,0,2021-09-25 15:52:33.000000,Voltage,,252
+7002,Gloss Finish,Hybrid,0,2021-09-25 17:11:18.000000,Gas Flow,,1278
+7002,Gloss Finish,Hybrid,0,2021-09-25 17:19:59.000000,Gas Flow,,930
+7002,Gloss Finish,Hybrid,0,2021-09-25 17:45:35.000000,Gas Flow,,1520
+7002,Gloss Finish,Hybrid,0,2021-09-25 17:48:18.000000,Temperature,,153.4
+7002,Gloss Finish,Hybrid,0,2021-09-25 18:04:46.000000,Temperature,,105
+7002,Gloss Finish,Hybrid,0,2021-09-25 18:25:52.000000,Temperature,,139.5
+7002,Shutter Closing,Hybrid,0,2021-09-25 20:31:00.000000,Voltage,149,
+7002,Shutter Closing,Hybrid,0,2021-09-25 20:49:51.000000,Voltage,,105.45
+7002,Shutter Closing,Hybrid,0,2021-09-25 21:09:09.000000,Voltage,,89
+7002,Shutter Closing,Hybrid,0,2021-09-25 23:34:08.000000,Current,7.04,
+7002,Shutter Closing,Hybrid,0,2021-09-25 23:45:14.000000,Current,,8.4
+7002,Shutter Closing,Hybrid,0,2021-09-25 23:53:08.000000,Current,,4.047
+7002,Shutter Closing,Hybrid,0,2021-09-25 23:56:27.000000,Current,,4.752
