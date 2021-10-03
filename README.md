@@ -36,7 +36,7 @@ Quick Link
 
 ### 2021 Solutions
 
-| Challenge     | My Solution |Challenge     | My Solution |Challenge     | My Solution |
+| Challenge     | Solution |Challenge     | Solution |Challenge     | Solution |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [Week 01](https://preppindata.blogspot.com/2021/01/2021-week-1.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-01.py)       | [Week 14](https://preppindata.blogspot.com/2021/04/2021-week-14-prep-air-in-flight.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-14.py) | [Week 27](https://preppindata.blogspot.com/2021/07/2021-week-27-nba-draft-lottery.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-27.py)       |
 | [Week 02](https://preppindata.blogspot.com/2021/01/2021-week-2.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-02.py)       | [Week 15](https://preppindata.blogspot.com/2021/04/2021-week-15-restaurant-menu-orders.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-15.py)       | [Week 28](https://preppindata.blogspot.com/2021/07/2021-week-28-its-coming-rome.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-28.py)       |
