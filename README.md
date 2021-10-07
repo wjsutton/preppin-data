@@ -36,8 +36,8 @@ Quick Link
 
 ### 2021 Solutions
 
-| Challenge     | Solution |Challenge     | Solution |Challenge     | Solution |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Challenge     | Solution |Challenge     | Solution |Challenge     | Solution |Challenge     | Solution |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [Week 01](https://preppindata.blogspot.com/2021/01/2021-week-1.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-01.py)       | [Week 14](https://preppindata.blogspot.com/2021/04/2021-week-14-prep-air-in-flight.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-14.py) | [Week 27](https://preppindata.blogspot.com/2021/07/2021-week-27-nba-draft-lottery.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-27.py)       | [Week 40](https://preppindata.blogspot.com/2021/10/2021-week-40-animal-adoptions.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-40.py) 
 | [Week 02](https://preppindata.blogspot.com/2021/01/2021-week-2.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-02.py)       | [Week 15](https://preppindata.blogspot.com/2021/04/2021-week-15-restaurant-menu-orders.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-15.py)       | [Week 28](https://preppindata.blogspot.com/2021/07/2021-week-28-its-coming-rome.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-28.py)       |
 | [Week 03](https://preppindata.blogspot.com/2021/01/2021-week-3.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-03.py)       | [Week 16](https://preppindata.blogspot.com/2021/04/2021-week-16-super-league.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-16.py)       | [Week 29](https://preppindata.blogspot.com/2021/07/2021-week-29-pd-x-wow-tokyo-2020.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021-week-29.py)       |
