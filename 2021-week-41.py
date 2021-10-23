@@ -1,8 +1,6 @@
 # Preppin' Data 2021 Week 41
 import pandas as pd
 import numpy as np
-from pandas.core.frame import DataFrame
-from pandas.io.formats.format import Datetime64Formatter
 
 # Input the data
 # delimit based on whitespace otherwise python reads the csv as 1 column of data
