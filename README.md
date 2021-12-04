@@ -51,21 +51,52 @@ Quick Link
 
 ## :snake: Python Snippets
 
-### Reading & Writing Files
+### Reading Files
 
-Reading csv files
+Reading csv files | Example: [W05 2021](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-05.py)
 ```
 import pandas as pd
 
 df = pd.read_csv('folder\\filename.csv')
 ```
 
-| Technique   | Examples from Challenges  |
-| ----------- | ----------- |
-| Reading csv files | [W01](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-01.py) [W02](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-02.py) [W05](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-05.py)  |
-| Reading Excel files | [W03](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-03.py) [W04](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-03.py) [W06](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-06.py) [W07](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-07.py) [W08](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-08.py) [W09](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-09.py) [W10](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-10.py)|
-| Reading and aggregrating Excel tabs | [W21](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-21.py) [W33](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-33.py)|
-| Writing csv files | [W01](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-01.py), most weeks |
-| Writing csv files, with utf-8 encoding | [W10](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-10.py) |
-| Writing Excel files | [W14](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-14.py) [W28](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-28.py)|
+Reading Excel files | Example: [W04 2021](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-04.py)
+```
+import pandas as pd
 
+df = pd.read_excel('folder\\filename.xlsx', engine='openpyxl', sheet_name = 'Sheet1')
+```
+
+Reading and aggregrating Excel tabs | Example: [W21 2021](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-21.py)
+```
+import pandas as pd
+
+# Read all Excel tabs and concat as one dateframe
+all_tabs = pd.read_excel('folder\\filename.xlsx', sheet_name=None)
+
+# Bring all the sheets together
+all_dfs = []
+for tab_name, df in all_tabs.items():
+    df['sheet_name'] = tab_name
+    all_dfs.append(df)
+    combined_df = pd.concat(all_dfs, ignore_index=True)
+```
+
+### Writing Files
+
+Writing csv files with utf-8 encoding | Example: [W10 2021](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-10.py)
+```
+import pandas as pd
+
+df.to_csv('folder\\filename.csv', encoding='utf-8-sig', index=False)
+```
+
+Writing Excel files with utf-8 encoding | Example: [W14 2021](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-14.py)
+```
+import pandas as pd
+
+with pd.ExcelWriter('folder\\filename.xlsx') as writer:  
+    df_1.to_excel(writer, sheet_name='Sheet1', index=False)
+    df_2.to_excel(writer, sheet_name='Sheet2', index=False)
+    df_3.to_excel(writer, sheet_name='Sheet3', index=False)
+```
