@@ -1,13 +1,22 @@
 <h1 style="font-weight:normal">
-  Preppin' Data
+  Preppin' Data with Python :snake:
 </h1>
 
+Solving [Preppin' Data Challenges](https://preppindata.blogspot.com/) with Python
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/wjsutton/preppin-data.svg)](https://github.com/wjsutton/preppin-data/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wjsutton/preppin-data.svg)](https://github.com/wjsutton/preppin-data/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-My solutions to the [Preppin' Data Challenges](https://preppindata.blogspot.com/) with Python :snake:
-
 [Twitter][Twitter] :speech_balloon:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[LinkedIn][LinkedIn] :necktie:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[GitHub :octocat:][GitHub]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Website][Website] :link:
+
+## :a: About 
+
+At the start of 2021 I wanted to improve my data prep skills with Python. 
+
+[Preppin' Data](https://preppindata.blogspot.com/) is a weekly data prep challenge built around [Tableau Prep](https://www.tableau.com/en-gb/products/prep) but the challenges apply to other tools and even coding languages, so ideal practice if you're looking to improve your data prep skills. 
+
+From participating, I'm much more confident in Python and use Python in projects such as working out the [life expectancy of chess pieces](https://github.com/wjsutton/life_expectancy_in_chess) and finding the [resale value of Pokemon trading cards](https://github.com/wjsutton/pokemon_tcg_stockmarket).
+
+Below are my solutions and Python code snippets I regularly use in these challenges.
 
 
 <!--
@@ -19,7 +28,7 @@ Quick Link
 [GitHub]:https://github.com/wjsutton
 [Website]:https://wjsutton.github.io/
 
-### 2021 Solutions
+## :white_check_mark: 2021 Solutions
 
 | Challenge     | Solution |Challenge     | Solution |Challenge     | Solution |Challenge     | Solution |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -40,9 +49,16 @@ Quick Link
 ---
 
 
-### Python Snippets
+## :snake: Python Snippets
 
-##### Reading & Writing Files
+### Reading & Writing Files
+
+Reading csv files
+```
+import pandas as pd
+
+df = pd.read_csv('folder\\filename.csv')
+```
 
 | Technique   | Examples from Challenges  |
 | ----------- | ----------- |
