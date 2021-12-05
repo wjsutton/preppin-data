@@ -67,7 +67,7 @@ import pandas as pd
 df = pd.read_excel('folder\\filename.xlsx', engine='openpyxl', sheet_name = 'Sheet1')
 ```
 
-Reading and aggregrating Excel tabs | Example: [W21 2021](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-21.py)
+Reading and aggregrating multiple Excel tabs | Example: [W21 2021](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-21.py)
 ```
 import pandas as pd
 
@@ -82,6 +82,13 @@ for tab_name, df in all_tabs.items():
     combined_df = pd.concat(all_dfs, ignore_index=True)
 ```
 
+Skipping rows and columns in an Excel tab | Example: [W48 2021](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-48.py)
+```
+import pandas as pd
+
+df = pd.read_excel('folder\\filename.xlsx', engine='openpyxl', sheet_name='Sheet1',nrows= 3,skiprows = range(1,7), usecols = "B:D")
+```
+
 ### Writing Files
 
 Writing csv files with utf-8 encoding | Example: [W10 2021](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-10.py)
@@ -91,7 +98,7 @@ import pandas as pd
 df.to_csv('folder\\filename.csv', encoding='utf-8-sig', index=False)
 ```
 
-Writing Excel files with utf-8 encoding | Example: [W14 2021](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-14.py)
+Writing Excel files | Example: [W14 2021](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-14.py)
 ```
 import pandas as pd
 
