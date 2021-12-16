@@ -42,7 +42,7 @@ Quick Link
 | [Week 08](https://preppindata.blogspot.com/2021/02/2021-week-8-karaoke-data.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-08.py)       | [Week 21](https://preppindata.blogspot.com/2021/05/2021-week-21-getting-trolleyed.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-21.py)      | [Week 34](https://preppindata.blogspot.com/2021/08/2021-week-34-excelling-with-lookups.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-34.py)      | [Week 47](https://preppindata.blogspot.com/2021/11/2021-week-47-games-night-viz-collab.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-47.py) 
 | [Week 09](https://preppindata.blogspot.com/2021/03/2021-week-9-working-with-strings.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-09.py)       | [Week 22](https://preppindata.blogspot.com/2021/06/2021-week-22-answer-smash.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-22.py)      | [Week 35](https://preppindata.blogspot.com/2021/09/2021-week-35-picture-perfect.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-35.py)      | [Week 48](https://preppindata.blogspot.com/2021/12/2021-week-48-departmental-december.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-48.py) 
 | [Week 10](https://preppindata.blogspot.com/2021/02/2021-week-10-pokemon-hierarchies.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-10.py)       | [Week 23](https://preppindata.blogspot.com/2021/06/2021-week-23-nps-for-airlines.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-23.py)      | [Week 36](https://preppindata.blogspot.com/2021/09/2021-week-36-whats-trendy.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-36.py)      |  [Week 49](https://preppindata.blogspot.com/2021/12/2021-week-49-departmental-december.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-49.py) 
-| [Week 11](https://preppindata.blogspot.com/2021/03/2021-week-11-cocktail-profit-margins.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-11.py)       | [Week 24](https://preppindata.blogspot.com/2021/06/2021-week-24-c-co-absence-monitoring.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-24.py) | [Week 37](https://preppindata.blogspot.com/2021/09/2021-week-37-re-looking-at-phone.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-37.py)      | 
+| [Week 11](https://preppindata.blogspot.com/2021/03/2021-week-11-cocktail-profit-margins.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-11.py)       | [Week 24](https://preppindata.blogspot.com/2021/06/2021-week-24-c-co-absence-monitoring.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-24.py) | [Week 37](https://preppindata.blogspot.com/2021/09/2021-week-37-re-looking-at-phone.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-37.py)      | [Week 50](https://preppindata.blogspot.com/2021/12/2021-week-50-departmental-december-sales.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-50.py) 
 | [Week 12](https://preppindata.blogspot.com/2021/03/2021-week-12-maldives-tourism.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-12.py)       | [Week 25](https://preppindata.blogspot.com/2021/06/2021-week-25-worst-pokemon.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-25.py) | [Week 38](https://preppindata.blogspot.com/2021/09/2021-week-38-trilogy.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-38.py)      | 
 | [Week 13](https://preppindata.blogspot.com/2021/03/2021-week-13.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-13.py)       | [Week 26](https://preppindata.blogspot.com/2021/06/2021-week-26-rolling-weekly-revenue.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-26.py) | [Week 39](https://preppindata.blogspot.com/2021/09/2021-week-39-painting-bikes.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-39.py)      | 
 
@@ -106,4 +106,48 @@ with pd.ExcelWriter('folder\\filename.xlsx') as writer:
     df_1.to_excel(writer, sheet_name='Sheet1', index=False)
     df_2.to_excel(writer, sheet_name='Sheet2', index=False)
     df_3.to_excel(writer, sheet_name='Sheet3', index=False)
+```
+
+### DataFrame Transformations
+
+Unioning dataframes together with concat
+```
+import pandas as pd
+
+df_total = pd.concat([df1,df2,df3])
+```
+
+Replacing null values with zero, blank, previous or preceeding values
+```
+import pandas as pd
+
+# replace nulls with zeroes
+df['Column with nulls'] = df['Column with nulls'].fillna(0)
+
+# replace nulls with empty string (blank)
+df['Column with nulls'] = df['Column with nulls'].fillna('')
+
+# replace nulls with previous non-null value
+df['Column with nulls'] = df['Column with nulls'].fillna(method='ffill')
+
+# replace nulls with next non-null value
+df['Column with nulls'] = df['Column with nulls'].fillna(method='bfill')
+```
+
+### Aggregrating data
+
+Create aggregrated columns grouped by other columns
+```
+import pandas as pd
+
+df = df.groupby(['Col1','Col2']).agg(col3_min=('Col3','min'),col3_max=('Col3','max'),col3_sum=('Col3','sum')).reset_index()
+```
+
+### Data Clean-up
+
+Rename single column
+```
+import pandas as pd
+
+df.rename( columns={'Col1':'Col1_New_Name'}, inplace=True )
 ```
