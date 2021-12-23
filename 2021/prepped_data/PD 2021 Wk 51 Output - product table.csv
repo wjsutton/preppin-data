@@ -1,0 +1,61 @@
+﻿ProductID,Category,Sub-Category,Product Name,Unit Price,First Sold
+1,Furniture,Chairs,Armless Task Chair,£37.75,01/04/2021
+2,Technology,Phones,Bluetooth Headset,£86.99,01/04/2021
+3,Furniture,Bookcases,Bookcase,£60.07,01/04/2021
+4,Office Supplies,Labels,Colour-Coded Labels,£9.99,01/05/2021
+5,Office Supplies,Envelopes,Coloured Envelopes,£5.50,01/06/2021
+6,Furniture,Tables,Desk,£125.33,02/03/2021
+7,Furniture,Furnishings,Desk Lamp,£19.99,01/04/2021
+8,Furniture,Furnishings,Desk Lamp Bulbs,£10.00,02/01/2021
+9,Technology,Phones,Fast-charging Portable Charger,£15.64,02/01/2021
+10,Furniture,Chairs,Folding Chairs,£15.69,02/02/2021
+11,Office Supplies,Art,Highlighters,£2.69,02/03/2021
+12,Technology,Accessories,Keyboard,£19.94,01/04/2021
+13,Furniture,Tables,Laminate Occasional Tables,£464.29,01/06/2021
+14,Furniture,Chairs,Leather Highback Executive Chair,£96.82,01/04/2021
+15,Office Supplies,Storage,Lockers,£89.97,01/04/2021
+16,Office Supplies,Appliances,Microwave,£104.58,01/04/2021
+17,Technology,Phones,Motorola L703CM,£356.99,01/04/2021
+18,Technology,Phones,Motorola L804,£459.67,02/06/2021
+19,Furniture,Chairs,Operator's Chair,£20.87,01/04/2021
+20,Technology,Accessories,PC Headset,£45.89,01/06/2021
+21,Technology,Phones,Panasonic KX T7731-B Digital phone,£451.27,02/02/2021
+22,Technology,Phones,Panasonic KX TS3282W Corded phone,£297.50,02/03/2021
+23,Technology,Phones,Panasonic KX-TG9471B,£397.54,01/04/2021
+24,Technology,Phones,Panasonic Kx-TS550,£657.55,03/03/2021
+25,Office Supplies,Paper,Parchment Paper,£2.65,01/06/2021
+26,Office Supplies,Art,Pens,£5.69,02/02/2021
+27,Office Supplies,Labels,Permanent Self-Adhesive File Folder Labels,£7.80,01/04/2021
+28,Office Supplies,Art,Post-its,£3.33,01/01/2021
+29,Technology,Machines,Printer,£129.99,01/04/2021
+30,Office Supplies,Fasteners,Push Pins,£2.69,02/01/2021
+31,Office Supplies,Appliances,Refrigerator,£897.65,01/04/2021
+32,Furniture,Tables,Round Conference Table,£562.90,03/06/2021
+33,Furniture,Furnishings,Round Wall Clock,£8.80,02/03/2021
+34,Office Supplies,Fasteners,Rubber Bands,£4.87,01/04/2021
+35,Technology,Phones,Samsung Galaxy Note 2,£809.56,04/05/2021
+36,Technology,Machines,Shredder,£65.49,01/04/2021
+37,Furniture,Tables,Solid Wood Round Tables,£264.46,01/06/2021
+38,Technology,Phones,Speakerphone,£79.46,01/06/2021
+39,Furniture,Furnishings,Stackable Tray,£2.60,01/04/2021
+40,Office Supplies,Storage,Stacking Storage Drawers,£43.26,01/01/2021
+41,Furniture,Chairs,Task/Swivel Chairs,£43.29,01/04/2021
+42,Technology,Accessories,USB Wired Mouse,£5.99,01/06/2021
+43,Office Supplies,Appliances,Vaccuum,£605.39,02/03/2021
+44,Technology,Machines,Videoconferencing Unit,£168.76,01/04/2021
+45,Office Supplies,Envelopes,White Envelopes,£4.50,02/03/2021
+46,Office Supplies,Paper,Xerox 1897,£2.55,01/05/2021
+47,Office Supplies,Paper,Xerox 1901,£2.65,03/06/2021
+48,Office Supplies,Paper,Xerox 1925,£2.80,01/04/2021
+49,Office Supplies,Paper,Xerox 1933,£3.97,01/04/2021
+50,Office Supplies,Paper,Xerox 1936,£4.87,01/06/2021
+51,Office Supplies,Paper,Xerox 194,£5.17,01/04/2021
+52,Office Supplies,Paper,Xerox 1951,£5.67,01/04/2021
+53,Office Supplies,Paper,Xerox 1974,£5.99,01/04/2021
+54,Office Supplies,Paper,Xerox 1979,£6.45,01/01/2021
+55,Office Supplies,Paper,Xerox 200,£6.52,02/03/2021
+56,Office Supplies,Paper,Xerox 2000,£6.89,01/04/2021
+57,Office Supplies,Paper,Xerox 208,£7.14,01/01/2021
+58,Office Supplies,Paper,Xerox 219,£7.50,02/07/2021
+59,Office Supplies,Paper,Xerox 221,£7.80,02/06/2021
+60,Office Supplies,Paper,Xerox 232,£7.99,03/07/2021
