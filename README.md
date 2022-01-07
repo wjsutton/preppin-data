@@ -28,6 +28,13 @@ Quick Link
 [GitHub]:https://github.com/wjsutton
 [Website]:https://wjsutton.github.io/
 
+
+
+## :white_check_mark: 2022 Solutions
+
+| Challenge   | Solution |
+| ----------- | ----------- |
+| [Week 01](https://preppindata.blogspot.com/2022/01/2022-week-1-prep-school-parental.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2022/2022-week-01.py)  |
 ## :white_check_mark: 2021 Solutions
 
 | Challenge     | Solution |Challenge     | Solution |Challenge     | Solution |Challenge     | Solution |
@@ -47,7 +54,6 @@ Quick Link
 | [Week 13](https://preppindata.blogspot.com/2021/03/2021-week-13.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-13.py)       | [Week 26](https://preppindata.blogspot.com/2021/06/2021-week-26-rolling-weekly-revenue.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-26.py) | [Week 39](https://preppindata.blogspot.com/2021/09/2021-week-39-painting-bikes.html)      |  [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-39.py)      | [Week 52](https://preppindata.blogspot.com/2021/12/2021-week-52-departmental-december.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2021/2021-week-52.py) 
 
 ---
-
 
 ## :snake: Python Snippets
 
