@@ -23,7 +23,7 @@ df['Parental Contact Email Address'] = df['Parental Contact Name_1'] + '.' + df[
 # convert date of birth to datetime
 df['Date of Birth'] = pd.to_datetime(df['Date of Birth'])
 # then return year, but if the month is earlier than Sept return year -1 to place academic year, deduct from 2015 to get academic year
-df['Academic Year'] = 2015 - df['Date of Birth'].map(lambda x: x.year if x.month > 9 else x.year-1)
+df['Academic Year'] = 2015 - df['Date of Birth'].map(lambda x: x.year if x.month >= 9 else x.year-1)
 
 # Remove any unnecessary columns of data 
 output_cols = ["Academic Year","Pupil's Name","Parental Contact Full Name","Parental Contact Email Address"]
