@@ -36,6 +36,7 @@ Quick Link
 | ----------- | ----------- |
 | [Week 01](https://preppindata.blogspot.com/2022/01/2022-week-1-prep-school-parental.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2022/2022-week-01.py)  |
 | [Week 02](https://preppindata.blogspot.com/2022/01/2022-week-2-prep-school-birthday-cakes.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2022/2022-week-02.py)  |
+| [Week 03](https://preppindata.blogspot.com/2022/01/2022-week-3-prep-school-passing-grades.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2022/2022-week-03.py)  |
 
 ## :white_check_mark: 2021 Solutions
 
