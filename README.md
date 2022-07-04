@@ -1,8 +1,8 @@
 <h1 style="font-weight:normal">
-  Preppin' Data with Python :snake:
+  Preppin' Data with Python :snake:, Alteryx :arrow_up:, and Tableau Prep :sparkles:
 </h1>
 
-Solving [Preppin' Data Challenges](https://preppindata.blogspot.com/) with Python
+Solving [Preppin' Data Challenges](https://preppindata.blogspot.com/) with Python, and now Alteryx and Tableau Prep.
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/wjsutton/preppin-data.svg)](https://github.com/wjsutton/preppin-data/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wjsutton/preppin-data.svg)](https://github.com/wjsutton/preppin-data/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
@@ -10,7 +10,7 @@ Solving [Preppin' Data Challenges](https://preppindata.blogspot.com/) with Pytho
 
 ## :a: About 
 
-At the start of 2021 I wanted to improve my data prep skills with Python. 
+At the start of 2021 I wanted to improve my data prep skills with Python. Now in 2022 I'm doing the same for Alteryx and Tableau Prep.
 
 [Preppin' Data](https://preppindata.blogspot.com/) is a weekly data prep challenge built around [Tableau Prep](https://www.tableau.com/en-gb/products/prep) but the challenges apply to other tools and even coding languages, so ideal practice if you're looking to improve your data prep skills. 
 
@@ -32,11 +32,12 @@ Quick Link
 
 ## :white_check_mark: 2022 Solutions
 
-| Challenge   | Solution |
-| ----------- | ----------- |
-| [Week 01](https://preppindata.blogspot.com/2022/01/2022-week-1-prep-school-parental.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2022/2022-week-01.py)  |
-| [Week 02](https://preppindata.blogspot.com/2022/01/2022-week-2-prep-school-birthday-cakes.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2022/2022-week-02.py)  |
-| [Week 03](https://preppindata.blogspot.com/2022/01/2022-week-3-prep-school-passing-grades.html)      | [Python](https://github.com/wjsutton/preppin-data/blob/main/2022/2022-week-03.py)  |
+| Challenge   | Python | Alteryx | Tableau Prep |
+| ----------- | ----------- | ----------- | ----------- |
+| [Week 01](https://preppindata.blogspot.com/2022/01/2022-week-1-prep-school-parental.html)      | [:snake:](https://github.com/wjsutton/preppin-data/blob/main/2022/2022-week-01.py)  | [:arrow_up:](https://github.com/wjsutton/preppin-data/blob/main/2022/alteryx_workflows/PD_2022_WK1.yxmd) | [:sparkles:](https://github.com/wjsutton/preppin-data/blob/main/2022/tableau_prep_flows/pd_2022_wk1.tfl)
+| [Week 02](https://preppindata.blogspot.com/2022/01/2022-week-2-prep-school-birthday-cakes.html)      | [:snake:](https://github.com/wjsutton/preppin-data/blob/main/2022/2022-week-02.py)  | [:arrow_up:](https://github.com/wjsutton/preppin-data/blob/main/2022/alteryx_workflows/PD_2022_WK2.yxmd) | [:sparkles:](https://github.com/wjsutton/preppin-data/blob/main/2022/tableau_prep_flows/pd_2022_wk2.tfl)
+| [Week 03](https://preppindata.blogspot.com/2022/01/2022-week-3-prep-school-passing-grades.html)      | [:snake:](https://github.com/wjsutton/preppin-data/blob/main/2022/2022-week-03.py)  | [:arrow_up:](https://github.com/wjsutton/preppin-data/blob/main/2022/alteryx_workflows/PD_2022_WK3.yxmd) | [:sparkles:](https://github.com/wjsutton/preppin-data/blob/main/2022/tableau_prep_flows/pd_2022_wk3.tfl)
+| [Week 04](https://preppindata.blogspot.com/2022/01/2022-week-4-prep-school-travel-plans.html) | | [:arrow_up:](https://github.com/wjsutton/preppin-data/blob/main/2022/alteryx_workflows/PD_2022_WK4.yxmd) | [:sparkles:](https://github.com/wjsutton/preppin-data/blob/main/2022/tableau_prep_flows/pd_2022_wk4.tfl)
 
 ## :white_check_mark: 2021 Solutions
 
