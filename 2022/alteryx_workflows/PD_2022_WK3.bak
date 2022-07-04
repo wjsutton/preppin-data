@@ -1,0 +1,342 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="42" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 3 Input.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>PD 2022 Wk 3 Input.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Student ID" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 3 Input.csv" type="V_String" />
+            <Field name="Maths" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 3 Input.csv" type="V_String" />
+            <Field name="English" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 3 Input.csv" type="V_String" />
+            <Field name="Spanish" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 3 Input.csv" type="V_String" />
+            <Field name="Science" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 3 Input.csv" type="V_String" />
+            <Field name="Art" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 3 Input.csv" type="V_String" />
+            <Field name="History" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 3 Input.csv" type="V_String" />
+            <Field name="Geography" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 3 Input.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="42" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="Path">C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 1 Input.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>PD 2022 Wk 1 Input.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="id" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 1 Input.csv" type="V_String" />
+            <Field name="pupil first name" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 1 Input.csv" type="V_String" />
+            <Field name="pupil last name" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 1 Input.csv" type="V_String" />
+            <Field name="gender" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 1 Input.csv" type="V_String" />
+            <Field name="Date of Birth" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 1 Input.csv" type="V_String" />
+            <Field name="Parental Contact Name_1" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 1 Input.csv" type="V_String" />
+            <Field name="Parental Contact Name_2" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 1 Input.csv" type="V_String" />
+            <Field name="Preferred Contact Employer" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 1 Input.csv" type="V_String" />
+            <Field name="Parental Contact" size="254" source="File: C:\Users\WillSutton\Documents\GitHub\preppin-data\2022\unprepped_data\PD 2022 Wk 1 Input.csv" type="V_String" />
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="318" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Student ID" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="id" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="162" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="id" selected="True" />
+            <SelectField field="pupil first name" selected="True" />
+            <SelectField field="pupil last name" selected="True" />
+            <SelectField field="gender" selected="True" />
+            <SelectField field="Date of Birth" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="162" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Student ID" selected="True" />
+            <SelectField field="Maths" selected="True" />
+            <SelectField field="English" selected="True" />
+            <SelectField field="Spanish" selected="True" />
+            <SelectField field="Science" selected="True" />
+            <SelectField field="Art" selected="True" />
+            <SelectField field="History" selected="True" />
+            <SelectField field="Geography" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="414" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Student ID" selected="True" />
+            <SelectField field="Maths" selected="True" />
+            <SelectField field="English" selected="True" />
+            <SelectField field="Spanish" selected="True" />
+            <SelectField field="Science" selected="True" />
+            <SelectField field="Art" selected="True" />
+            <SelectField field="History" selected="True" />
+            <SelectField field="Geography" selected="True" />
+            <SelectField field="gender" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="510" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="Student ID" />
+            <Field field="gender" />
+          </KeyFields>
+          <DataFields>
+            <Field field="Student ID" selected="False" />
+            <Field field="Maths" selected="True" />
+            <Field field="English" selected="True" />
+            <Field field="Spanish" selected="True" />
+            <Field field="Science" selected="True" />
+            <Field field="Art" selected="True" />
+            <Field field="History" selected="True" />
+            <Field field="Geography" selected="True" />
+            <Field field="gender" selected="False" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="594" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\WILLSU~1\AppData\Local\Temp\Engine_14128_5e0ea84ca527f14ebc27e62e97af27ee_\Engine_14128_d9bc7cd323b90745bbb7e9b5ad884566~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Join" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="3" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="3" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>PD_2022_WK3</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="154cb500-68c9-4816-aa40-ae7b2b241aa7" />
+      <Telemetry>
+        <PreviousWorkflowId value="b5d87a37-9769-46a8-b7fa-fe6d2b88f75e" />
+        <OriginWorkflowId value="b5d87a37-9769-46a8-b7fa-fe6d2b88f75e" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
