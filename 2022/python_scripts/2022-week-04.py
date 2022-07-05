@@ -57,6 +57,6 @@ df = df[['Sustainable?','Method of Travel','Weekday','trips','trips_per_day','% 
 df = df.rename(columns={'trips':'Number of Trips','trips_per_day':'Trips per day'})
 
 # Writing data to csv
-df.to_csv('2022\\python_scripts\\outputs\\PD 2021 Wk 4 Output.csv', encoding="utf-8-sig", index=False)
+df.to_csv('2022\\python_scripts\\outputs\\PD 2022 Wk 4 Output.csv', encoding="utf-8-sig", index=False)
 
 print("data prepped!")
