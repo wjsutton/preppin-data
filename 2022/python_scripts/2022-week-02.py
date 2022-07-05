@@ -39,6 +39,6 @@ output_cols =['Pupil Name','Date of Birth',"This Year's Birthday","Month","Cake 
 df = df[output_cols]
 
 # Output the data 
-df.to_csv('2022\\prepped_data\\PD 2022 Wk 2 Output.csv', index=False)
+df.to_csv('2022\\python_scripts\\outputs\\PD 2022 Wk 2 Output.csv', index=False)
 
 print("data prepped!")
