@@ -30,6 +30,6 @@ output_cols = ["Academic Year","Pupil's Name","Parental Contact Full Name","Pare
 df = df[output_cols]
 
 # Output the data 
-df.to_csv('2022\\prepped_data\\PD 2022 Wk 1 Output.csv', index=False)
+df.to_csv('2022\\python_scripts\\outputs\\PD 2022 Wk 1 Output.csv', index=False)
 
 print("data prepped!")

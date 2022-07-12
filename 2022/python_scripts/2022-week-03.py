@@ -37,6 +37,6 @@ col_order = ['Passed Subjects',"Student's Avg Score",'Student ID','Gender']
 df = df[col_order]
 
 # Writing data to csv
-df.to_csv('2022\\prepped_data\\PD 2021 Wk 3 Output.csv', encoding="utf-8-sig", index=False)
+df.to_csv('2022\\python_scripts\\outputs\\PD 2021 Wk 3 Output.csv', encoding="utf-8-sig", index=False)
 
 print("data prepped!")
