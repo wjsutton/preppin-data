@@ -33,7 +33,7 @@ Quick Link
 
 | Challenge   | Python | R | SQL |
 | ----------- | ----------- | ----------- | ----------- |
-| [Week 01](https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html)      | [:snake:](https://github.com/wjsutton/preppin-data/blob/main/2023/python/2023_week_01.py)  | [R](https://github.com/wjsutton/preppin-data/blob/main/2023/R/2023_week_01.R) | [SQL](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_01.sql) |
+| [Week 01](https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html)      | [:snake:](https://github.com/wjsutton/preppin-data/blob/main/2023/python/2023_week_01.py)  | [:pirate_flag:](https://github.com/wjsutton/preppin-data/blob/main/2023/R/2023_week_01.R) | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_01.sql) |
 
 ## :white_check_mark: 2022 Solutions
 
