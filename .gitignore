@@ -1,1 +1,4 @@
 *.code-workspace
+.Rproj.user
+.Rhistory
+preppin-data.Rproj
