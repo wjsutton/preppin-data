@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal">
-  Preppin' Data with Python :snake:, Alteryx :arrow_up:, and Tableau Prep :sparkles:
+  Preppin' Data with Python :snake:, R :pirate_flag:, SQL :snowflake:, Alteryx :arrow_up:, and Tableau Prep :sparkles:
 </h1>
 
 Solving [Preppin' Data Challenges](https://preppindata.blogspot.com/) with Python, and now Alteryx and Tableau Prep.
