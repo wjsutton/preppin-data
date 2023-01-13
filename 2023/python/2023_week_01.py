@@ -32,8 +32,8 @@ output_2 = df.groupby(['Bank','Online or In-Person','Transaction Date'],as_index
 output_3 = df.groupby(['Bank','Customer Code'],as_index=False)['Value'].sum()
 
 # Output each data file
-output_1.to_csv('2023\\python\\outputs\\pd2023wk01_output1',index=False)
-output_2.to_csv('2023\\python\\outputs\\pd2023wk01_output2',index=False)
-output_3.to_csv('2023\\python\\outputs\\pd2023wk01_output3',index=False)
+output_1.to_csv('2023\\python\\outputs\\pd2023wk01_output1.csv',index=False)
+output_2.to_csv('2023\\python\\outputs\\pd2023wk01_output2.csv',index=False)
+output_3.to_csv('2023\\python\\outputs\\pd2023wk01_output3.csv',index=False)
 
 print('data prepped!')
