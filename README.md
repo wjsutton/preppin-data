@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal">
-  Preppin' Data with Python :snake:, Alteryx :arrow_up:, and Tableau Prep :sparkles:
+  Preppin' Data with Python :snake:, R :pirate_flag:, SQL :snowflake:, Alteryx :arrow_up:, and Tableau Prep :sparkles:
 </h1>
 
 Solving [Preppin' Data Challenges](https://preppindata.blogspot.com/) with Python, and now Alteryx and Tableau Prep.
@@ -29,6 +29,11 @@ Quick Link
 [Website]:https://wjsutton.github.io/
 
 
+## :white_check_mark: 2023 Solutions
+
+| Challenge   | Python | R | SQL |
+| ----------- | ----------- | ----------- | ----------- |
+| [Week 01](https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html)      | [:snake:](https://github.com/wjsutton/preppin-data/blob/main/2023/python/2023_week_01.py)  | [:pirate_flag:](https://github.com/wjsutton/preppin-data/blob/main/2023/R/2023_week_01.R) | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_01.sql) |
 
 ## :white_check_mark: 2022 Solutions
 
