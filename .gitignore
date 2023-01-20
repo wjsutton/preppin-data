@@ -1,4 +1,5 @@
 *.code-workspace
 .Rproj.user
 .Rhistory
+__pycache__
 preppin-data.Rproj

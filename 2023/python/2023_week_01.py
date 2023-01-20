@@ -17,7 +17,7 @@ df['Bank'] = df['Transaction Code'].str.split('-',expand=True)[0]
 df['Online or In-Person'] = np.where(df['Online or In-Person'] == 1,'Online','In-Person')
 
 # Change the date to be the day of the week 
-df['Transaction Date'] = pd.to_datetime(df['Transaction Date'])
+df['Transaction Date'] = pd.to_datetime(df['Transaction Date'], format='%d/%m/%Y %H:%M:%S')
 df['Transaction Date'] = df['Transaction Date'].dt.day_name()
 
 # Different levels of detail are required in the outputs. 
