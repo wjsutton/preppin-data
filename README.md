@@ -37,6 +37,10 @@ Quick Link
 | [Week 02](https://preppindata.blogspot.com/2023/01/2023-week-2-international-bank-account.html)      | [:snake:](https://github.com/wjsutton/preppin-data/blob/main/2023/python/2023_week_02.py)  | [:pirate_flag:](https://github.com/wjsutton/preppin-data/blob/main/2023/R/2023_week_02.R) | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_02.sql) |
 | [Week 03](https://preppindata.blogspot.com/2023/01/2023-week-3-targets-for-dsb.html)      | [:snake:](https://github.com/wjsutton/preppin-data/blob/main/2023/python/2023_week_03.py)  | [:pirate_flag:](https://github.com/wjsutton/preppin-data/blob/main/2023/R/2023_week_03.R) | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_03.sql) |
 | [Week 04](https://preppindata.blogspot.com/2023/01/2023-week-4-new-customers.html)      | [:snake:](https://github.com/wjsutton/preppin-data/blob/main/2023/python/2023_week_04.py)  | [:pirate_flag:](https://github.com/wjsutton/preppin-data/blob/main/2023/R/2023_week_04.R) | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_04.sql) |
+| [Week 05](https://preppindata.blogspot.com/2023/02/2023-week-5-dsb-ranking.html)      |  |  | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_05.sql) |
+| [Week 06](https://preppindata.blogspot.com/2023/02/2023-week-6-dsb-customer-ratings.html)      |  |  | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_06.sql) |
+| [Week 07](https://preppindata.blogspot.com/2023/02/2023-week-7-flagging-fraudulent.html)      |  |  | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_07.sql) |
+| [Week 08](https://preppindata.blogspot.com/2023/02/2023-week-8-taking-stock.html)      |  |  | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_08.sql) |
 
 ## :white_check_mark: 2022 Solutions
 
