@@ -41,6 +41,10 @@ Quick Link
 | [Week 06](https://preppindata.blogspot.com/2023/02/2023-week-6-dsb-customer-ratings.html)      |  |  | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_06.sql) |
 | [Week 07](https://preppindata.blogspot.com/2023/02/2023-week-7-flagging-fraudulent.html)      |  |  | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_07.sql) |
 | [Week 08](https://preppindata.blogspot.com/2023/02/2023-week-8-taking-stock.html)      |  |  | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_08.sql) |
+| [Week 09](https://preppindata.blogspot.com/2023/03/2023-week-9-customer-bank-statements.html)      |  |  | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_09.sql) |
+| [Week 10](https://preppindata.blogspot.com/2023/03/2023-week-10-whats-my-balance-on-this.html)      |  |  | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_10.sql) |
+| [Week 11](https://preppindata.blogspot.com/2023/03/2023-week-11-which-customers-are-closest.html)      |  |  | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_11.sql) |
+| [Week 12](https://preppindata.blogspot.com/2023/03/2023-week-12-regulatory-reporting.html)      |  |  | [:snowflake:](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_12.sql) |
 
 ## :white_check_mark: 2022 Solutions
 
